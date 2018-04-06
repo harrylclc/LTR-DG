@@ -43,7 +43,7 @@ Each file is in the same format as that for MCQL.
     train_neg.json | 11679 MCQs | Training set|
     valid_neg.json | 1000 MCQs  | Validation set |
     test_neg.json | 1000 MCQs | Test set |
-    vocab.txt | 13679 unique distractors | Candidate distractors |
+    vocab.txt | 22379 unique distractors | Candidate distractors |
     
 ## References
 Please cite the following papers if you use this data.
