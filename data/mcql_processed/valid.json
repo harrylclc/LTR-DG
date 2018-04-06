@@ -1,0 +1,5402 @@
+[
+    {
+        "answer": "neural folds",
+        "distractors": [
+            "neural plate",
+            "neural groove",
+            "yolk"
+        ],
+        "sentence": "Somites are compact cell masses lying immediately lateral to"
+    },
+    {
+        "answer": "presence of impurities like salts",
+        "distractors": [
+            "lowering freezing point of water",
+            "presence of breathing animals in it",
+            "elevation of boiling point"
+        ],
+        "sentence": "Rare freezing of sea water can be explained through"
+    },
+    {
+        "answer": "ray",
+        "distractors": [
+            "wave",
+            "path",
+            "light perimeter"
+        ],
+        "sentence": "Straight line in which light travels is called"
+    },
+    {
+        "answer": "non directional",
+        "distractors": [
+            "uni directional",
+            "bidirectional",
+            "straight"
+        ],
+        "sentence": "Forces which are present in ionic solids are"
+    },
+    {
+        "answer": "Plant diseases",
+        "distractors": [
+            "Animal Husbandry",
+            "Classification",
+            "Population Growth"
+        ],
+        "sentence": "Pathologists are people who learn about"
+    },
+    {
+        "answer": "v",
+        "distractors": [
+            "l",
+            "m",
+            "c"
+        ],
+        "sentence": "Symbol to represent speed of light in medium is"
+    },
+    {
+        "answer": "\u00e2\u0088\u0092183 \u00c2\u00b0C",
+        "distractors": [
+            "\u00e2\u0088\u0092483 \u00c2\u00b0C",
+            "\u00e2\u0088\u0092383 \u00c2\u00b0C",
+            "\u00e2\u0088\u0092283 \u00c2\u00b0C"
+        ],
+        "sentence": "Boiling point of oxygen is"
+    },
+    {
+        "answer": "liver",
+        "distractors": [
+            "kidneys",
+            "small intestine",
+            "pancreas"
+        ],
+        "sentence": "Conversion of glucose to glycogen occurs in"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "negligible mass",
+            "relative charge of -1",
+            "charge is opposite and equal to a proton"
+        ],
+        "sentence": "An electron has a"
+    },
+    {
+        "answer": "vertebrates",
+        "distractors": [
+            "echinoderms",
+            "nematodes",
+            "most birds"
+        ],
+        "sentence": "Blood flows through a closed system in"
+    },
+    {
+        "answer": "protonephridium",
+        "distractors": [
+            "metanephridium",
+            "malphigian tubules",
+            "exoluticus tubules"
+        ],
+        "sentence": "Network of closed tubules without internal openings are called"
+    },
+    {
+        "answer": "Mitochondrion",
+        "distractors": [
+            "Chloroplast",
+            "Cell sap",
+            "Centrioles"
+        ],
+        "sentence": "Adenosine triphosphate temporarily store energy produced with help of"
+    },
+    {
+        "answer": "decreases progressively",
+        "distractors": [
+            "increases progressively",
+            "increases aggressively",
+            "decreases aggressively"
+        ],
+        "sentence": "Along food chain , total energy level"
+    },
+    {
+        "answer": "decreased",
+        "distractors": [
+            "increased",
+            "remain",
+            "both a and b"
+        ],
+        "sentence": "In order to increase range of ammeter , value of shunt resistance Rs is"
+    },
+    {
+        "answer": "combined heat and power",
+        "distractors": [
+            "Compressed hydrogenated petrol",
+            "combustible halogenated propane",
+            "controlled hallucinating pressures"
+        ],
+        "sentence": "CHP stands for"
+    },
+    {
+        "answer": "straight",
+        "distractors": [
+            "curved",
+            "twisted",
+            "compressed"
+        ],
+        "sentence": "Saturated fatty acids chains are"
+    },
+    {
+        "answer": "repulsive force",
+        "distractors": [
+            "attractive force",
+            "opposite force",
+            "both a and b"
+        ],
+        "sentence": "In region of any positive point charge , other positive point charge feels"
+    },
+    {
+        "answer": "3atm",
+        "distractors": [
+            "2 atm",
+            "6 atm",
+            "5atm"
+        ],
+        "sentence": "Pressure felt by sea diver at every 100 feet is approximately"
+    },
+    {
+        "answer": "Minutes",
+        "distractors": [
+            "Hours",
+            "Seconds",
+            "Microseconds"
+        ],
+        "sentence": "Most of watches and wall clocks have precision of"
+    },
+    {
+        "answer": "all three",
+        "distractors": [
+            "fermented milk sugar",
+            "lactic acid",
+            "fats"
+        ],
+        "sentence": "To form cheese , a mixture of bacteria and fungi act upon"
+    },
+    {
+        "answer": "( no of moles )",
+        "distractors": [
+            "Pressure",
+            "Volume",
+            "Temperature"
+        ],
+        "sentence": "In Avogadro 's law volume is directly propotional to"
+    },
+    {
+        "answer": "medusae",
+        "distractors": [
+            "colony",
+            "flame cells",
+            "cysts"
+        ],
+        "sentence": "Cnidarians are usually found in two basic forms polyps and the"
+    },
+    {
+        "answer": "resistance of loop",
+        "distractors": [
+            "resistance of galvanometer",
+            "voltage of loop",
+            "current of loop"
+        ],
+        "sentence": "Induced current depends upon speed with which conductor moves and"
+    },
+    {
+        "answer": "wilt",
+        "distractors": [
+            "grow",
+            "flourish",
+            "regrow"
+        ],
+        "sentence": "If higher temperature persists for a longer periods of time , plant may"
+    },
+    {
+        "answer": "receptor neurons",
+        "distractors": [
+            "motor neurons",
+            "relay neurons",
+            "effector neurons"
+        ],
+        "sentence": "Sensory neurons are also called as"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "other species of birds",
+            "human beings",
+            "inanimate objects"
+        ],
+        "sentence": "A young bird in absence of parent may imprint"
+    },
+    {
+        "answer": "potential chemical energy",
+        "distractors": [
+            "potential kinetic energy",
+            "potential physical energy",
+            "adrenosine triphosphate"
+        ],
+        "sentence": "Stored energy found in most foods is called as"
+    },
+    {
+        "answer": "CaCl2",
+        "distractors": [
+            "Ca2Cl",
+            "CaCl",
+            "Ca3Cl2"
+        ],
+        "sentence": "Formula of Calcium chloride ionic bond is"
+    },
+    {
+        "answer": "arteries",
+        "distractors": [
+            "veins",
+            "capillaries",
+            "lymph vessels"
+        ],
+        "sentence": "Blood vessels which carry blood away from heart are known as"
+    },
+    {
+        "answer": "triploblastic",
+        "distractors": [
+            "problastic",
+            "diploblastic",
+            "monoblastic"
+        ],
+        "sentence": "All animals of Grade bilateria are"
+    },
+    {
+        "answer": "OR",
+        "distractors": [
+            "AND",
+            "NOT",
+            "NOR"
+        ],
+        "sentence": "Gate having output 1 only when one of its input is 1 is called"
+    },
+    {
+        "answer": "splashing",
+        "distractors": [
+            "bubbling",
+            "bumping",
+            "backflow"
+        ],
+        "sentence": "If tip of funnel touches side of beaker it avoids"
+    },
+    {
+        "answer": "weak electrolyte",
+        "distractors": [
+            "strong electrolyte",
+            "non-electrolyte",
+            "white in color"
+        ],
+        "sentence": "Sulfurous Acid ( H2SO3 ) is"
+    },
+    {
+        "answer": "Arteriosclerosis",
+        "distractors": [
+            "Atherosclerosis",
+            "both of them",
+            "Venusclerosis"
+        ],
+        "sentence": "Constriction and hardening of arteries occur in a condition known as"
+    },
+    {
+        "answer": "criss-cross",
+        "distractors": [
+            "zigzag",
+            "spiral",
+            "conjugated"
+        ],
+        "sentence": "Arrangement of molecules of a primary wall is in sequence of"
+    },
+    {
+        "answer": "chlorine",
+        "distractors": [
+            "ammonia",
+            "hydrogen chloride",
+            "hydrogen"
+        ],
+        "sentence": "Colored gas includes"
+    },
+    {
+        "answer": "limiting line",
+        "distractors": [
+            "extended line",
+            "series line",
+            "parallel line"
+        ],
+        "sentence": "When electron jumps from infinity orbit to n1 in Lyman series line developed is called"
+    },
+    {
+        "answer": "more for boys and lesser for girls",
+        "distractors": [
+            "more for girls and lesser for boys",
+            "same for both gender",
+            "can not be estimated"
+        ],
+        "sentence": "In Malaysia and Singapore , average daily energy requirements of boys compared to girls is"
+    },
+    {
+        "answer": "Both A and B",
+        "distractors": [
+            "can only exist in water",
+            "are highly ionic",
+            "are highly covalent"
+        ],
+        "sentence": "Hydroxonium ions ( H3O+ )"
+    },
+    {
+        "answer": "thermal equilibrium",
+        "distractors": [
+            "temperature constancy",
+            "thermal constancy",
+            "temperature equilibrium"
+        ],
+        "sentence": "If we feel no cold or hot , we call it"
+    },
+    {
+        "answer": "chromosomes",
+        "distractors": [
+            "cytosol",
+            "cell wall",
+            "vacuole"
+        ],
+        "sentence": "RNA is found in nucleolus of cell and DNA is found in"
+    },
+    {
+        "answer": "biodiversity",
+        "distractors": [
+            "population",
+            "community",
+            "geological periods"
+        ],
+        "sentence": "A change in evolution give rise to increase in"
+    },
+    {
+        "answer": "contagious",
+        "distractors": [
+            "harmless",
+            "venereal",
+            "fatal"
+        ],
+        "sentence": "Tuberculosis is a disease which is"
+    },
+    {
+        "answer": "bulb",
+        "distractors": [
+            "Rhizome",
+            "corm",
+            "stem tuber"
+        ],
+        "sentence": "Fleshy scale leaves are found in"
+    },
+    {
+        "answer": "Schneider",
+        "distractors": [
+            "Theodore",
+            "F. Sanger",
+            "Robert brown"
+        ],
+        "sentence": "Cell theory was given after working independently by"
+    },
+    {
+        "answer": "145 degree Celsius",
+        "distractors": [
+            "149 degree Celsius",
+            "180 degree Celsius",
+            "189 degree Celsius"
+        ],
+        "sentence": "Cholesteryl benzoate is milky liquid at"
+    },
+    {
+        "answer": "inert gases",
+        "distractors": [
+            "metals",
+            "non-metals",
+            "neutral oxides"
+        ],
+        "sentence": "Elements with full outermost shells are"
+    },
+    {
+        "answer": "balls",
+        "distractors": [
+            "grapes",
+            "squares",
+            "pencils"
+        ],
+        "sentence": "Packing of metals can be understood by taking example of packing of"
+    },
+    {
+        "answer": "out breath longer than in breath",
+        "distractors": [
+            "in breath longer than out breath",
+            "excessive breathing",
+            "holding breath"
+        ],
+        "sentence": "Over-breathing can be countered through"
+    },
+    {
+        "answer": "megagametophyte",
+        "distractors": [
+            "microgametophyte",
+            "both A and B",
+            "macrogametophyte"
+        ],
+        "sentence": "Megaspores produced after evolutionary phase germinated to form"
+    },
+    {
+        "answer": "macrophagous",
+        "distractors": [
+            "omnivores",
+            "fluid feeders",
+            "filter"
+        ],
+        "sentence": "Animals which feed on large pieces of food are called as"
+    },
+    {
+        "answer": "nitrogenous wastes",
+        "distractors": [
+            "bile pigments",
+            "creatinine",
+            "carbon dioxide"
+        ],
+        "sentence": "Kidneys are responsible for excretion of"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "metallic",
+            "covalent",
+            "ionic"
+        ],
+        "sentence": "Bonding can be"
+    },
+    {
+        "answer": "microaerophillic",
+        "distractors": [
+            "macroaerophilic",
+            "aerobic",
+            "anaerobic"
+        ],
+        "sentence": "Campylobacter require a very low concentration of oxygen for growth therefore it is called as"
+    },
+    {
+        "answer": "liquid crystals",
+        "distractors": [
+            "liquids",
+            "gases",
+            "nitrogen"
+        ],
+        "sentence": "Diffraction of light is a property of"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "min",
+            "max"
+        ],
+        "sentence": "A body at rest or moving with uniform velocity will have acceleration"
+    },
+    {
+        "answer": "four phases",
+        "distractors": [
+            "two phases",
+            "three phases",
+            "five phases"
+        ],
+        "sentence": "Menstrual cycle can be divided into"
+    },
+    {
+        "answer": "dilute HNO3 + Ba ( NO3 ) 2 shall be added",
+        "distractors": [
+            "dilute HCl shall be added",
+            "dilute NaOH shall be added",
+            "Diazo agent shall be used"
+        ],
+        "sentence": "In order to test presence of sulphates ,"
+    },
+    {
+        "answer": "insoluble",
+        "distractors": [
+            "soluble",
+            "stable",
+            "instable"
+        ],
+        "sentence": "Macromolecules helps in formation of cell because they are"
+    },
+    {
+        "answer": "transverse waves",
+        "distractors": [
+            "longitudinal waves",
+            "both transverse and longitudinal waves",
+            "none of waves"
+        ],
+        "sentence": "Sound is a bad example of"
+    },
+    {
+        "answer": "molten mercury",
+        "distractors": [
+            "molten steel",
+            "molten iron",
+            "molten copper"
+        ],
+        "sentence": "Every liquid is a poor conductor of electricity instead of"
+    },
+    {
+        "answer": "insulators",
+        "distractors": [
+            "electrodes",
+            "electrolytes",
+            "metals"
+        ],
+        "sentence": "Since ions are held in fixed positions by strong forces , electricity is not conducted by"
+    },
+    {
+        "answer": "cells will start to plasmolysis",
+        "distractors": [
+            "start to loose stomata",
+            "roots will look for more water",
+            "cells will start to photosynthesize"
+        ],
+        "sentence": "If rate of water evaporation exceeds rate of water in-take , plant cells will"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "cell division",
+            "elongation",
+            "differentiation"
+        ],
+        "sentence": "In plants , growth and development involve"
+    },
+    {
+        "answer": "burning of fossil fuels",
+        "distractors": [
+            "soil erosion",
+            "flooding",
+            "climate changes"
+        ],
+        "sentence": "Consequences of deforestation includes"
+    },
+    {
+        "answer": "amorphous solids",
+        "distractors": [
+            "crystalline solids",
+            "regular solids",
+            "virtual solids"
+        ],
+        "sentence": "Non definite heat of fusion is a property of"
+    },
+    {
+        "answer": "Ze+",
+        "distractors": [
+            "Fe+",
+            "Ne+",
+            "Ze-"
+        ],
+        "sentence": "For derivation of radius charge on nucleus is assumed to be"
+    },
+    {
+        "answer": "zygote",
+        "distractors": [
+            "endosperm nucleus",
+            "testa",
+            "antipodes"
+        ],
+        "sentence": "Embryo of seed is developed through"
+    },
+    {
+        "answer": "2 Bev",
+        "distractors": [
+            "zero",
+            "evB",
+            "evB/2"
+        ],
+        "sentence": "A helium nucleus enters perpendicularly in magnetic field 'B ' with velocity 'v ' , then magnetic force acting on it will be"
+    },
+    {
+        "answer": "inversely propotional",
+        "distractors": [
+            "directly propotional",
+            "propotional",
+            "none"
+        ],
+        "sentence": "According to Boyle 's law pressure and volume are"
+    },
+    {
+        "answer": "Type B",
+        "distractors": [
+            "Type A",
+            "Type C",
+            "Type D"
+        ],
+        "sentence": "Molecules in pressure correction equation which attracts other molecules inward are termed as"
+    },
+    {
+        "answer": "30 %",
+        "distractors": [
+            "50 %",
+            "25 %",
+            "80 %"
+        ],
+        "sentence": "A car uses total energy of 2500 J and output is 750 J. efficiency of car is"
+    },
+    {
+        "answer": "lungs",
+        "distractors": [
+            "right atrium",
+            "left atrium",
+            "pulmonary arch"
+        ],
+        "sentence": "Pulmonary arteries lead to"
+    },
+    {
+        "answer": "urea cycle",
+        "distractors": [
+            "kreb 's cycle",
+            "ammonia cycle",
+            "urea cycle"
+        ],
+        "sentence": "Metabolic pathway in production of urea from nitrogenous waste is known as"
+    },
+    {
+        "answer": "conserved",
+        "distractors": [
+            "increasing",
+            "decreasing",
+            "same"
+        ],
+        "sentence": "If fluid is incompressible and is steady , its mass is"
+    },
+    {
+        "answer": "embryo",
+        "distractors": [
+            "vegetative nucleus",
+            "generative nucleus",
+            "zygote"
+        ],
+        "sentence": "Cotyledons gets developed from"
+    },
+    {
+        "answer": "1067 \u00c2\u00b0C",
+        "distractors": [
+            "1020 \u00c2\u00b0C",
+            "1033 \u00c2\u00b0C",
+            "1054 \u00c2\u00b0C"
+        ],
+        "sentence": "Gold has melting point of"
+    },
+    {
+        "answer": "daily",
+        "distractors": [
+            "weekly",
+            "fortnightly",
+            "can easily be stored in body for later use"
+        ],
+        "sentence": "Water-soluble vitamins need to be supplied"
+    },
+    {
+        "answer": "luteinizing hormone ( LH )",
+        "distractors": [
+            "follicle stimulating hormone ( FSH )",
+            "thyroid stimulating hormone ( TSH )",
+            "somatotrophin hormone ( STH )"
+        ],
+        "sentence": "Release of ovum from follicle or ovulation is induced by"
+    },
+    {
+        "answer": "200 J K-1",
+        "distractors": [
+            "50 J K-1",
+            "100 J K-1",
+            "400 J K-1"
+        ],
+        "sentence": "An electric kettle raises temperature of tea from 50 \u00c2\u00b0C to 125 \u00c2\u00b0C with usage of 15000 J of thermal energy , heat capacity of tea is"
+    },
+    {
+        "answer": "HCO3",
+        "distractors": [
+            "HCO2",
+            "HCO4",
+            "H2CO3"
+        ],
+        "sentence": "Formula of Hydrogen Carbonate ion is"
+    },
+    {
+        "answer": "completely separates right and left sides of heart",
+        "distractors": [
+            "allows exchange of blood between right and left atrium",
+            "allows exchange of blood between right and left ventricle",
+            "is a semi-permeable membrane"
+        ],
+        "sentence": "Median septum"
+    },
+    {
+        "answer": "phytophthora infestans",
+        "distractors": [
+            "phytophthora",
+            "infestants",
+            "None of Above"
+        ],
+        "sentence": "Late blight of potatoes is caused by a pathogen named as"
+    },
+    {
+        "answer": "none of above",
+        "distractors": [
+            "permanent",
+            "semi-permanent",
+            "large and central"
+        ],
+        "sentence": "Vacuoles of animal cells are"
+    },
+    {
+        "answer": "Gravitational Potential Energy",
+        "distractors": [
+            "Chemical Potential Energy",
+            "Elastic Potential Energy",
+            "Kinetic energy"
+        ],
+        "sentence": "When a pendulum bob is displaced to one side , it gains"
+    },
+    {
+        "answer": "200 ml",
+        "distractors": [
+            "300 ml",
+            "100 ml",
+            "400 ml"
+        ],
+        "sentence": "One liter of air contain oxygen about"
+    },
+    {
+        "answer": "orthorhombic",
+        "distractors": [
+            "cubic",
+            "needle like",
+            "sugar like"
+        ],
+        "sentence": "Crystalline form of nickel sulphate is"
+    },
+    {
+        "answer": "Ax + Bx",
+        "distractors": [
+            "Ax + By",
+            "Ax - Bx",
+            "Ax - By"
+        ],
+        "sentence": "Vector 's x-components are represented by formula of"
+    },
+    {
+        "answer": "movement of particles",
+        "distractors": [
+            "vibration of particles",
+            "collision of particles",
+            "intermolecular forces"
+        ],
+        "sentence": "In fluids , kinetic energy is due to"
+    },
+    {
+        "answer": "acquired immune deficiency syndrome",
+        "distractors": [
+            "Acquired Iodine deficiency syndrome",
+            "acquired inherited defective syndrome",
+            "acquired immune deflated sensations"
+        ],
+        "sentence": "AIDS stands for"
+    },
+    {
+        "answer": "dipeptides",
+        "distractors": [
+            "fats",
+            "maltose",
+            "polypeptides"
+        ],
+        "sentence": "Enzyme erypsin gives off amino acids with help of substrate"
+    },
+    {
+        "answer": "2:01:04",
+        "distractors": [
+            "1:01:03",
+            "5:08",
+            "7:09"
+        ],
+        "sentence": "Orthorhombic crystals usually exists in ratio of"
+    },
+    {
+        "answer": "jaundice",
+        "distractors": [
+            "cancer",
+            "hepatitis",
+            "measles"
+        ],
+        "sentence": "If bile pigments accumulate in blood , it can cause"
+    },
+    {
+        "answer": "water vapors",
+        "distractors": [
+            "hydroxides",
+            "dilute acids",
+            "hydrogen gas"
+        ],
+        "sentence": "On burning , hydrogen is changed into"
+    },
+    {
+        "answer": "unity",
+        "distractors": [
+            "two",
+            "three",
+            "four"
+        ],
+        "sentence": "Mole fraction of each gas is always less than"
+    },
+    {
+        "answer": "blue",
+        "distractors": [
+            "red",
+            "green",
+            "yellow"
+        ],
+        "sentence": "Alkalis turn Universal indicators"
+    },
+    {
+        "answer": "momentum",
+        "distractors": [
+            "waves",
+            "straight path",
+            "velocity"
+        ],
+        "sentence": "Cathode rays can move a paddle in their path this shows that they have"
+    },
+    {
+        "answer": "melting salted ice",
+        "distractors": [
+            "depression of freezing point of ice",
+            "latent heat of freezing",
+            "melting pure ice"
+        ],
+        "sentence": "Range of \u00e2\u0088\u00925 oC to \u00e2\u0088\u009225 oC is of"
+    },
+    {
+        "answer": "larynx is lowered , glottis is open",
+        "distractors": [
+            "larynx is lowered and windpipe is opened",
+            "larynx is raised and epiglottis blocks glottis",
+            "larynx is raised and pharynx is shut"
+        ],
+        "sentence": "During breathing"
+    },
+    {
+        "answer": "progesterone",
+        "distractors": [
+            "estrogen",
+            "testosterone",
+            "oxytocin"
+        ],
+        "sentence": "Endometrium is made receptive for implantation of zygote by"
+    },
+    {
+        "answer": "nitrates",
+        "distractors": [
+            "bicarbonates",
+            "carbonates",
+            "sulfates"
+        ],
+        "sentence": "Bacteria fix nitrogen in soil converting in into"
+    },
+    {
+        "answer": "Gold",
+        "distractors": [
+            "Mercury",
+            "Platinum",
+            "Copper"
+        ],
+        "sentence": "Electrode may not be made up of"
+    },
+    {
+        "answer": "amylase",
+        "distractors": [
+            "protease",
+            "pepsin",
+            "maltase"
+        ],
+        "sentence": "Enzyme to digest starch ( C6H10O5 ) n to sugar maltose ( C12H22O11 ) is"
+    },
+    {
+        "answer": "0.125",
+        "distractors": [
+            "1.1",
+            "0.23",
+            "1.3"
+        ],
+        "sentence": "Cross-sectional area of water hose having radius of 0.2 m is"
+    },
+    {
+        "answer": "inertia",
+        "distractors": [
+            "Mass",
+            "Time",
+            "Weight"
+        ],
+        "sentence": "Reluctance of object to change its state of rest or motion is termed as"
+    },
+    {
+        "answer": "six types",
+        "distractors": [
+            "two types",
+            "four types",
+            "five types"
+        ],
+        "sentence": "Thorpe classified learning behaviour into"
+    },
+    {
+        "answer": "insects",
+        "distractors": [
+            "animals",
+            "plants",
+            "bacteria"
+        ],
+        "sentence": "Waxes are also secreted by some"
+    },
+    {
+        "answer": "mitochondria",
+        "distractors": [
+            "Golgi complex",
+            "nucleus",
+            "cell membrane"
+        ],
+        "sentence": "A very important organelle which is also called power house of cell is"
+    },
+    {
+        "answer": "density",
+        "distractors": [
+            "volume",
+            "gravity",
+            "none"
+        ],
+        "sentence": "Gases have low value of"
+    },
+    {
+        "answer": "738kJmol",
+        "distractors": [
+            "737kJmol",
+            "734kJmol",
+            "736kJmol"
+        ],
+        "sentence": "First ionization energy of Mg is"
+    },
+    {
+        "answer": "sugar glucose",
+        "distractors": [
+            "maltose",
+            "fructose",
+            "galactose"
+        ],
+        "sentence": "One of simplest carbohydrates is"
+    },
+    {
+        "answer": "succumbed",
+        "distractors": [
+            "saved",
+            "exempted",
+            "electrocuted"
+        ],
+        "sentence": "Under normal circumstances , a patient 's immune system can overcome bacterial or viral attack but in AIDS victim is"
+    },
+    {
+        "answer": "atherosclerosis",
+        "distractors": [
+            "arteriosclerosis",
+            "heart attack",
+            "thrombosis"
+        ],
+        "sentence": "If fatty material is deposited in inner side of artery , condition is called as"
+    },
+    {
+        "answer": "phenol",
+        "distractors": [
+            "acetone",
+            "glycol",
+            "ether"
+        ],
+        "sentence": "Boiling point 181.8 degree Celsius describes"
+    },
+    {
+        "answer": "cassia alata",
+        "distractors": [
+            "pine tree",
+            "conifers",
+            "date tree"
+        ],
+        "sentence": "Ring worm and skin diseases can be cure with help of leaves of"
+    },
+    {
+        "answer": "two types",
+        "distractors": [
+            "three types",
+            "five types",
+            "seven types"
+        ],
+        "sentence": "Spectrum has"
+    },
+    {
+        "answer": "close",
+        "distractors": [
+            "open",
+            "semi-open",
+            "wilt"
+        ],
+        "sentence": "In hyponasty , bud will remain"
+    },
+    {
+        "answer": "Greek",
+        "distractors": [
+            "Latin",
+            "English",
+            "Hebrew"
+        ],
+        "sentence": "Word 'biology ' is derived from language"
+    },
+    {
+        "answer": "25 \u00c2\u00b0C",
+        "distractors": [
+            "20 \u00c2\u00b0C",
+            "40 \u00c2\u00b0C",
+            "80 \u00c2\u00b0C"
+        ],
+        "sentence": "An alcohol-in-glass thermometer has l100 15 cm and l0 is 7 cm , if l\u00ce\u00b8 is 9 cm temperature of thermometer would be"
+    },
+    {
+        "answer": "X rays",
+        "distractors": [
+            "chromatography",
+            "gamma rays",
+            "infrared waves"
+        ],
+        "sentence": "Air in Millikan oil drop method which is present between electrodes is oxidized by"
+    },
+    {
+        "answer": "deafness",
+        "distractors": [
+            "dumb",
+            "mental retardness",
+            "memory loss"
+        ],
+        "sentence": "Misuse of antibiotic streptomycin can cause"
+    },
+    {
+        "answer": "Clockwise and Anti-clockwise",
+        "distractors": [
+            "Stable and Unstable",
+            "Neutral and charged",
+            "Forward and backward"
+        ],
+        "sentence": "Two types of moment of force are"
+    },
+    {
+        "answer": "one",
+        "distractors": [
+            "two",
+            "three",
+            "none"
+        ],
+        "sentence": "Number of space orientation of any energy level of s-sub shell is"
+    },
+    {
+        "answer": "0.51",
+        "distractors": [
+            "0.021",
+            "0.365",
+            "3.564"
+        ],
+        "sentence": "Methanol , at 30 \u00c2\u00b0C , has viscosity of"
+    },
+    {
+        "answer": "multicellular organisms",
+        "distractors": [
+            "unicellular organisms",
+            "micro-organisms",
+            "invertebrates"
+        ],
+        "sentence": "Kingdom Animalia includes"
+    },
+    {
+        "answer": "Right",
+        "distractors": [
+            "Wrong",
+            "May be right or may be wrong",
+            "Neither right nor wrong"
+        ],
+        "sentence": "`` Virtual image is upright '' , this statement is"
+    },
+    {
+        "answer": "60 %",
+        "distractors": [
+            "10 %",
+            "15 %",
+            "25 %"
+        ],
+        "sentence": "An average daily intake of carbohydrates ( CnH2mOm ) shall be"
+    },
+    {
+        "answer": "6 m s-1\u00c2\u00b2 eastward",
+        "distractors": [
+            "6 m s-1 eastward",
+            "-6 m s-1 eastward",
+            "-6 m s-1\u00c2\u00b2 eastward"
+        ],
+        "sentence": "A bus travelling eastwards at 60 m s-1 takes 10s to come to halt , its deceleration is equal to"
+    },
+    {
+        "answer": "1650 \u00c2\u00b0C",
+        "distractors": [
+            "1660 \u00c2\u00b0C",
+            "1700 \u00c2\u00b0C",
+            "1760 \u00c2\u00b0C"
+        ],
+        "sentence": "Melting point of silica ( SiO2 ) is"
+    },
+    {
+        "answer": "143.09g/mol",
+        "distractors": [
+            "113.14g/mol",
+            "139.33g/mol",
+            "173.298g/mol"
+        ],
+        "sentence": "Molar mass of Copper Oxide ( Cu2O ) is"
+    },
+    {
+        "answer": "biological control",
+        "distractors": [
+            "hazards control",
+            "disease control",
+            "chemical control"
+        ],
+        "sentence": "Pests are destroyed by using living organism is attributed to process of"
+    },
+    {
+        "answer": "attractive forces",
+        "distractors": [
+            "repulsive forces",
+            "weak forces",
+            "none"
+        ],
+        "sentence": "Increase in boiling point indicates more"
+    },
+    {
+        "answer": "8",
+        "distractors": [
+            "3",
+            "6",
+            "4"
+        ],
+        "sentence": "N+l value of 5f orbital is"
+    },
+    {
+        "answer": "Biuret test",
+        "distractors": [
+            "Iodine Test",
+            "Ethanol emulsion test",
+            "Benedict Test"
+        ],
+        "sentence": "Test of Proteins is known as"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "painful muscles",
+            "headaches",
+            "heart attack"
+        ],
+        "sentence": "Due to stress , an increased blood flow in brain and muscles can cause"
+    },
+    {
+        "answer": "Elastic Potential Energy",
+        "distractors": [
+            "Kinetic Energy",
+            "Gravitational Potential Energy",
+            "Sound Energy"
+        ],
+        "sentence": "A compressed spring possesses"
+    },
+    {
+        "answer": "corpus callosum",
+        "distractors": [
+            "corpus leuteum",
+            "corpus callus",
+            "corpus scrotum"
+        ],
+        "sentence": "A bridge of nerve fibers which connects two cerebral hemispheres is called"
+    },
+    {
+        "answer": "360,000",
+        "distractors": [
+            "400,000",
+            "260,000",
+            "200,000"
+        ],
+        "sentence": "Known species of plants are"
+    },
+    {
+        "answer": "Reverse transcriptase",
+        "distractors": [
+            "Transcriptase",
+            "Auto Transcriptase",
+            "Catalase"
+        ],
+        "sentence": "Retroviruses can convert a single stranded RNA genome into double stranded viral DNA by special enzyme"
+    },
+    {
+        "answer": "atria",
+        "distractors": [
+            "ventricles",
+            "auricles",
+            "arteries"
+        ],
+        "sentence": "Electrical impulses are sent to atrial muscles to contract both"
+    },
+    {
+        "answer": "20 \u00c2\u00b0C",
+        "distractors": [
+            "10 \u00c2\u00b0C",
+            "25 \u00c2\u00b0C",
+            "50 \u00c2\u00b0C"
+        ],
+        "sentence": "A magnesium wire resists 2.5 \u00ce\u00a9 at ice point and 10 \u00ce\u00a9 at steam point , and resistance of wire is 4 \u00ce\u00a9 room temperature would be"
+    },
+    {
+        "answer": "Electromotive force",
+        "distractors": [
+            "Volume of a fixed mass of liquid",
+            "resistance of a piece of metal",
+            "Pressure of a fixed mass of gas at constant volume"
+        ],
+        "sentence": "Every temperature measuring instrument makes use of a physical property of a substance in order to measure temperature objectively , which physical property is used by Thermocouple ?"
+    },
+    {
+        "answer": "diffused",
+        "distractors": [
+            "dumbbell",
+            "double",
+            "none"
+        ],
+        "sentence": "Letter 'd ' in azimuthal quantum number represents"
+    },
+    {
+        "answer": "adrenaline",
+        "distractors": [
+            "oxytocin",
+            "oestrogen",
+            "noradrenaline"
+        ],
+        "sentence": "Dilation of blood vessels in skeletal muscles is caused by"
+    },
+    {
+        "answer": "can grow well",
+        "distractors": [
+            "can not grow",
+            "will loose their green color",
+            "will die"
+        ],
+        "sentence": "In a carbon ( C ) free solution of minerals , plants"
+    },
+    {
+        "answer": "hydrochloric acid",
+        "distractors": [
+            "gastric juice",
+            "citric acid",
+            "pepsin"
+        ],
+        "sentence": "Microorganisms taken in along with food are killed by"
+    },
+    {
+        "answer": "survival",
+        "distractors": [
+            "wavelength",
+            "chains",
+            "none"
+        ],
+        "sentence": "Metastable molecules have long"
+    },
+    {
+        "answer": "Kinetic theory of gases",
+        "distractors": [
+            "Charle 's law",
+            "Dalton theory",
+            "Boyle 's law"
+        ],
+        "sentence": "Gas molecules move haphazardly according to"
+    },
+    {
+        "answer": "sepal and stamen",
+        "distractors": [
+            "sepal and petal",
+            "stamen and carpel",
+            "petal and carpel"
+        ],
+        "sentence": "Non-reproductive parts of a plant are"
+    },
+    {
+        "answer": "choanoderm",
+        "distractors": [
+            "epiderm",
+            "mesoderm",
+            "endoderm"
+        ],
+        "sentence": "There is gelatinous layer mesenchyme which is present between pinachoderm and"
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "salts",
+            "sugars",
+            "air"
+        ],
+        "sentence": "Cytoplasm is filled with 80 % of"
+    },
+    {
+        "answer": "an element",
+        "distractors": [
+            "an alloy",
+            "a compound",
+            "a mixture"
+        ],
+        "sentence": "Copper wire is an example of"
+    },
+    {
+        "answer": "if individual relative atomic masses are added",
+        "distractors": [
+            "by relative atomic mass",
+            "by relative mass of a covalent compound",
+            "by adding relative compound masses"
+        ],
+        "sentence": "Relative molecular masses can be calculated"
+    },
+    {
+        "answer": "Emphysema",
+        "distractors": [
+            "depressant drugs",
+            "amphetamines",
+            "cocaine"
+        ],
+        "sentence": "Chronic Obstructive lung disease occurs due to"
+    },
+    {
+        "answer": "muscles",
+        "distractors": [
+            "liver",
+            "lungs",
+            "mucus"
+        ],
+        "sentence": "During oxygen ( O2 ) debt , lactic acid ( C3H6O3 ) is removed from"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "How can organisms be classified on basis of similarities",
+            "How can organisms be classified on basis of differences",
+            "How can organisms be classified on basis of trophic levels"
+        ],
+        "sentence": "Biology attempts to answer questions like ;"
+    },
+    {
+        "answer": "feedback mechanism",
+        "distractors": [
+            "control system",
+            "osmoregulation",
+            "thermoregulation"
+        ],
+        "sentence": "System which is responsible for detecting change and signaling control system is called"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "muscles",
+            "liver",
+            "pancreas"
+        ],
+        "sentence": "Glucose ( C6H12O6 ) converted to glycogen ( C24H42O21 ) may be stored in"
+    },
+    {
+        "answer": "Bernoulli 's equation",
+        "distractors": [
+            "equation of continuity",
+            "light equation",
+            "speed equation"
+        ],
+        "sentence": "Chimney works best on principle of"
+    },
+    {
+        "answer": "substrate",
+        "distractors": [
+            "prostrate",
+            "hydrate",
+            "glucate"
+        ],
+        "sentence": "Substances on which enzymes act are called as"
+    },
+    {
+        "answer": "Thermal energy to Kinetic energy",
+        "distractors": [
+            "Kinetic energy to Thermal energy",
+            "Potential energy to Kinetic energy",
+            "Kinetic energy to Potential energy"
+        ],
+        "sentence": "During process of boiling , energy conversion that takes place is"
+    },
+    {
+        "answer": "hexagonal",
+        "distractors": [
+            "cubic",
+            "needle like",
+            "rhombohedral"
+        ],
+        "sentence": "Zinc crystals are"
+    },
+    {
+        "answer": "virus",
+        "distractors": [
+            "saprophytic bacteria",
+            "parasitic bacteria",
+            "fungi"
+        ],
+        "sentence": "Extracellular digestion is not witnessed in"
+    },
+    {
+        "answer": "length of dark period",
+        "distractors": [
+            "length of day",
+            "length of exposure to light",
+            "length of exposure to red light"
+        ],
+        "sentence": "For flowering of plants , most critical factor is"
+    },
+    {
+        "answer": "good insulation of heat",
+        "distractors": [
+            "good conduction of heat",
+            "good conduction of electricity",
+            "good insulation of electricity"
+        ],
+        "sentence": "Wooden ladles are used to stir or scoop hot soup because of it 's"
+    },
+    {
+        "answer": "fixed temperature",
+        "distractors": [
+            "unfixed temperature",
+            "any temperature",
+            "liquid 's bottom"
+        ],
+        "sentence": "Boiling occurs at"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "distal convoluted tubule",
+            "proximal convoluted tubule",
+            "Bowman ' capsule"
+        ],
+        "sentence": "Each nephron consists of"
+    },
+    {
+        "answer": "darker color of strip",
+        "distractors": [
+            "lighter color of strip",
+            "acidic urine be",
+            "more healthier a person be"
+        ],
+        "sentence": "More hydrogen peroxide ( H2O2 ) in urine , the"
+    },
+    {
+        "answer": "1440i + 1080j",
+        "distractors": [
+            "1240i + 1180j",
+            "1442i + 2080j",
+            "2440i + 3080j"
+        ],
+        "sentence": "At position of ( 4i + 3j ) by a point charge 5 \u00c3\u0097 10-6 C placed at origin will produce electric field of"
+    },
+    {
+        "answer": "nutation",
+        "distractors": [
+            "epinasty",
+            "hyponasty",
+            "nutrition"
+        ],
+        "sentence": "Movement of young stem in a zigzag fashion is found in"
+    },
+    {
+        "answer": "demenralization of bones",
+        "distractors": [
+            "muscular tetany",
+            "rickets",
+            "arthritis"
+        ],
+        "sentence": "Overactivity of parathormone would lead to a progressive"
+    },
+    {
+        "answer": "capital letters",
+        "distractors": [
+            "a",
+            "x",
+            "small letters"
+        ],
+        "sentence": "Vector quantities having directions are denoted by"
+    },
+    {
+        "answer": "chemical energy",
+        "distractors": [
+            "physical energy",
+            "radiant energy",
+            "all of these"
+        ],
+        "sentence": "Type of energy trapped in dead bodies is in form of"
+    },
+    {
+        "answer": "greenish",
+        "distractors": [
+            "purplish",
+            "maroon",
+            "yellow"
+        ],
+        "sentence": "Color of fluorescence produced by cathode rays in glass tube is"
+    },
+    {
+        "answer": "amylase",
+        "distractors": [
+            "pepsin",
+            "lipase",
+            "Secretin"
+        ],
+        "sentence": "Enzyme which digest starch into maltose is called"
+    },
+    {
+        "answer": "lf = Lf/m",
+        "distractors": [
+            "Lf = m/lf",
+            "Lf = lf/m",
+            "lf = Lf \u00c3\u0097 m"
+        ],
+        "sentence": "Formula for specific latent heat of fusion is"
+    },
+    {
+        "answer": "hydra",
+        "distractors": [
+            "rats",
+            "earthworm",
+            "amoeba"
+        ],
+        "sentence": "Diffused type nervous system is present in"
+    },
+    {
+        "answer": "biosensors",
+        "distractors": [
+            "sphygmomanometer",
+            "x-rays",
+            "radioactive isotopes"
+        ],
+        "sentence": "Very low concentration of substances can be measured through"
+    },
+    {
+        "answer": "urinary bladder",
+        "distractors": [
+            "urethra",
+            "ureter",
+            "renal vessels"
+        ],
+        "sentence": "Ventral to rectum is"
+    },
+    {
+        "answer": "five stages",
+        "distractors": [
+            "two stages",
+            "three stages",
+            "four stages"
+        ],
+        "sentence": "Differentiation in plants is considered to occur in plants in"
+    },
+    {
+        "answer": "Argon",
+        "distractors": [
+            "Neon",
+            "helium",
+            "Xenon"
+        ],
+        "sentence": "Stable noble gas which lies near to S is"
+    },
+    {
+        "answer": "b",
+        "distractors": [
+            "a",
+            "c",
+            "d"
+        ],
+        "sentence": "Gas chlorine has high value of constant"
+    },
+    {
+        "answer": "sucrose",
+        "distractors": [
+            "maltose",
+            "galactose",
+            "lactose"
+        ],
+        "sentence": "Combination of glucose ( C6H12O6 ) and fructose ( C6H12O6 ) molecules result in"
+    },
+    {
+        "answer": "when seed coat turns hard",
+        "distractors": [
+            "food reserves inside seed are broken down",
+            "seed has undergone an appropriate resting season",
+            "both A and B"
+        ],
+        "sentence": "Embryo starts to grow when"
+    },
+    {
+        "answer": "William Crookes",
+        "distractors": [
+            "Wilson",
+            "Watson",
+            "Wauker"
+        ],
+        "sentence": "English scientist who discovered plasma was"
+    },
+    {
+        "answer": "collision of electrons",
+        "distractors": [
+            "movement of electrons",
+            "resistance in electrons",
+            "lose of energy"
+        ],
+        "sentence": "Heating effect produced by current is due to the"
+    },
+    {
+        "answer": "hippocampus",
+        "distractors": [
+            "amygdala",
+            "thalamus",
+            "pons"
+        ],
+        "sentence": "Long term memory is formed in"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "oxygen",
+            "carbondioxide",
+            "waste and nutrients"
+        ],
+        "sentence": "Between mother and fetus placenta facilitates exchange of"
+    },
+    {
+        "answer": "helium",
+        "distractors": [
+            "Nitrogen gas",
+            "oxygen",
+            "carbon dioxide"
+        ],
+        "sentence": "Gas which can not be liquefied by Linde 's method is"
+    },
+    {
+        "answer": "cyclosis",
+        "distractors": [
+            "oxygen fixation",
+            "CO2 fixation",
+            "nitrogen fixation"
+        ],
+        "sentence": "Passive movements of chloroplast is a example of positive tactic movement due to"
+    },
+    {
+        "answer": "stable in air",
+        "distractors": [
+            "insoluble in water",
+            "a salt",
+            "explosive in air"
+        ],
+        "sentence": "Sodium ( Na ) is not"
+    },
+    {
+        "answer": "46",
+        "distractors": [
+            "23",
+            "48",
+            "58"
+        ],
+        "sentence": "In Na2CO3 , relative atomic mass of sodium is"
+    },
+    {
+        "answer": "dry",
+        "distractors": [
+            "succulent",
+            "wet",
+            "soft"
+        ],
+        "sentence": "Dormant seeds are usually"
+    },
+    {
+        "answer": "ideal gas equation",
+        "distractors": [
+            "pressure",
+            "volume",
+            "Joule Thomson effect"
+        ],
+        "sentence": "Laws of gases are obtained by"
+    },
+    {
+        "answer": "360\u00c2\u00b0",
+        "distractors": [
+            "90\u00c2\u00b0",
+            "180\u00c2\u00b0",
+            "270\u00c2\u00b0"
+        ],
+        "sentence": "One revolution is equal to angle of"
+    },
+    {
+        "answer": "show great similarities",
+        "distractors": [
+            "show great differences",
+            "are different in freshwater plants",
+            "are different in variegated leaves"
+        ],
+        "sentence": "Action spectrum and absorption spectrum"
+    },
+    {
+        "answer": "1.5km",
+        "distractors": [
+            "1.6 km",
+            "1.9km",
+            "2.0km"
+        ],
+        "sentence": "Sun is a ball of plasma which is about"
+    },
+    {
+        "answer": "equal",
+        "distractors": [
+            "less",
+            "greater",
+            "small"
+        ],
+        "sentence": "When K.Emax of photoelectrons is zero , then frequency of incident photon relative to threshold frequency is"
+    },
+    {
+        "answer": "Balmer series",
+        "distractors": [
+            "Pfund series",
+            "Brackett series",
+            "Lyman series"
+        ],
+        "sentence": "Series which is further divided into smaller lines is"
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "hydrogen",
+            "sugar",
+            "nitrogen"
+        ],
+        "sentence": "Fumarate is converted to malate while adding a molecule of"
+    },
+    {
+        "answer": "40 Wb",
+        "distractors": [
+            "20i + 40k Wb",
+            "20 Wb",
+            "30 Wb"
+        ],
+        "sentence": "If magnetic field in region is given by B = 4i + 8k , then flux passing through a 5 m\u00c2\u00b2 area loop will be"
+    },
+    {
+        "answer": "threshold stimulus",
+        "distractors": [
+            "powerful stimulus",
+            "strong stimulus",
+            "high-voltage stimulus"
+        ],
+        "sentence": "An appropriate stimulus which can initiate a nerve impulse is known as"
+    },
+    {
+        "answer": "amount of heat required to change phase of a substance from liquid to gas without any change in temperature",
+        "distractors": [
+            "amount of heat required to raise temperature of a 1 kg of a substance by 1 K",
+            "amount of heat required to raise temperature of a substance by 1 K",
+            "amount of heat required to change phase of a substance from solid to liquid without any change in temperature"
+        ],
+        "sentence": "Latent heat of vaporization is"
+    },
+    {
+        "answer": "active site",
+        "distractors": [
+            "available site",
+            "catalytic site",
+            "binding site"
+        ],
+        "sentence": "A definite charge bearing site of an enzyme on which a chemical substance attaches itself is called"
+    },
+    {
+        "answer": "2,7",
+        "distractors": [
+            "2,5",
+            "2,9",
+            "2,6"
+        ],
+        "sentence": "Proton number of Fluorine ( F ) is 9 , electron number is"
+    },
+    {
+        "answer": "Cesium atom",
+        "distractors": [
+            "Rubidium atom",
+            "Strontium Atom",
+            "Uranium atom"
+        ],
+        "sentence": "Time is calibrated using oscillation of"
+    },
+    {
+        "answer": "stress",
+        "distractors": [
+            "pleasure",
+            "hunger",
+            "thirst"
+        ],
+        "sentence": "Both adrenaline and nor-adrenaline are secreted in situations of"
+    },
+    {
+        "answer": "points",
+        "distractors": [
+            "triangles",
+            "squares",
+            "ovals"
+        ],
+        "sentence": "Location of atoms and ions in a crystal are shown by"
+    },
+    {
+        "answer": "7 to 8",
+        "distractors": [
+            "3 to 4",
+            "10 to 11",
+            "13 to 14"
+        ],
+        "sentence": "Blood has an approximate pH of"
+    },
+    {
+        "answer": "All of Above",
+        "distractors": [
+            "water",
+            "solutes",
+            "temperature"
+        ],
+        "sentence": "Components of internal environment are"
+    },
+    {
+        "answer": "1 atmosphere",
+        "distractors": [
+            "8 atmosphere",
+            "5 atmosphere",
+            "3 atmosphere"
+        ],
+        "sentence": "When we measure molar heat of fusion is measured at"
+    },
+    {
+        "answer": "material particle",
+        "distractors": [
+            "wave",
+            "energy",
+            "none"
+        ],
+        "sentence": "Bohr stated that electron is"
+    },
+    {
+        "answer": "solid molecules",
+        "distractors": [
+            "blood plasma",
+            "small molecules",
+            "water"
+        ],
+        "sentence": "Ultrafiltration retains"
+    },
+    {
+        "answer": "venus fly trap",
+        "distractors": [
+            "pitcher plant",
+            "mosses",
+            "ferns"
+        ],
+        "sentence": "Leaf which has long stiff bristles and a midrib between them is feature of"
+    },
+    {
+        "answer": "tobacco mosaic virus",
+        "distractors": [
+            "influenza virus",
+            "bacteriophages",
+            "norwalk virus"
+        ],
+        "sentence": "Example of rod-shaped viruses include"
+    },
+    {
+        "answer": "photographic plate",
+        "distractors": [
+            "cathode rays",
+            "cadmium plate",
+            "silver"
+        ],
+        "sentence": "Detector used in Rutherford experiment is"
+    },
+    {
+        "answer": "3",
+        "distractors": [
+            "1",
+            "2",
+            "4"
+        ],
+        "sentence": "Number of replaceable hydrogen atoms in phosphoric acid is"
+    },
+    {
+        "answer": "None of above",
+        "distractors": [
+            "Conduction",
+            "Convection",
+            "Radiation"
+        ],
+        "sentence": "Heat is transferred by means of three different processes , which of following does not belong to list ?"
+    },
+    {
+        "answer": "right atrium",
+        "distractors": [
+            "left atrium",
+            "right ventricle",
+            "left ventricle"
+        ],
+        "sentence": "Inferior venacava and superior venacava collect blood from body and pour in heart 's"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "electrons",
+            "protons",
+            "cathode"
+        ],
+        "sentence": "This whole world is composed of small particles that are made up of"
+    },
+    {
+        "answer": "reduced",
+        "distractors": [
+            "enhanced",
+            "increase",
+            "overcome"
+        ],
+        "sentence": "In adequate or surplus supply of water , reabsorption in kidneys is"
+    },
+    {
+        "answer": "capsule",
+        "distractors": [
+            "vacoule",
+            "cell membrane",
+            "cell wall"
+        ],
+        "sentence": "Structure of a sporophyte consists of a foot , seta and"
+    },
+    {
+        "answer": "ornithine",
+        "distractors": [
+            "arginine",
+            "creatine",
+            "glutamine"
+        ],
+        "sentence": "Detoxification of ammonia to citrulline requires precursor of"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "dead phagocytes",
+            "pathogenic bacteria",
+            "granulocytes"
+        ],
+        "sentence": "Pus is formed at site of wound due to"
+    },
+    {
+        "answer": "sublimate",
+        "distractors": [
+            "crystals",
+            "residue",
+            "insoluble"
+        ],
+        "sentence": "Condensed solid produced during sublimation is"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "rate of growth",
+            "rate of metabolic activity",
+            "sexual maturity"
+        ],
+        "sentence": "Long term change controlled by hormones is"
+    },
+    {
+        "answer": "Magdeburg hemispheres",
+        "distractors": [
+            "Galileo hemispheres",
+            "Isaac hemispheres",
+            "Albert hemispheres"
+        ],
+        "sentence": "Pair of two hollow cups is termed as"
+    },
+    {
+        "answer": "sugars",
+        "distractors": [
+            "glucose",
+            "peptones",
+            "galactose"
+        ],
+        "sentence": "Simplest carbohydrates ( CnH2mOm ) are"
+    },
+    {
+        "answer": "cell elongation",
+        "distractors": [
+            "cell divisions",
+            "cell differentiation",
+            "cell maturation"
+        ],
+        "sentence": "Indole-3-acetic acid ( IAA ) causes"
+    },
+    {
+        "answer": "embryo",
+        "distractors": [
+            "ova",
+            "seed",
+            "fruit"
+        ],
+        "sentence": "Female gametophyte develops into an egg after germination with healthy megaaspore and produce"
+    },
+    {
+        "answer": "nucleoli",
+        "distractors": [
+            "broccoli",
+            "cytoplasm",
+            "mitochondria"
+        ],
+        "sentence": "Protein formation is enabled through"
+    },
+    {
+        "answer": "pre-existing cells",
+        "distractors": [
+            "fossils",
+            "plant cells",
+            "new cells"
+        ],
+        "sentence": "Cell theory proposes that all living cells arise from"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "filament protruding out of bract",
+            "mature stigma protruding out of bract",
+            "immature petals and sepal"
+        ],
+        "sentence": "In grass , pollination is affected through"
+    },
+    {
+        "answer": "myoglobin",
+        "distractors": [
+            "hemoglobin",
+            "globulin",
+            "cytoglobin"
+        ],
+        "sentence": "Muscles fibers have iron containing protein called"
+    },
+    {
+        "answer": "brown color",
+        "distractors": [
+            "green color",
+            "blue color",
+            "white color"
+        ],
+        "sentence": "Consider equation : Fe+3 ( aq ) + 3OH- ( aq ) \u00e2\u0086\u0092 Fe ( OH ) 3 ( s ) . precipitate of Iron ( III ) Hydroxide will be of"
+    },
+    {
+        "answer": "inability of pancreas to secrete insulin",
+        "distractors": [
+            "conversion of glucose to glycogen",
+            "less water intake in diet",
+            "unhealthy and inactive life styles"
+        ],
+        "sentence": "Diabetes often results due to"
+    },
+    {
+        "answer": "proton",
+        "distractors": [
+            "electron",
+            "neutron",
+            "anti neutrino"
+        ],
+        "sentence": "Rutherford proposed about neutron that its mass should be equal to"
+    },
+    {
+        "answer": "starch is converted in sugars",
+        "distractors": [
+            "sugars is converted in starch",
+            "glycogen is converted into glucose",
+            "glucose is converted into glycogen"
+        ],
+        "sentence": "In darkness ,"
+    },
+    {
+        "answer": "metalloids",
+        "distractors": [
+            "metals",
+            "nonmetals",
+            "magnet"
+        ],
+        "sentence": "Those elements which have intermediate values of ionization energies are mostly"
+    },
+    {
+        "answer": "condensation",
+        "distractors": [
+            "boiling",
+            "solidification",
+            "sublimation"
+        ],
+        "sentence": "Reverse process of boiling is"
+    },
+    {
+        "answer": "Latent Heat of Vaporization",
+        "distractors": [
+            "Latent heat of Fusion",
+            "Latent heat of Fission",
+            "Heat Capacity of Vaporization"
+        ],
+        "sentence": "Thermal energy absorbed without any change in temperature in boiling is termed as"
+    },
+    {
+        "answer": "lactase",
+        "distractors": [
+            "maltase",
+            "sucrose",
+            "lipases"
+        ],
+        "sentence": "Lactose ( C12H22O11 ) can by hydrolyzed in glucose ( C6H12O6 ) and galactose ( C6H12O6 ) in presence of enzyme"
+    },
+    {
+        "answer": "Cell sap",
+        "distractors": [
+            "Cytoplasm",
+            "Nucleoplasm",
+            "Protoplasm"
+        ],
+        "sentence": "Dissolved substances such as minerals , amino acids and sugars are found in"
+    },
+    {
+        "answer": "280",
+        "distractors": [
+            "270",
+            "290",
+            "300"
+        ],
+        "sentence": "Isotopes present in nature are"
+    },
+    {
+        "answer": "elastic",
+        "distractors": [
+            "easy",
+            "non elastic",
+            "plastic"
+        ],
+        "sentence": "Collisions which are produced by gas molecules are"
+    },
+    {
+        "answer": "lower than body",
+        "distractors": [
+            "higher than body",
+            "equal to body temperature",
+            "dependent on pressure"
+        ],
+        "sentence": "Sperms are developed at a temperature"
+    },
+    {
+        "answer": "Barometer",
+        "distractors": [
+            "Manometer",
+            "Calorimeter",
+            "Potentiometer"
+        ],
+        "sentence": "An instrument commonly used for measurement of atmospheric pressure is known as"
+    },
+    {
+        "answer": "precision",
+        "distractors": [
+            "accuracy",
+            "estimate",
+            "limitations"
+        ],
+        "sentence": "Minimum length an instrument can measure is called its"
+    },
+    {
+        "answer": "negligible",
+        "distractors": [
+            "zero",
+            "strong",
+            "infinite"
+        ],
+        "sentence": "Magnetic field outside a solenoid is"
+    },
+    {
+        "answer": "a/V square",
+        "distractors": [
+            "a/V cube",
+            "a square/V",
+            "a/P"
+        ],
+        "sentence": "P ' is given by formula"
+    },
+    {
+        "answer": "MgO",
+        "distractors": [
+            "LiCl",
+            "KF",
+            "CaCl2"
+        ],
+        "sentence": "Examples of refractory materials include"
+    },
+    {
+        "answer": "1927",
+        "distractors": [
+            "1923",
+            "1980",
+            "1990"
+        ],
+        "sentence": "Heisenberg gave his concept in"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "bulbs",
+            "corms",
+            "rhizomes"
+        ],
+        "sentence": "Underground storage organs include"
+    },
+    {
+        "answer": "Dull and black",
+        "distractors": [
+            "Dull and white",
+            "Shiny and white",
+            "Shiny and black"
+        ],
+        "sentence": "Surface that would better absorb infrared radiations is"
+    },
+    {
+        "answer": "line spectrum",
+        "distractors": [
+            "continuous spectrum",
+            "hydrogen spectrum",
+            "none"
+        ],
+        "sentence": "Spectrum obtained by X Rays is"
+    },
+    {
+        "answer": "endoparasite",
+        "distractors": [
+            "exoparasite",
+            "indoparasite",
+            "ectoparasite"
+        ],
+        "sentence": "Parasite which lives inside body of its host is called as"
+    },
+    {
+        "answer": "nerve",
+        "distractors": [
+            "cord",
+            "neuron",
+            "strand"
+        ],
+        "sentence": "A cable containing numerous nerve fibers , axons and dendrites is called a"
+    },
+    {
+        "answer": "diffusing outside",
+        "distractors": [
+            "rushing inside",
+            "not moving",
+            "diffusing inside"
+        ],
+        "sentence": "K+ ions during active potential causes repolarization by"
+    },
+    {
+        "answer": "screening effect",
+        "distractors": [
+            "stark effect",
+            "Zeeman effect",
+            "none"
+        ],
+        "sentence": "Shielding effect is also called"
+    },
+    {
+        "answer": "lymphocytes",
+        "distractors": [
+            "erythrocytes",
+            "rhombocytes",
+            "phagocytes"
+        ],
+        "sentence": "Spleen , thymus , tonsils and adenoids produces"
+    },
+    {
+        "answer": "Cephalosporins",
+        "distractors": [
+            "Tetracyclines",
+            "Erythromycins",
+            "all of these"
+        ],
+        "sentence": "Division of bacteria is inhibited through the"
+    },
+    {
+        "answer": "gamma rays",
+        "distractors": [
+            "radio waves",
+            "infrared",
+            "ultraviolet"
+        ],
+        "sentence": "Wave with highest frequency is"
+    },
+    {
+        "answer": "thoracic lymph duct",
+        "distractors": [
+            "lymph duct",
+            "thoracic duct",
+            "sperm duct"
+        ],
+        "sentence": "Lymph capillaries join together forming larger lymph vessels which give rise to"
+    },
+    {
+        "answer": "size of ions",
+        "distractors": [
+            "weight of ions",
+            "volume of ions",
+            "density of ions"
+        ],
+        "sentence": "Structure of ionic crystals depends upon"
+    },
+    {
+        "answer": "nucleus , cytoplasm , cell surface membrane",
+        "distractors": [
+            "vacuole , chloroplast , tonoplast",
+            "cell membrane and nucleus",
+            "cell wall , cell memebrane and nucleus"
+        ],
+        "sentence": "Protoplasm of a cell consists of"
+    },
+    {
+        "answer": "37 \u00c2\u00b0C",
+        "distractors": [
+            "\u00e2\u0088\u009237 \u00c2\u00b0C",
+            "\u00e2\u0088\u0092583 \u00c2\u00b0C",
+            "583 \u00c2\u00b0C"
+        ],
+        "sentence": "Normal human body temperature is equal to 310 K , which is equal to"
+    },
+    {
+        "answer": "conversion of solid directly into gas",
+        "distractors": [
+            "conversion of gas into liquid",
+            "conversion of gas directly into solid",
+            "conversion of liquid into solid"
+        ],
+        "sentence": "Sublimation refers to"
+    },
+    {
+        "answer": "stomata of leaf",
+        "distractors": [
+            "epidermis of shoot",
+            "epidermis of leaf",
+            "cuticle"
+        ],
+        "sentence": "Transpiration occurs mainly through the"
+    },
+    {
+        "answer": "both of them",
+        "distractors": [
+            "lignin",
+            "cellulose",
+            "cell membrane"
+        ],
+        "sentence": "Strength is given to cell wall of xylem cells by"
+    },
+    {
+        "answer": "electrostatic force",
+        "distractors": [
+            "electromagnetic",
+            "dipole dipole",
+            "intermolecular"
+        ],
+        "sentence": "force of attraction which held together oppositely charged K and Cl ions is"
+    },
+    {
+        "answer": "1836 times",
+        "distractors": [
+            "1890 times",
+            "1790 times",
+            "1678 times"
+        ],
+        "sentence": "Electron is lighter than proton about"
+    },
+    {
+        "answer": "H2 gas",
+        "distractors": [
+            "precipitation",
+            "polymerization",
+            "saturation"
+        ],
+        "sentence": "While forming soluble salts , acid is added to metal until there is no more"
+    },
+    {
+        "answer": "commutative property",
+        "distractors": [
+            "multiplicative property",
+            "distributive property",
+            "associative property"
+        ],
+        "sentence": "Vector sum of two vectors holds the"
+    },
+    {
+        "answer": "scratching",
+        "distractors": [
+            "salivation",
+            "blushing",
+            "sneezing"
+        ],
+        "sentence": "All are examples of carnial reflexes , , but , , not"
+    },
+    {
+        "answer": "polar molecular solid",
+        "distractors": [
+            "non polar molecular solid",
+            "neutral , molecule",
+            "none"
+        ],
+        "sentence": "Ice is an example of"
+    },
+    {
+        "answer": "Kirchhoff 's first rule",
+        "distractors": [
+            "Kirchhoff 's third rule",
+            "Kirchhoff 's fourth rule",
+            "Kirchhoff 's second rule"
+        ],
+        "sentence": "`` Sum of all currents meeting at a point is zero '' , stated law is"
+    },
+    {
+        "answer": "abscisic acid is sprayed",
+        "distractors": [
+            "ethane is sprayed",
+            "cytokinin is sprayed",
+            "gibberellin is sprayed"
+        ],
+        "sentence": "To remove need of picking fruit from tree crops"
+    },
+    {
+        "answer": "compressibility factor",
+        "distractors": [
+            "pressure factor",
+            "surface area",
+            "volume factor"
+        ],
+        "sentence": "PV/nRT is called as"
+    },
+    {
+        "answer": "x axis",
+        "distractors": [
+            "y axis",
+            "z axis",
+            "none"
+        ],
+        "sentence": "In mass spectrometer M/E is plotted on"
+    },
+    {
+        "answer": "calcium carbonate",
+        "distractors": [
+            "sodium chlroide",
+            "magnesium",
+            "silicon"
+        ],
+        "sentence": "Shell of eggs produced by birds and turtles have high concentration of"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "increased cross linkages of collagen",
+            "loss of elasticity in elastic tissues",
+            "loss of resilience in connective tissue"
+        ],
+        "sentence": "Changes is intracellular substances during aging includes"
+    },
+    {
+        "answer": "seven",
+        "distractors": [
+            "six",
+            "eight",
+            "nine"
+        ],
+        "sentence": "Base units of physical quantities given by system international are"
+    },
+    {
+        "answer": "\u00e2\u0088\u0092200 \u00c2\u00b0C to 1500 \u00c2\u00b0C",
+        "distractors": [
+            "\u00e2\u0088\u00921000 \u00c2\u00b0C to 1000 \u00c2\u00b0C",
+            "\u00e2\u0088\u0092s100 \u00c2\u00b0C to 1500 \u00c2\u00b0C",
+            "\u00e2\u0088\u0092150 \u00c2\u00b0C to 2000 \u00c2\u00b0C"
+        ],
+        "sentence": "Thermocouple thermometer has a wide range from"
+    },
+    {
+        "answer": "turbulent flow",
+        "distractors": [
+            "laminar flow",
+            "fluid flow",
+            "both a and b"
+        ],
+        "sentence": "If every particle of fluid has irregular flow , then flow is said to be"
+    },
+    {
+        "answer": "5 J kg-1 \u00c2\u00b0C-1",
+        "distractors": [
+            "10 J kg-1 \u00c2\u00b0C-1",
+            "15 J kg-1 \u00c2\u00b0C-1",
+            "20 J kg-1 \u00c2\u00b0C-1"
+        ],
+        "sentence": "An iron ball with a mass of 200 kg is raised from a temperature of 20 \u00c2\u00b0C to 40 \u00c2\u00b0C . If thermal energy used by iron ball is 20000 J , specific heat capacity of iron ball would be"
+    },
+    {
+        "answer": "aluminium nitride",
+        "distractors": [
+            "graphite",
+            "boron nitride",
+            "cadmium iodide"
+        ],
+        "sentence": "Example of giant molecule having covalent bond is"
+    },
+    {
+        "answer": "current",
+        "distractors": [
+            "voltage",
+            "meter",
+            "acceleration"
+        ],
+        "sentence": "Rate of flow of charge through cross-sectional area is known as"
+    },
+    {
+        "answer": "stage in a food chain",
+        "distractors": [
+            "axis around earth",
+            "stage in an ecological niche",
+            "energy level in a food web"
+        ],
+        "sentence": "Trophic level refers to the"
+    },
+    {
+        "answer": "glucagon",
+        "distractors": [
+            "insulin",
+            "adrenaline",
+            "galactose"
+        ],
+        "sentence": "Enzyme to bring about conversion of glycogen ( C6H10O5 ) n to glucose ( C6H12O6 ) is"
+    },
+    {
+        "answer": "159 torr",
+        "distractors": [
+            "169 torr",
+            "170 torr",
+            "179 torr"
+        ],
+        "sentence": "Partial pressure of oxygen reported in air is"
+    },
+    {
+        "answer": "positive integers",
+        "distractors": [
+            "zero",
+            "negative integers",
+            "none"
+        ],
+        "sentence": "Value of principle quantum number is always"
+    },
+    {
+        "answer": "two",
+        "distractors": [
+            "three",
+            "four times",
+            "five"
+        ],
+        "sentence": "Number of lone pair of electrons occupied by oxygen are"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "in very strong wind",
+            "in night",
+            "at very high temepratures"
+        ],
+        "sentence": "Stomata close"
+    },
+    {
+        "answer": "atoms",
+        "distractors": [
+            "matter",
+            "ions",
+            "elements"
+        ],
+        "sentence": "Matter consists of tiny particles termed as"
+    },
+    {
+        "answer": "stroma",
+        "distractors": [
+            "lumen",
+            "carpel",
+            "grana"
+        ],
+        "sentence": "Dense fluid filled region which helps in producing carbohydrate molecules is called"
+    },
+    {
+        "answer": "99pm to 181pm",
+        "distractors": [
+            "98pm to 182pm",
+            "97pm to 183pm",
+            "96pm to 181pm"
+        ],
+        "sentence": "Ionic radius of Cl- ion increases from"
+    },
+    {
+        "answer": "total mass of living matter at each trophic level",
+        "distractors": [
+            "total mass of living things in a biosphere",
+            "total number of living organisms in a given area",
+            "total energy transferred to each trophic level"
+        ],
+        "sentence": "Biomass is the"
+    },
+    {
+        "answer": "c = C/m",
+        "distractors": [
+            "c = C/\u00ce\u0094\u00ce\u00b8",
+            "c = Q/\u00ce\u0094\u00ce\u00b8",
+            "c = C \u00c3\u0097 m"
+        ],
+        "sentence": "Formula of specific heat capacity is"
+    },
+    {
+        "answer": "contains only receptor neurons",
+        "distractors": [
+            "contains only effector neurons",
+            "axons become sensory fibers",
+            "Dendron 's end in grey matter"
+        ],
+        "sentence": "Dorsal root of spinal nerve"
+    },
+    {
+        "answer": "sponges",
+        "distractors": [
+            "molasses",
+            "coral reefs",
+            "sea anemone"
+        ],
+        "sentence": "Pore-bearing animals are commonly called"
+    },
+    {
+        "answer": "fats and glycogen",
+        "distractors": [
+            "fats and glucose",
+            "starch and cellulose",
+            "peptones"
+        ],
+        "sentence": "In case of malnutrition , basic body needs are met through consumption of stored"
+    },
+    {
+        "answer": "seed dormancy",
+        "distractors": [
+            "seed sleep",
+            "seed inactivity",
+            "seed rest"
+        ],
+        "sentence": "Special condition of rest which enables an embryo to survive long periods of unfavourable conditions is called"
+    },
+    {
+        "answer": "fan like",
+        "distractors": [
+            "fish like",
+            "star like",
+            "flask like"
+        ],
+        "sentence": "To prepare fluted filter paper arrangement formed is"
+    },
+    {
+        "answer": "ammeter",
+        "distractors": [
+            "ohmmeter",
+            "voltmeter",
+            "odometer"
+        ],
+        "sentence": "Device known as low-resistance galvanometer is"
+    },
+    {
+        "answer": "glucose",
+        "distractors": [
+            "lactose",
+            "maltose",
+            "galactose"
+        ],
+        "sentence": "If sucrose ( C12H22O11 ) is heated in presence of enzymes or catalysts , output will be"
+    },
+    {
+        "answer": "6",
+        "distractors": [
+            "3",
+            "9",
+            "12"
+        ],
+        "sentence": "Milk has a pH of"
+    },
+    {
+        "answer": "unisexual",
+        "distractors": [
+            "dioecism",
+            "bisexual",
+            "three stamens"
+        ],
+        "sentence": "Lower flower in grass Iscaemum is"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "Hydrogen Sulfide ( H2S )",
+            "Ammonia ( NH3 )",
+            "Carbon dioxide ( CO2 )"
+        ],
+        "sentence": "Foul smelling gases include"
+    },
+    {
+        "answer": "sebum",
+        "distractors": [
+            "sweat",
+            "salts",
+            "water"
+        ],
+        "sentence": "Sebaceous glands protect skin against microorganism by secreting"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "2",
+            "3"
+        ],
+        "sentence": "Number of acid salt formed by HCl is"
+    },
+    {
+        "answer": "10 chromosomes",
+        "distractors": [
+            "20 chromosomes",
+            "30 chromosomes",
+            "46 chromosomes"
+        ],
+        "sentence": "Gametes in maize plants have"
+    },
+    {
+        "answer": "hormones",
+        "distractors": [
+            "enzymes",
+            "inorganic ions",
+            "nerve impulses"
+        ],
+        "sentence": "Organic compounds of varying structural complexity poured directly into blood to act on target tissues are"
+    },
+    {
+        "answer": "aqueous",
+        "distractors": [
+            "solid",
+            "liquid",
+            "gas"
+        ],
+        "sentence": "When magnesium ions ( Mg+2 ) react with Nitric acid ( HNO3 ) , resulting Magnesium Nitrate ( Mg ( NO3 ) 2 ) will be"
+    },
+    {
+        "answer": "lumen",
+        "distractors": [
+            "lignin",
+            "cell wall",
+            "all of these"
+        ],
+        "sentence": "Continuous space between xylem vessel is called as"
+    },
+    {
+        "answer": "more hydrogen ions be",
+        "distractors": [
+            "less hydrogen ions be",
+            "more covalence be",
+            "more hydroxyl ions"
+        ],
+        "sentence": "Stronger acid , the"
+    },
+    {
+        "answer": "flap like cartilage",
+        "distractors": [
+            "flap like bone",
+            "part of voice box",
+            "part of windpipe"
+        ],
+        "sentence": "Epiglottis is a"
+    },
+    {
+        "answer": "ant parallel",
+        "distractors": [
+            "parallel",
+            "opposite",
+            "connected"
+        ],
+        "sentence": "Two strands of DNA is a double helix structure are coiled with each other"
+    },
+    {
+        "answer": "c",
+        "distractors": [
+            "h",
+            "q",
+            "e"
+        ],
+        "sentence": "Standard symbol for specific heat capacity is"
+    },
+    {
+        "answer": "carnivores",
+        "distractors": [
+            "plants",
+            "herbivores",
+            "omnivores"
+        ],
+        "sentence": "Secondary consumers are"
+    },
+    {
+        "answer": "imbition",
+        "distractors": [
+            "root pressure",
+            "guttation",
+            "bleeding"
+        ],
+        "sentence": "Movement of water molecules along cell walls of xylem vessels is due to a force called"
+    },
+    {
+        "answer": "10 J kg-1 \u00c2\u00b0C-1",
+        "distractors": [
+            "2 J kg-1 \u00c2\u00b0C-1",
+            "5 J kg-1 \u00c2\u00b0C-1",
+            "20 J kg-1 \u00c2\u00b0C-1"
+        ],
+        "sentence": "A scientist raises temperature of a solid of mass 40 kg from 20 \u00c2\u00b0C to 40 \u00c2\u00b0C , if energy used by solid is 8000 J , specific heat capacity of solid would be"
+    },
+    {
+        "answer": "\u00e2\u0088\u009a ( a\u00c2\u00b2 + b\u00c2\u00b2 + c\u00c2\u00b2 )",
+        "distractors": [
+            "\u00e2\u0088\u009a ( a + b + c )",
+            "\u00e2\u0088\u009a ( a\u00c2\u00b2-b\u00c2\u00b2 + c\u00c2\u00b2 )",
+            "( a\u00c2\u00b2 + b\u00c2\u00b2 + c\u00c2\u00b2 )"
+        ],
+        "sentence": "Position vector that defines position of vector in three dimensions having formula of"
+    },
+    {
+        "answer": "One joule per second",
+        "distractors": [
+            "One second per joule",
+            "One meter per joule",
+            "One joule per meter"
+        ],
+        "sentence": "One watt is equal to"
+    },
+    {
+        "answer": "over-nutrition",
+        "distractors": [
+            "under-nutrition",
+            "starvation",
+            "under eating"
+        ],
+        "sentence": "Obesity is a case of"
+    },
+    {
+        "answer": "oxidation of Lead",
+        "distractors": [
+            "reduction of Lead",
+            "formation of PbCl2",
+            "formation of PbO"
+        ],
+        "sentence": "Reaction of Lead Oxide ( PbO ) and Hydrogen Gas ( H2 ) leads to"
+    },
+    {
+        "answer": "oviduct",
+        "distractors": [
+            "sperm duct",
+            "vas deferens",
+            "epididymis"
+        ],
+        "sentence": "Ovum , after release , is then transferred to"
+    },
+    {
+        "answer": "crystallites",
+        "distractors": [
+            "crystalline solids",
+            "density",
+            "volume"
+        ],
+        "sentence": "Amorphous solids have very few orderly arrangements which are called"
+    },
+    {
+        "answer": "Polymerization",
+        "distractors": [
+            "condensation",
+            "Hydrolysis",
+            "oxidation"
+        ],
+        "sentence": "Process of condensing many small molecules to form one large molecule is called"
+    },
+    {
+        "answer": "seven",
+        "distractors": [
+            "five",
+            "six",
+            "eight"
+        ],
+        "sentence": "Crystal systems are"
+    },
+    {
+        "answer": "11.11 % of oxygen and 88.89 % of hydrogen",
+        "distractors": [
+            "11 % of oxygen and 89 % of hydrogen",
+            "18 % of oxygen and 88 % of hydrogen",
+            "15 % of oxygen"
+        ],
+        "sentence": "A water molecule will always contain"
+    },
+    {
+        "answer": "180",
+        "distractors": [
+            "0",
+            "90",
+            "45"
+        ],
+        "sentence": "In op-amp , signal applied at inverting terminal appears at output terminal with a phase"
+    },
+    {
+        "answer": "transverse waves",
+        "distractors": [
+            "longitudinal waves",
+            "both transverse and longitudinal waves",
+            "none of waves"
+        ],
+        "sentence": "Light wave is a good example of"
+    },
+    {
+        "answer": "184.4",
+        "distractors": [
+            "190",
+            "189",
+            "200"
+        ],
+        "sentence": "Iodine boils at high temperature which in degree centigrade is about"
+    },
+    {
+        "answer": "rectifier",
+        "distractors": [
+            "modulator",
+            "amplifier",
+            "oscillator"
+        ],
+        "sentence": "A simple diode can be used as"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "layering",
+            "grafting",
+            "budding"
+        ],
+        "sentence": "Artificial mode of reproduction in plants is"
+    },
+    {
+        "answer": "laser",
+        "distractors": [
+            "x-ray",
+            "ultraviolet",
+            "microwave"
+        ],
+        "sentence": "Potential energy source for inducing fusion reaction is"
+    },
+    {
+        "answer": "marine bony fish",
+        "distractors": [
+            "freshwater bony fish",
+            "marine boneless fish",
+            "all three"
+        ],
+        "sentence": "Problem of water loss from cells and salt gain is faced by"
+    },
+    {
+        "answer": "Right",
+        "distractors": [
+            "Wrong",
+            "May be right or may be wrong",
+            "Neither right nor wrong"
+        ],
+        "sentence": "`` Image that is created in plane mirror is virtual '' . statement is"
+    },
+    {
+        "answer": "a new claw regenerates",
+        "distractors": [
+            "it becomes impaired",
+            "it dies",
+            "it vanishes"
+        ],
+        "sentence": "If lobster loses its pincer claw"
+    },
+    {
+        "answer": "gibberellin",
+        "distractors": [
+            "ethane",
+            "oxytocin",
+            "Cytokinins"
+        ],
+        "sentence": "In apical , dominance action of auxins is enhanced by"
+    },
+    {
+        "answer": "8",
+        "distractors": [
+            "6",
+            "7",
+            "19"
+        ],
+        "sentence": "atomic number of oxygen is"
+    },
+    {
+        "answer": "a and b",
+        "distractors": [
+            "c and d",
+            "d and e",
+            "e and f"
+        ],
+        "sentence": "Constants which are termed as van der Waal constants are"
+    },
+    {
+        "answer": "silver ions",
+        "distractors": [
+            "potassium ions",
+            "sodium ions",
+            "copper ions"
+        ],
+        "sentence": "Difficulty of discharge is lowest in"
+    },
+    {
+        "answer": "a flagellum",
+        "distractors": [
+            "a whip",
+            "a tail",
+            "all of these"
+        ],
+        "sentence": "Motile-bacterium moves with help of"
+    },
+    {
+        "answer": "marijuana",
+        "distractors": [
+            "marijuana",
+            "cocaine",
+            "cocaine"
+        ],
+        "sentence": "Insomnia and epilepsy can be treated through"
+    },
+    {
+        "answer": "quantitative analysis",
+        "distractors": [
+            "Testing",
+            "Qualitative analysis",
+            "Physical test"
+        ],
+        "sentence": "Relative amounts of elements are discussed in"
+    },
+    {
+        "answer": "removal of metabolic wastes",
+        "distractors": [
+            "defecation",
+            "egestion",
+            "all of these"
+        ],
+        "sentence": "Excretion is similar to"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "in which first law of motion is valid",
+            "in which law of inertia is valid",
+            "which is not moving with uniform velocity"
+        ],
+        "sentence": "An inertial frame of reference is frame"
+    },
+    {
+        "answer": "480-550nm",
+        "distractors": [
+            "300-900nm",
+            "789-900nm",
+            "600-789nm"
+        ],
+        "sentence": "Wavelength of green color is"
+    },
+    {
+        "answer": "passing urine",
+        "distractors": [
+            "heartbeat",
+            "exhalation",
+            "inhalation"
+        ],
+        "sentence": "Involuntary actions do not involve"
+    },
+    {
+        "answer": "starch formation",
+        "distractors": [
+            "intake of carbon dioxide",
+            "photosynthesis",
+            "receive sunlight"
+        ],
+        "sentence": "Leaves are not essential for"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "good conductors of heat",
+            "good conductors of electricity",
+            "not rigid"
+        ],
+        "sentence": "Metals are"
+    },
+    {
+        "answer": "nickel sulphate",
+        "distractors": [
+            "sodium nitrite",
+            "sugar",
+            "salt"
+        ],
+        "sentence": "Zinc sulphate usually forms isomorph with"
+    },
+    {
+        "answer": "Law of inertia",
+        "distractors": [
+            "Law of momentum",
+            "Law of forces",
+            "Law of zero"
+        ],
+        "sentence": "Newton 's first law is also known as"
+    },
+    {
+        "answer": "change in velocity/time taken",
+        "distractors": [
+            "distance covered/time taken",
+            "time taken/change in velocity",
+            "change in velocity/displacement covered"
+        ],
+        "sentence": "Formula for acceleration is"
+    },
+    {
+        "answer": "C",
+        "distractors": [
+            "A",
+            "B",
+            "D"
+        ],
+        "sentence": "Ascorbic acid is another name for vitamin"
+    },
+    {
+        "answer": "pure acidic",
+        "distractors": [
+            "pure water",
+            "pure enzyme",
+            "pure alkaline"
+        ],
+        "sentence": "PH value of below 7 indicates"
+    },
+    {
+        "answer": "joules",
+        "distractors": [
+            "horsepower 's",
+            "watts",
+            "calories"
+        ],
+        "sentence": "Energy is measured in units called"
+    },
+    {
+        "answer": "electronic shells",
+        "distractors": [
+            "ionic shells",
+            "proton shells",
+            "nuclear sells"
+        ],
+        "sentence": "Valence electrons are placed at a large distance from nucleus when we make successive addition of"
+    },
+    {
+        "answer": "primitive streak",
+        "distractors": [
+            "primitive groove",
+            "primitive ridge",
+            "primitive pit"
+        ],
+        "sentence": "Mesoderm cells migrate medially and caudally from both sides and create a mid line thickening called"
+    },
+    {
+        "answer": "Sunflower",
+        "distractors": [
+            "Hibiscus",
+            "Clitoria",
+            "Rose"
+        ],
+        "sentence": "Ovary is inferior in"
+    },
+    {
+        "answer": "is lower than energy contents of reactants",
+        "distractors": [
+            "is higher than energy contents of reactants",
+            "does not depend upon energy content of reactants",
+            "forms highly stable compounds"
+        ],
+        "sentence": "In exothermic reactions , final energy content of products"
+    },
+    {
+        "answer": "depolarization",
+        "distractors": [
+            "polarization",
+            "neutralization",
+            "semi-polarization"
+        ],
+        "sentence": "Na+ diffusion into neuron causes its membrane to undergo"
+    },
+    {
+        "answer": "cytoplasm",
+        "distractors": [
+            "centriole",
+            "protoplasm",
+            "Nucleoplasm"
+        ],
+        "sentence": "Conversion of amino acid in useful proteins is carried out by"
+    },
+    {
+        "answer": "90 degree",
+        "distractors": [
+            "60 degree Celsius",
+            "57 degree",
+            "40 degree"
+        ],
+        "sentence": "Angle in cubic system between edges is"
+    },
+    {
+        "answer": "10 minutes",
+        "distractors": [
+            "5 minutes",
+            "8 minutes",
+            "12 minutes"
+        ],
+        "sentence": "Leaves of mimosa require a specific time to regain its turgidity i.e ."
+    },
+    {
+        "answer": "growth correlation",
+        "distractors": [
+            "growth co-ordination",
+            "development pattern",
+            "growth co-operation"
+        ],
+        "sentence": "Reciprocal relationship between growth and development is known as"
+    },
+    {
+        "answer": "high voltage",
+        "distractors": [
+            "high temperature",
+            "high pressure",
+            "high volume"
+        ],
+        "sentence": "Electrons produced in X rays are accelerated by"
+    },
+    {
+        "answer": "yellow in color",
+        "distractors": [
+            "red in color",
+            "like platelets",
+            "like leucocytes"
+        ],
+        "sentence": "Appearance of Plasma is"
+    },
+    {
+        "answer": "to divide and form new cells",
+        "distractors": [
+            "preventing mechanical injury",
+            "water-resistant",
+            "has keratin deposits"
+        ],
+        "sentence": "All are functions of cornified layer , but ,"
+    },
+    {
+        "answer": "shine brightly",
+        "distractors": [
+            "shine dimly",
+            "does not shine at all",
+            "burst or fuse"
+        ],
+        "sentence": "A strong electrolyte solution makes a bulb"
+    },
+    {
+        "answer": "Resultant force is 5N towards left",
+        "distractors": [
+            "Resultant force is 15 N towards left",
+            "Resultant force is 15 N towards right",
+            "Resultant force is 5 N towards right"
+        ],
+        "sentence": "Two forces of magnitude 5 N and 10 N act on a wooden block of mass 2 kg . If 5 N force acts towards right and 10 N force acts towards left , which of following statements is correct ?"
+    },
+    {
+        "answer": "12 atoms of hydrogen",
+        "distractors": [
+            "6 atoms of hydrogen",
+            "18 atoms of hydrogen",
+            "24 atoms of hydrogen"
+        ],
+        "sentence": "Photolysis of six water molecules results in"
+    },
+    {
+        "answer": "oil",
+        "distractors": [
+            "wax",
+            "fats , glucose , starch",
+            "lipids"
+        ],
+        "sentence": "Fatty acids which remain in liquid state at room temperature are said to be"
+    },
+    {
+        "answer": "metabolism",
+        "distractors": [
+            "anabolism",
+            "complex reaction",
+            "catabolism"
+        ],
+        "sentence": "Overall chemical reaction that takes place with in a cell are collectively called as"
+    },
+    {
+        "answer": "sugar",
+        "distractors": [
+            "starch",
+            "protein",
+            "salt"
+        ],
+        "sentence": "Sakcharon is a Greek word for saccharine which means"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "maybe significant",
+            "may not be significant",
+            "is significant"
+        ],
+        "sentence": "Zero digit is only digit that"
+    },
+    {
+        "answer": "unity",
+        "distractors": [
+            "two",
+            "five",
+            "six"
+        ],
+        "sentence": "Sum of mole fraction of all gases is equal to"
+    },
+    {
+        "answer": "oppose pull",
+        "distractors": [
+            "change pull",
+            "go with pull",
+            "both a and b"
+        ],
+        "sentence": "According to Lenz 's law , if you pull magnet away , then induced current will"
+    },
+    {
+        "answer": "Scalar quantities",
+        "distractors": [
+            "Vector quantities",
+            "physical quantities",
+            "Derived quantities"
+        ],
+        "sentence": "Quantities that have magnitude only are termed as"
+    },
+    {
+        "answer": "spectator ions",
+        "distractors": [
+            "residual ions",
+            "sublimates",
+            "radical ions"
+        ],
+        "sentence": "Ions remaining unchanged in both reactants and products are called as"
+    },
+    {
+        "answer": "3.0 \u00c3\u0097 108 m s-1",
+        "distractors": [
+            "30 \u00c3\u0097 108 m s-1",
+            "4 \u00c3\u0097 108 m s-1",
+            "6.0 \u00c3\u0097 108 m s-1"
+        ],
+        "sentence": "Speed of electromagnetic waves in vacuum is"
+    },
+    {
+        "answer": "electric flux",
+        "distractors": [
+            "electric field",
+            "electrostatics",
+            "electric field lines"
+        ],
+        "sentence": "Number of field lines passing at certain area are known as"
+    },
+    {
+        "answer": "hetromorphic alternation of generation",
+        "distractors": [
+            "automorphic alternation of generation",
+            "hetromorphic alternation",
+            "hypomorphic alternation of generation"
+        ],
+        "sentence": "Sporophyte is dominant and gametophyte is small and reduced but separate as well as independent . This development shows heteromorphic alternation of generation"
+    },
+    {
+        "answer": "pepsinogen",
+        "distractors": [
+            "pectin",
+            "pancreatic",
+            "amino pectin"
+        ],
+        "sentence": "Inactive form of pepsin which has power of destroying cell 's internal structure is known as"
+    },
+    {
+        "answer": "SI units",
+        "distractors": [
+            "IS units",
+            "S units",
+            "I units"
+        ],
+        "sentence": "Units given by system international for measuring physical quantities are called"
+    },
+    {
+        "answer": "increases",
+        "distractors": [
+            "decreases",
+            "remain same",
+            "gets doubled"
+        ],
+        "sentence": "With increase of speed in fluid , drag force on an object will be"
+    },
+    {
+        "answer": "2.5 billion times",
+        "distractors": [
+            "3.2 billion times",
+            "2.2 billion times",
+            "5.2 billion times"
+        ],
+        "sentence": "In an average human being , heart contracts estimately"
+    },
+    {
+        "answer": "Both A and B",
+        "distractors": [
+            "relative atomic mass of element in formula/relative molecular mass of element",
+            "relative atomic mass of element in formula/relative molecular mass of compound",
+            "structural formula"
+        ],
+        "sentence": "Percentage of an element can be calculated through"
+    },
+    {
+        "answer": "10^-12m",
+        "distractors": [
+            "10^-9 meter",
+            "10^-8m",
+            "10^-5m"
+        ],
+        "sentence": "Unit picometer is actually"
+    },
+    {
+        "answer": "The center of gravity always lies inside object .",
+        "distractors": [
+            "The center of gravity of an object is defined as point through which its whole weight appears to act .",
+            "The center of gravity is sometimes confused with center of mass .",
+            "For an object placed in a uniform gravitational field , center of gravity coincides with center of mass ."
+        ],
+        "sentence": "Statement related to center of gravity that is incorrect is"
+    },
+    {
+        "answer": "kangaroo rat",
+        "distractors": [
+            "camel",
+            "Scorpio",
+            "All of Above"
+        ],
+        "sentence": "Animal which can survive in drastic conditions of desert by feeding on seeds of plants containing more carbohydrates is"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "sore",
+            "ulcer",
+            "bleeding"
+        ],
+        "sentence": "When walls of duodenum are eaten away by its own mucus layer , it gives result to a/an"
+    },
+    {
+        "answer": "water cooled pipe",
+        "distractors": [
+            "hot pipe",
+            "round pipe",
+            "spiral pipe"
+        ],
+        "sentence": "In Linde 's method heat of compression is removed in"
+    },
+    {
+        "answer": "capillaries",
+        "distractors": [
+            "endothelium",
+            "arteries",
+            "veins"
+        ],
+        "sentence": "Blood vessels which carry blood from arteriole to venule is"
+    },
+    {
+        "answer": "Vo/Vi",
+        "distractors": [
+            "Vo + Vi",
+            "Vo - Vi",
+            "Vo \u00c3\u0097 Vi"
+        ],
+        "sentence": "Open loop gain of an amplifier can be represented by formula"
+    },
+    {
+        "answer": "number of neutrons can be obtained",
+        "distractors": [
+            "number of electrons can be obtained",
+            "nature of bonding can be determined",
+            "polarization can be determined"
+        ],
+        "sentence": "Subtracting proton number from nucleon number ,"
+    },
+    {
+        "answer": "Tin",
+        "distractors": [
+            "Sulphur",
+            "Sodium",
+            "Nickel"
+        ],
+        "sentence": "Stannum is Latin name of"
+    },
+    {
+        "answer": "very responsive",
+        "distractors": [
+            "less responsive",
+            "least responsive thermometer",
+            "unresponsive thermometer"
+        ],
+        "sentence": "Thermocouple thermometer is"
+    },
+    {
+        "answer": "reproduction",
+        "distractors": [
+            "inheritance",
+            "heredity",
+            "budding"
+        ],
+        "sentence": "Mechanism that produces new generations and maintains a specie is"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "adrenaline",
+            "nor-adrenaline",
+            "cortico-steroids"
+        ],
+        "sentence": "Medulla of adrenals produces hormone"
+    },
+    {
+        "answer": "300",
+        "distractors": [
+            "400",
+            "600",
+            "500"
+        ],
+        "sentence": "Gas molecules differ in their diameters from distance by"
+    },
+    {
+        "answer": "hydrophytes",
+        "distractors": [
+            "xerophytes",
+            "saprophytes",
+            "spectophyte"
+        ],
+        "sentence": "Avicennia is an example of"
+    },
+    {
+        "answer": "2.7 g cm-3",
+        "distractors": [
+            "2.7 kg cm-3",
+            "2.7 g m-3",
+            "2.7 kg m-3"
+        ],
+        "sentence": "Density of aluminum is round about equal to"
+    },
+    {
+        "answer": "3R/2N*T",
+        "distractors": [
+            "3R/9N*T",
+            "3R/5N*T",
+            "3R/5N*T"
+        ],
+        "sentence": "Average translational energy is represented by"
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "9.1 \u00c3\u0097 10-31 kg",
+            "8.1 \u00c3\u0097 10-31 kg",
+            "infinite"
+        ],
+        "sentence": "Rest mass of x-ray photon is"
+    },
+    {
+        "answer": "blood clotting made easy",
+        "distractors": [
+            "blood made diluted",
+            "lack of sleep",
+            "feeling hungry all time"
+        ],
+        "sentence": "Heart attack or stroke results due to"
+    },
+    {
+        "answer": "inkjet printer",
+        "distractors": [
+            "laser printer",
+            "desk jet printer",
+            "both a and b"
+        ],
+        "sentence": "Printer that uses electric charges is called"
+    },
+    {
+        "answer": "ions which require least energy to be discharged",
+        "distractors": [
+            "ions which require most energy to be discharged",
+            "elements of group VII",
+            "metal chlorides"
+        ],
+        "sentence": "Selective charges occurs for the"
+    },
+    {
+        "answer": "timber trees are cut down worldwide",
+        "distractors": [
+            "timber trees are cut down selectively",
+            "if rate of plantation exceeds rate of cutting trees",
+            "new seedlings are planted and grown trees are cut"
+        ],
+        "sentence": "Forests can be not be conserved if"
+    },
+    {
+        "answer": "ovoid",
+        "distractors": [
+            "circle",
+            "square",
+            "triangular"
+        ],
+        "sentence": "Shape of pituitary gland is"
+    },
+    {
+        "answer": "decomposers",
+        "distractors": [
+            "primary consumers",
+            "secondary consumers",
+            "detritivores"
+        ],
+        "sentence": "Fungi and bacteria act as"
+    },
+    {
+        "answer": "pappus",
+        "distractors": [
+            "testa",
+            "lodicule",
+            "glumes"
+        ],
+        "sentence": "Plumed fruits develop a parachute like structure called as"
+    },
+    {
+        "answer": "deoxygenated blood from heart to lungs",
+        "distractors": [
+            "red oxygenated blood",
+            "bluish red deoxygenated blood",
+            "oxygenated blood from lungs to heart"
+        ],
+        "sentence": "Pulmonary arteries carry"
+    },
+    {
+        "answer": "pathenocarpy",
+        "distractors": [
+            "binary fission",
+            "budding",
+            "grafting"
+        ],
+        "sentence": "Fruit development without fertilization with no seed formation is called"
+    },
+    {
+        "answer": "184.4 degree Celsius",
+        "distractors": [
+            "100 degree Celsius",
+            "78 degree Celsius",
+            "none"
+        ],
+        "sentence": "Aniline has boiling point of"
+    },
+    {
+        "answer": "oppositely charged",
+        "distractors": [
+            "having same charge",
+            "no charge",
+            "neutral"
+        ],
+        "sentence": "In a crystal lattice , when size of ion is increased packing of ions becomes less which are"
+    },
+    {
+        "answer": "5",
+        "distractors": [
+            "2",
+            "8",
+            "4"
+        ],
+        "sentence": "Number of electrons ( e- ) in phosphorus ( P ) is 15. valence electrons shall be"
+    },
+    {
+        "answer": "conductors",
+        "distractors": [
+            "insulators",
+            "no effect",
+            "stay neutral"
+        ],
+        "sentence": "With respect to thermal conductivity metallic particles are"
+    },
+    {
+        "answer": "sense of smell",
+        "distractors": [
+            "sense of taste",
+            "sense of touch",
+            "sense of hearing"
+        ],
+        "sentence": "Olfactory bulbs in telencephalon are concerned with"
+    },
+    {
+        "answer": "metamorphosis",
+        "distractors": [
+            "ecdysis",
+            "egg laying",
+            "growth"
+        ],
+        "sentence": "In amphibians , thyroxine bring about process of"
+    },
+    {
+        "answer": "nucleus pulposus",
+        "distractors": [
+            "annulus fibrosus",
+            "both of them",
+            "cytoplasmic polposus"
+        ],
+        "sentence": "Inner semi fluid of invertebral disc is"
+    },
+    {
+        "answer": "conversion of glycogen to glucose",
+        "distractors": [
+            "to avoid sweets",
+            "to workout",
+            "to rest"
+        ],
+        "sentence": "In case of low blood glucose concentration , negative feedback is"
+    },
+    {
+        "answer": "turning yellow",
+        "distractors": [
+            "turning green",
+            "turning white",
+            "turning blue"
+        ],
+        "sentence": "Word lutenisation means"
+    },
+    {
+        "answer": "neon",
+        "distractors": [
+            "nitrogen",
+            "oxygen",
+            "fluorine"
+        ],
+        "sentence": "First element in periodic table to have 8 valence electrons is"
+    },
+    {
+        "answer": "biome",
+        "distractors": [
+            "weather",
+            "space",
+            "ecosystem"
+        ],
+        "sentence": "A large regional community which is primarily determined by climate is termed as a"
+    },
+    {
+        "answer": "P+P '",
+        "distractors": [
+            "P-P '",
+            "P-V",
+            "V-t"
+        ],
+        "sentence": "True pressure can be represented as"
+    },
+    {
+        "answer": "CO3",
+        "distractors": [
+            "OH",
+            "NO3",
+            "HCO3"
+        ],
+        "sentence": "All of these radicals have a valency of 1 , except"
+    },
+    {
+        "answer": "discharge tube",
+        "distractors": [
+            "test tube",
+            "glass",
+            "space"
+        ],
+        "sentence": "Spectrum of hydrogen can be obtained in"
+    },
+    {
+        "answer": "maximum",
+        "distractors": [
+            "positive",
+            "negative",
+            "zero"
+        ],
+        "sentence": "When angle is equal to zero , work will be"
+    },
+    {
+        "answer": "nucleus",
+        "distractors": [
+            "mitochondria",
+            "ribosomes",
+            "golgi apparatus"
+        ],
+        "sentence": "From two cell of salamander zygote , one that kept dividing had"
+    },
+    {
+        "answer": "large",
+        "distractors": [
+            "small",
+            "medium",
+            "none"
+        ],
+        "sentence": "To cover one fourth of filter paper with precipitate filter paper should be"
+    },
+    {
+        "answer": "H2SO3",
+        "distractors": [
+            "H2SO4",
+            "HNO3",
+            "HCl"
+        ],
+        "sentence": "Strong acids do not include"
+    },
+    {
+        "answer": "( useful energy output / total energy input ) \u00c3\u0097 100",
+        "distractors": [
+            "( energy input / energy output ) \u00c3\u0097 100",
+            "( energy input / energy output ) \u00c3\u0097 100",
+            "( useful energy input / energy output ) \u00c3\u0097 100"
+        ],
+        "sentence": "Formula for efficiency is"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "glycogen",
+            "myoglobin",
+            "globulin"
+        ],
+        "sentence": "Sarcoplasm of skeletal muscles fiber is composed of"
+    },
+    {
+        "answer": "132.14g/mol",
+        "distractors": [
+            "113.14g/mol",
+            "139.33g/mol",
+            "143.69g/mol"
+        ],
+        "sentence": "Relative formula mass of aluminum sulphate ( NH4 ) 2SO4 is"
+    },
+    {
+        "answer": "52",
+        "distractors": [
+            "51",
+            "50",
+            "45"
+        ],
+        "sentence": "Angle that lies between two vectors A = 5 + 1 and B = 2 + 4 is"
+    },
+    {
+        "answer": "4",
+        "distractors": [
+            "5",
+            "6",
+            "7"
+        ],
+        "sentence": "Arbitrary standard value which is given by fluorine on electro negativity scale is"
+    },
+    {
+        "answer": "indiscriminately",
+        "distractors": [
+            "discriminately",
+            "in both ways",
+            "drift nets do n't capture fish"
+        ],
+        "sentence": "Drift nets capture fish"
+    },
+    {
+        "answer": "chemical energy to electrical energy",
+        "distractors": [
+            "chemical energy to kinetic energy",
+            "electrical to chemical energy",
+            "kinetic energy to chemical and electrical energy"
+        ],
+        "sentence": "A battery converts"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "shock",
+            "stress",
+            "infection"
+        ],
+        "sentence": "Adrenal cortex is active all time but especially during"
+    },
+    {
+        "answer": "Scalar quantity",
+        "distractors": [
+            "Vector quantity",
+            "Base quantity",
+            "Derived quantity"
+        ],
+        "sentence": "Volume is a"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "Is = 10Ip",
+            "Ip = 10Is",
+            "Ns = 10Np"
+        ],
+        "sentence": "If turn ratio of a transformer is 10 , it means that"
+    },
+    {
+        "answer": "interstitial fluid",
+        "distractors": [
+            "lymph fluid",
+            "plasma fluid",
+            "neurotic fluid"
+        ],
+        "sentence": "Tissue fluid is also known as"
+    },
+    {
+        "answer": "Pressure of a fixed mass of gas at constant volume",
+        "distractors": [
+            "Electromotive force",
+            "Volume of a fixed mass of liquid",
+            "resistance of a piece of metal"
+        ],
+        "sentence": "Every temperature measuring instrument makes use of a physical property of a substance in order to measure temperature objectively , which physical property is used by Constant-volume gas thermometer ?"
+    },
+    {
+        "answer": "thickness",
+        "distractors": [
+            "height",
+            "length",
+            "no . of flowers"
+        ],
+        "sentence": "Secondary growth leads to increase in"
+    },
+    {
+        "answer": "band theory",
+        "distractors": [
+            "energy theory",
+            "array theory",
+            "metallic theory"
+        ],
+        "sentence": "In case of metallic bonds molecular orbital theory is called"
+    },
+    {
+        "answer": "very less reactive",
+        "distractors": [
+            "very reactive",
+            "moderately reactive",
+            "reactive occasionally"
+        ],
+        "sentence": "Form of carbon Diamond is"
+    },
+    {
+        "answer": "roots",
+        "distractors": [
+            "stem",
+            "leaves",
+            "phloem"
+        ],
+        "sentence": "Starch formation can occur in"
+    },
+    {
+        "answer": "meat and eggs",
+        "distractors": [
+            "plant foods",
+            "microorganisms living in gut",
+            "both A and B"
+        ],
+        "sentence": "Sources of vitamin may include"
+    },
+    {
+        "answer": "remain same",
+        "distractors": [
+            "reversed",
+            "gets half",
+            "gets double"
+        ],
+        "sentence": "If a vector gets multiplied by a positive number , its direction"
+    },
+    {
+        "answer": "physics",
+        "distractors": [
+            "mathematics",
+            "chemistry",
+            "English"
+        ],
+        "sentence": "Branch of science dealing with matter and energy and their relationship is called"
+    },
+    {
+        "answer": "motion",
+        "distractors": [
+            "locomotion",
+            "vibration",
+            "resonance"
+        ],
+        "sentence": "Word kinetic refers to"
+    },
+    {
+        "answer": "atmospheric pressure",
+        "distractors": [
+            "pressure in liquids",
+            "pressure in solids",
+            "any kind of pressure"
+        ],
+        "sentence": "Pascal is not used in terms of"
+    },
+    {
+        "answer": "1 mole of gas",
+        "distractors": [
+            "2 moles of gas",
+            "5 moles of gas",
+            "3moles of gas"
+        ],
+        "sentence": "Effective volume is usually taken for"
+    },
+    {
+        "answer": "for two ions of Al , 3 ions of sulphate are required",
+        "distractors": [
+            "for each ion of Al , two ions of sulphate are required",
+            "for each ion of Al , three ions of sulphate are required",
+            "for two ions of Al , three ions of sulphate are required"
+        ],
+        "sentence": "Formula of aluminum sulphate indicates that"
+    },
+    {
+        "answer": "all of above",
+        "distractors": [
+            "cell volume increases",
+            "plasticity of cell wall increases",
+            "wall pressure is reduced"
+        ],
+        "sentence": "During elongation phase of growth"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "ovarian cycle",
+            "uterine cycle",
+            "ovulatory cycle"
+        ],
+        "sentence": "Events of menstrual cycle involve the"
+    },
+    {
+        "answer": "Aneelida",
+        "distractors": [
+            "Protozoa",
+            "platyhelminthes",
+            "Nematoda"
+        ],
+        "sentence": "'little ring ' is common name for organism of Phylum"
+    },
+    {
+        "answer": "LiCl",
+        "distractors": [
+            "LiCl2",
+            "Li2Cl",
+            "Li3Cl2"
+        ],
+        "sentence": "Formula of Lithium chloride is"
+    },
+    {
+        "answer": "granular layer",
+        "distractors": [
+            "malpighian layer",
+            "dermis",
+            "sub-cutaneous fat"
+        ],
+        "sentence": "Rubbed off cells of cornified layer are replaced by"
+    },
+    {
+        "answer": "neutrino",
+        "distractors": [
+            "anti neutrino",
+            "positron",
+            "none"
+        ],
+        "sentence": "Neutron is splitted into proton , electron and"
+    },
+    {
+        "answer": "empty spaces",
+        "distractors": [
+            "large volume",
+            "shape",
+            "molecules"
+        ],
+        "sentence": "Gases can be compressed because of"
+    },
+    {
+        "answer": "temperature",
+        "distractors": [
+            "force",
+            "potential energy",
+            "biomass"
+        ],
+        "sentence": "Three states of matter depend on"
+    },
+    {
+        "answer": "magnesium oxide",
+        "distractors": [
+            "propane",
+            "butane",
+            "tin oxide"
+        ],
+        "sentence": "A white smoke consisting of fine white solid particles is formed by"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "number of neutrons",
+            "number of valence electrons",
+            "number of electron shells"
+        ],
+        "sentence": "Period number indicates the"
+    },
+    {
+        "answer": "stomach",
+        "distractors": [
+            "kidney",
+            "lungs",
+            "intestine"
+        ],
+        "sentence": "Gastrin is hormone produced by mucosa of pyloric region of the"
+    },
+    {
+        "answer": "hemichordate",
+        "distractors": [
+            "radiata",
+            "bilateria",
+            "fungi"
+        ],
+        "sentence": "Balanoglossus and Saccoglossus belongs to phylum"
+    },
+    {
+        "answer": "y axis",
+        "distractors": [
+            "x axis",
+            "b axis",
+            "z axis"
+        ],
+        "sentence": "Length b in unit cell is along"
+    },
+    {
+        "answer": "viral or fungal",
+        "distractors": [
+            "aerobic",
+            "anaerobic",
+            "both A and B"
+        ],
+        "sentence": "Bacteria may be"
+    },
+    {
+        "answer": "Air",
+        "distractors": [
+            "Liquid",
+            "Solid",
+            "Vacuum"
+        ],
+        "sentence": "Sound is slowest in"
+    },
+    {
+        "answer": "nuclear pores",
+        "distractors": [
+            "nuclear membrane",
+            "nucleus",
+            "chromatin network"
+        ],
+        "sentence": "Exchange of materials takes place between nucleus and cytoplasm with help of"
+    },
+    {
+        "answer": "m/v , where m is mass and v is volume",
+        "distractors": [
+            "m/a , where m is mass and a is area",
+            "v/m , where v is volume and m is mass",
+            "w/v , where w is weight and v is volume"
+        ],
+        "sentence": "Density is equal to"
+    },
+    {
+        "answer": "rectal glands",
+        "distractors": [
+            "mammary glands",
+            "secretory glands",
+            "anorectal glands"
+        ],
+        "sentence": "Specialized salt excreting organs are"
+    },
+    {
+        "answer": "C4H10",
+        "distractors": [
+            "CH4",
+            "C2H4",
+            "C3H8"
+        ],
+        "sentence": "Chemical formula of butane is"
+    },
+    {
+        "answer": "46 \u00c2\u00b0C",
+        "distractors": [
+            "30 \u00c2\u00b0C",
+            "36 \u00c2\u00b0C",
+            "40 \u00c2\u00b0C"
+        ],
+        "sentence": "Philodendron flowers temperature may exceed"
+    },
+    {
+        "answer": "Breath or soul",
+        "distractors": [
+            "cells",
+            "body",
+            "life"
+        ],
+        "sentence": "Animalia is Latin word which means"
+    },
+    {
+        "answer": "freely movable joints",
+        "distractors": [
+            "immovable joints",
+            "movable joints",
+            "All of Above"
+        ],
+        "sentence": "Hinge joint and ball and socket joint are examples of"
+    },
+    {
+        "answer": "small pox",
+        "distractors": [
+            "measles",
+            "mumps",
+            "all of above"
+        ],
+        "sentence": "Disease in which fluid filled vesicles are formed on body which takes shape of pustules and leave pitted scars is"
+    },
+    {
+        "answer": "a new cap is regenerated",
+        "distractors": [
+            "alga dies",
+            "two new caps are produced",
+            "alga still lives without cap"
+        ],
+        "sentence": "If cap of acetabularia is removed ,"
+    },
+    {
+        "answer": "plasma",
+        "distractors": [
+            "gas",
+            "solid",
+            "liquid"
+        ],
+        "sentence": "Fourth state of matter is called"
+    },
+    {
+        "answer": "ionic compounds",
+        "distractors": [
+            "covalent compounds",
+            "metallic compounds",
+            "dative bond"
+        ],
+        "sentence": "Giant crystal lattices are only formed in"
+    },
+    {
+        "answer": "pericardium",
+        "distractors": [
+            "peritoneal",
+            "atria",
+            "ventricles"
+        ],
+        "sentence": "Over extension of heart is prevented by"
+    },
+    {
+        "answer": "assimilation",
+        "distractors": [
+            "deamination",
+            "defaecation",
+            "egestion"
+        ],
+        "sentence": "Transport and utilization of absorbed food is called as"
+    },
+    {
+        "answer": "20 glands",
+        "distractors": [
+            "10 glands",
+            "15 glands",
+            "25 glands"
+        ],
+        "sentence": "Endocrine system consists of"
+    },
+    {
+        "answer": "sensitivity",
+        "distractors": [
+            "adaptation",
+            "seriousness",
+            "producing off-springs"
+        ],
+        "sentence": "Irritability is synonym to"
+    },
+    {
+        "answer": "Acoelomates",
+        "distractors": [
+            "coelomates",
+            "actomates",
+            "feuromates"
+        ],
+        "sentence": "Animals which possesses flame cells , excretory ducts and excretory pores are termed as"
+    },
+    {
+        "answer": "HCV",
+        "distractors": [
+            "HBV",
+            "HAV",
+            "HEV"
+        ],
+        "sentence": "There is no genetically engineered vaccine available for"
+    },
+    {
+        "answer": "increase",
+        "distractors": [
+            "decrease",
+            "remain same",
+            "none"
+        ],
+        "sentence": "Size of s-orbital increases when value of principal quantum number is"
+    },
+    {
+        "answer": "wilt",
+        "distractors": [
+            "die",
+            "regrow",
+            "regenerate"
+        ],
+        "sentence": "If herbaceous stem loose its turgidity , it may"
+    },
+    {
+        "answer": "viviparous",
+        "distractors": [
+            "oviparous",
+            "ovoviviparous",
+            "viparous"
+        ],
+        "sentence": "Mammals which give birth to young ones of their own kind are called"
+    },
+    {
+        "answer": "less metabolic activities",
+        "distractors": [
+            "vasoconstriction",
+            "Less convection",
+            "less radiation"
+        ],
+        "sentence": "If heat gain center of hypothalamus is activated , control mechanism includes all but"
+    },
+    {
+        "answer": "UV region",
+        "distractors": [
+            "infrared region",
+            "visible region",
+            "radio waves region"
+        ],
+        "sentence": "Balmer series has limiting line in"
+    },
+    {
+        "answer": "guppies",
+        "distractors": [
+            "gold fish",
+            "tubifax worms",
+            "seahorse"
+        ],
+        "sentence": "Mosquito larvae and pupae can be exterminated through small fish like"
+    },
+    {
+        "answer": "rate of work done or energy conversion of one joule per second",
+        "distractors": [
+            "rate of time of one second per joule",
+            "rate of distance of one meter per joule",
+            "rate of work done or energy conversion of one joule per meter"
+        ],
+        "sentence": "We can say that one watt is defined as"
+    },
+    {
+        "answer": "Weight",
+        "distractors": [
+            "Mass",
+            "Time",
+            "acceleration"
+        ],
+        "sentence": "Quantity that varies due to gravitational pull variations is"
+    },
+    {
+        "answer": "ionic precipitation",
+        "distractors": [
+            "reaction of a metal and an acid",
+            "reaction of a metal oxide and an acid",
+            "reaction of a metal hydroxide and an acid"
+        ],
+        "sentence": "Insoluble salts can be made by"
+    },
+    {
+        "answer": "voltage",
+        "distractors": [
+            "current",
+            "work",
+            "potential difference"
+        ],
+        "sentence": "By electric processes in heart using points between skin , ECG records"
+    },
+    {
+        "answer": "beriberi",
+        "distractors": [
+            "rickets",
+            "diabetes",
+            "scurvy"
+        ],
+        "sentence": "Damage to nervous system and limb paralysis is caused due to"
+    },
+    {
+        "answer": "mvr",
+        "distractors": [
+            "mcs",
+            "mv",
+            "mr"
+        ],
+        "sentence": "Angular momentum is represented by"
+    },
+    {
+        "answer": "Ice point and steam point",
+        "distractors": [
+            "Melting point and boiling point",
+            "Condensing point and boiling point",
+            "Condensation point and freezing point"
+        ],
+        "sentence": "Two points used for centigrade scale or Celsius scale are"
+    },
+    {
+        "answer": "Vector quantity",
+        "distractors": [
+            "Scalar quantity",
+            "Base quantity",
+            "Derived quantity"
+        ],
+        "sentence": "Force is a"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "small",
+            "dry",
+            "light"
+        ],
+        "sentence": "Pollens in wind pollinated flowers are"
+    },
+    {
+        "answer": "no work is done",
+        "distractors": [
+            "no power is used",
+            "work is done",
+            "power is used"
+        ],
+        "sentence": "When force is applied on an object but object does not move , it means that"
+    },
+    {
+        "answer": "intercalary meristems",
+        "distractors": [
+            "lateral meristems",
+            "apical meristems",
+            "cortex"
+        ],
+        "sentence": "Production of leaves and flowers is due to"
+    },
+    {
+        "answer": "mRNA",
+        "distractors": [
+            "tRNA",
+            "rRNA",
+            "all of above"
+        ],
+        "sentence": "Transfer of genetic message from nucleus to ribosome in cytoplasm is done by"
+    },
+    {
+        "answer": "antis era",
+        "distractors": [
+            "anti-bacterial",
+            "anti-fungal",
+            "anti-serum"
+        ],
+        "sentence": "Passive immunity is developed by injecting antibodies in form of"
+    },
+    {
+        "answer": "thyroid glands",
+        "distractors": [
+            "thiamine deficiency",
+            "theological inheritance",
+            "muscles used for breathing"
+        ],
+        "sentence": "Thyroxin is secreted from"
+    },
+    {
+        "answer": "temperature becomes lower",
+        "distractors": [
+            "temperature becomes higher",
+            "minimum absorption is carried out",
+            "risks of sublimation exists"
+        ],
+        "sentence": "In fractionating column of fractional distillation , higher in column"
+    },
+    {
+        "answer": "fibrous capsule",
+        "distractors": [
+            "ligament",
+            "synovial capsule",
+            "tendon"
+        ],
+        "sentence": "Layer of connective tissue which surrounds synovial joints is called as"
+    },
+    {
+        "answer": "pH",
+        "distractors": [
+            "location",
+            "climate",
+            "pressure"
+        ],
+        "sentence": "Enzymes are quite sensitive to change in concentration , temperature and"
+    },
+    {
+        "answer": "Au",
+        "distractors": [
+            "Go",
+            "Gu",
+            "Ag"
+        ],
+        "sentence": "Symbol of gold is"
+    },
+    {
+        "answer": "cytokinins",
+        "distractors": [
+            "ethene",
+            "gibberellin",
+            "thyroxine"
+        ],
+        "sentence": "Along with auxins hormone that causes apical dominance is"
+    },
+    {
+        "answer": "150 m s-2",
+        "distractors": [
+            "5000 m s-2",
+            "50 m s-2",
+            "2 m s-2"
+        ],
+        "sentence": "A boy of mass 50 kg runs with a force of 100 N , his acceleration would be"
+    },
+    {
+        "answer": "van der Wal forces",
+        "distractors": [
+            "London dispersion force",
+            "ionic forces",
+            "covalent forces"
+        ],
+        "sentence": "Along with dipole forces another force present in molecular solids is"
+    },
+    {
+        "answer": "mosaic",
+        "distractors": [
+            "zigzag",
+            "criss-cross",
+            "eplic"
+        ],
+        "sentence": "Fluid Mosaic Model favors that cell membrane contains proteins which are embedded in fashion of"
+    },
+    {
+        "answer": "forms central part of brain",
+        "distractors": [
+            "makes up nerve fibers",
+            "forms outer part of brain",
+            "is found in PNS"
+        ],
+        "sentence": "White matter"
+    },
+    {
+        "answer": "complicated",
+        "distractors": [
+            "simple",
+            "doubtful",
+            "none"
+        ],
+        "sentence": "D-sub shell have shape which is"
+    },
+    {
+        "answer": "CO",
+        "distractors": [
+            "CuO",
+            "Cu",
+            "CO2"
+        ],
+        "sentence": "In Copper Oxide ( CuO ) and Carbon Monoxide ( CO ) reaction , reducing agent is"
+    },
+    {
+        "answer": "90 degree",
+        "distractors": [
+            "60 degree",
+            "50 degree",
+            "40 degree"
+        ],
+        "sentence": "Angles between lengths in tetragonal system are"
+    },
+    {
+        "answer": "red blood cells",
+        "distractors": [
+            "white blood cells",
+            "platelets",
+            "antibodies"
+        ],
+        "sentence": "Bone marrow produces"
+    },
+    {
+        "answer": "organic solvents",
+        "distractors": [
+            "inorganic solvents",
+            "organic solutes",
+            "inorganic solutes"
+        ],
+        "sentence": "Chlorophylls are soluble in"
+    },
+    {
+        "answer": "Both A and B",
+        "distractors": [
+            "decanting",
+            "centrifuging",
+            "filtration"
+        ],
+        "sentence": "Alternative techniques to crystallization involve"
+    },
+    {
+        "answer": "milk sugar",
+        "distractors": [
+            "malt sugar",
+            "grape sugar",
+            "cane sugar"
+        ],
+        "sentence": "Lactose ( C12H22O11 ) is largely obtained from"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "liver",
+            "blood",
+            "pancreas"
+        ],
+        "sentence": "In mammals , catalase is common in"
+    },
+    {
+        "answer": "two pairs of electron",
+        "distractors": [
+            "one electron",
+            "one pair of electron",
+            "three electrons"
+        ],
+        "sentence": "Double covalent bond refers to sharing of"
+    },
+    {
+        "answer": "qualitative measure",
+        "distractors": [
+            "quantitative measure",
+            "normal measure",
+            "regular measure"
+        ],
+        "sentence": "For stability of an isolated atom ionization energy is"
+    },
+    {
+        "answer": "exocrine gland",
+        "distractors": [
+            "endocrine gland",
+            "ectocrine glands",
+            "hypocrine glands"
+        ],
+        "sentence": "Sweat gland is an example of"
+    },
+    {
+        "answer": "CuO",
+        "distractors": [
+            "Cu2O",
+            "CuO2",
+            "Cu ( OH ) 2"
+        ],
+        "sentence": "Combining Copper ( II ) ( Cu+2 ) with Oxygen ( O2 ) results in"
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "hemoglobin",
+            "protoplasm",
+            "energy"
+        ],
+        "sentence": "70 to 90 % of cell protoplasm is"
+    },
+    {
+        "answer": "Stoichiometry",
+        "distractors": [
+            "electrometry",
+            "spectrometer",
+            "photometry"
+        ],
+        "sentence": "Law of definite proportion is obeyed in"
+    },
+    {
+        "answer": "bending",
+        "distractors": [
+            "heat",
+            "insects",
+            "light"
+        ],
+        "sentence": "Turgor pressure keeps plant rigid and resistant to"
+    },
+    {
+        "answer": "purplish red",
+        "distractors": [
+            "bright red",
+            "bright pink",
+            "dark red"
+        ],
+        "sentence": "Carboxyhaemoglobin is of"
+    },
+    {
+        "answer": "Both A and B",
+        "distractors": [
+            "PbCl2",
+            "HgCl2",
+            "NaCl"
+        ],
+        "sentence": "Insoluble salt is"
+    },
+    {
+        "answer": "Both A and B",
+        "distractors": [
+            "gives oxygen",
+            "accepts electrons",
+            "gives hydrogen"
+        ],
+        "sentence": "An oxidant"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "wood",
+            "supportive",
+            "lignin"
+        ],
+        "sentence": "Xylem tissues are also called as"
+    },
+    {
+        "answer": "crests and troughs",
+        "distractors": [
+            "compression and rarefaction",
+            "crests and rarefactions",
+            "compressions and troughs"
+        ],
+        "sentence": "Ups and downs in transverse waves are termed as"
+    },
+    {
+        "answer": "remain constant",
+        "distractors": [
+            "increase",
+            "decrease",
+            "may increase or decrease"
+        ],
+        "sentence": "During process of solidification , when liquid is being changed into solid , temperature at that period would"
+    },
+    {
+        "answer": "both A and B",
+        "distractors": [
+            "human population control",
+            "reducing pollution",
+            "increasing use of resources"
+        ],
+        "sentence": "Conservation of resources can be tackled through"
+    },
+    {
+        "answer": "no free hydrogen protons are available",
+        "distractors": [
+            "it is highly acidic",
+            "solution is highly ionic",
+            "solution contains hydroxyl ions only"
+        ],
+        "sentence": "HCl ( g ) dissolved in Methylbenzene ( C7H8 ) shows no change on litmus paper because"
+    },
+    {
+        "answer": "hydrogen bonding",
+        "distractors": [
+            "chlorine",
+            "sulphurdioxide",
+            "ammonia"
+        ],
+        "sentence": "Gas having low value of 'a ' is"
+    },
+    {
+        "answer": "produce more efficient fuel combustion",
+        "distractors": [
+            "produce less air pollution",
+            "consume lesser oxygen",
+            "use them in sky rockets"
+        ],
+        "sentence": "Purpose of Lean Burn engines is to"
+    },
+    {
+        "answer": "heat sensors should be used",
+        "distractors": [
+            "barometer should be used",
+            "gas syringe shall be used",
+            "data loggers are a better choice"
+        ],
+        "sentence": "In neutralization reactions , instead of pH meter ,"
+    },
+    {
+        "answer": "insoluble",
+        "distractors": [
+            "heavier than carbon dioxide",
+            "lighter than air",
+            "colored"
+        ],
+        "sentence": "Hydrogen ( H2 ) is not"
+    },
+    {
+        "answer": "ATP synthase",
+        "distractors": [
+            "ATP complex",
+            "ATP synthetase",
+            "ANP complex"
+        ],
+        "sentence": "Special complex which is build in thylakoid membrane which helps in moving down gradient is called"
+    },
+    {
+        "answer": "reflex action",
+        "distractors": [
+            "cardio-vascular coordination",
+            "voluntary actions",
+            "involuntary actions"
+        ],
+        "sentence": "Suddenly pulling brakes in traffic emergency is an example of"
+    },
+    {
+        "answer": "calciferol",
+        "distractors": [
+            "ascorbic acid",
+            "Phytomenadione",
+            "absisic acid"
+        ],
+        "sentence": "Vitamin D can also be called"
+    },
+    {
+        "answer": "gives off spinal nerves",
+        "distractors": [
+            "has myelin sheath",
+            "has grey matter",
+            "branches off into dendrites"
+        ],
+        "sentence": "At intervals , along length , spinal cord"
+    },
+    {
+        "answer": "30 J kg-1 \u00c2\u00b0C-1",
+        "distractors": [
+            "60 J kg-1 \u00c2\u00b0C-1",
+            "90 J kg-1 \u00c2\u00b0C-1",
+            "120 J kg-1 \u00c2\u00b0C-1"
+        ],
+        "sentence": "A solid of mass 120 kg has heat capacity of 3600 JK-1 , specific heat capacity of solid would be"
+    },
+    {
+        "answer": "tricuspid valves",
+        "distractors": [
+            "semilunar valves",
+            "mitral valves",
+            "median septum"
+        ],
+        "sentence": "Back flow of blood from right ventricle to right atrium is prevented through"
+    },
+    {
+        "answer": "fungi",
+        "distractors": [
+            "jelly fish",
+            "algae",
+            "hydra"
+        ],
+        "sentence": "Powdery mildews , potato wilt , apple scab are all diseases caused by"
+    },
+    {
+        "answer": "gravity",
+        "distractors": [
+            "stomach",
+            "longitudinal muscles",
+            "circular muscles"
+        ],
+        "sentence": "Food material moves to esophagus with help of"
+    },
+    {
+        "answer": "open",
+        "distractors": [
+            "closed",
+            "compact",
+            "box like"
+        ],
+        "sentence": "Structure of covalent compounds is"
+    },
+    {
+        "answer": "Qualitative analysis",
+        "distractors": [
+            "Testing",
+            "quantitative analysis",
+            "Physical test"
+        ],
+        "sentence": "Identification of an element is"
+    },
+    {
+        "answer": "melting point",
+        "distractors": [
+            "latent heat of vaporization",
+            "an elevation in boiling point",
+            "boiling point"
+        ],
+        "sentence": "A constant temperature at which a pure solid changes into a pure liquid is called"
+    },
+    {
+        "answer": "leech",
+        "distractors": [
+            "lice",
+            "flea",
+            "aphid"
+        ],
+        "sentence": "Common ectoparasite which attack both aquatic and terrestrial animals is"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "serous coat",
+            "sub mucous coat",
+            "mucous layer"
+        ],
+        "sentence": "Four layers of gullet include"
+    },
+    {
+        "answer": "antibiotics shall be administered",
+        "distractors": [
+            "endoscopy shall be done",
+            "ultrasounds may help",
+            "x-rays are treatment"
+        ],
+        "sentence": "In order to help recover from bacterial meningitis ,"
+    },
+    {
+        "answer": "collagen",
+        "distractors": [
+            "lipoprotein",
+            "globulin",
+            "albumin"
+        ],
+        "sentence": "Bones and cartilages are composed of protein known as"
+    },
+    {
+        "answer": "laptops",
+        "distractors": [
+            "lamp",
+            "mouse",
+            "speakers"
+        ],
+        "sentence": "Liquids crystals are used in display of"
+    },
+    {
+        "answer": "momentary",
+        "distractors": [
+            "permanent",
+            "very strong",
+            "neutral"
+        ],
+        "sentence": "In dipole induced dipole forces force of attraction created is"
+    },
+    {
+        "answer": "fusion of one male gamete with ovum",
+        "distractors": [
+            "formation of endosperm nucleus",
+            "dispersal of seeds",
+            "splitting up of generative nucleus"
+        ],
+        "sentence": "Fertilization is the"
+    },
+    {
+        "answer": "lipid",
+        "distractors": [
+            "proteins",
+            "fats , glucose , starch",
+            "waxes"
+        ],
+        "sentence": "A compound which is responsible for structure of membranes of cell and its organelles is a"
+    },
+    {
+        "answer": "antherozoid",
+        "distractors": [
+            "ova",
+            "zygote",
+            "archegonia"
+        ],
+        "sentence": "Motile male gamete or sperm is also known as"
+    },
+    {
+        "answer": "looses lesser water as cuticle is relatively impermeable to water",
+        "distractors": [
+            "is same as stomatal transpiration",
+            "helps plant get rid of excess water",
+            "is more common in plants"
+        ],
+        "sentence": "Cuticlar transpiration"
+    },
+    {
+        "answer": "2n2",
+        "distractors": [
+            "2n",
+            "2n3",
+            "2n4"
+        ],
+        "sentence": "If n=1 , maximum number of electrons in a shell can be recalled through formulae"
+    },
+    {
+        "answer": "bounding of a substance to surface of another substance",
+        "distractors": [
+            "diffusion of one substance to bulk of other substances completely",
+            "boiling of liquid at surface",
+            "an inability to bond something at surface"
+        ],
+        "sentence": "Adsorption refers to the"
+    },
+    {
+        "answer": "0.295",
+        "distractors": [
+            "0.19",
+            "0.513",
+            "2.564"
+        ],
+        "sentence": "At 30 \u00c2\u00b0C , acetone has viscosity of"
+    },
+    {
+        "answer": "scalar quantity",
+        "distractors": [
+            "vector quantity",
+            "physical quantity",
+            "both a and b"
+        ],
+        "sentence": "When axis of rotation is fixed , angular velocity is considered as"
+    },
+    {
+        "answer": "35-40\u00c2\u00b0C",
+        "distractors": [
+            "20-30\u00c2\u00b0C",
+            "10-20\u00c2\u00b0C",
+            "5-10\u00c2\u00b0C"
+        ],
+        "sentence": "Rate of growth stops and plants die at a temperature of"
+    },
+    {
+        "answer": "LH",
+        "distractors": [
+            "prolactin",
+            "progesterone",
+            "FSH"
+        ],
+        "sentence": "At a point during oestrous cycle , oestrogen exert a positive feedback which results in increased production of"
+    },
+    {
+        "answer": "decrease rate of evaporation",
+        "distractors": [
+            "increase rate of evaporation",
+            "not affect rate of evaporation",
+            "disturb rate of evaporation"
+        ],
+        "sentence": "Suppose air is stable and not moving , this would"
+    },
+    {
+        "answer": "Sodium",
+        "distractors": [
+            "nitrogen",
+            "Phosphorus",
+            "Calcium"
+        ],
+        "sentence": "Main elements of living things do not include"
+    },
+    {
+        "answer": "all of these",
+        "distractors": [
+            "consume all oxygen in water",
+            "start living anaerobically",
+            "kill fish due to oxygen shortage in water"
+        ],
+        "sentence": "Rapid growth of bacteria may"
+    },
+    {
+        "answer": "inches",
+        "distractors": [
+            "millimetrs",
+            "metres",
+            "cm"
+        ],
+        "sentence": "Stem of funnel should have length of few"
+    },
+    {
+        "answer": "4200 J kg-1 \u00c2\u00b0C-1",
+        "distractors": [
+            "3900 J kg-1 \u00c2\u00b0C-1",
+            "4000 J kg-1 \u00c2\u00b0C-1",
+            "4100 J kg-1 \u00c2\u00b0C-1"
+        ],
+        "sentence": "Water has specific heat capacity of"
+    },
+    {
+        "answer": "cytoplasm",
+        "distractors": [
+            "mitochondria",
+            "Golgi complex",
+            "ribosome"
+        ],
+        "sentence": "Storage of vital chemicals is"
+    },
+    {
+        "answer": "CO",
+        "distractors": [
+            "SO2",
+            "CO2",
+            "P2O5"
+        ],
+        "sentence": "A poisonous gas released in exhaust fumes is"
+    },
+    {
+        "answer": "tissues",
+        "distractors": [
+            "phyla",
+            "xylem",
+            "epithelium"
+        ],
+        "sentence": "Group of cells performing similar functions are called"
+    },
+    {
+        "answer": "ammonia in air",
+        "distractors": [
+            "Carbon monoxide in air",
+            "carbon dioxide in air",
+            "sulpher dioxide in air"
+        ],
+        "sentence": "Volcanic eruptions , biological decay and forest fires release"
+    },
+    {
+        "answer": "carbon dioxide and oxygen",
+        "distractors": [
+            "carbohydrates and oxygen",
+            "carbohydrates and fats",
+            "storing up of food energy"
+        ],
+        "sentence": "Process of oxidation results in"
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "alcohol",
+            "Sulphur",
+            "none"
+        ],
+        "sentence": "40.6 kilojoules per mole is molar heat of vaporization for"
+    },
+    {
+        "answer": "10-11 h",
+        "distractors": [
+            "11-15 h",
+            "12-20 h",
+            "20-22 h"
+        ],
+        "sentence": "Reuirement of length of dark period for cocklebur is"
+    },
+    {
+        "answer": "food",
+        "distractors": [
+            "air",
+            "water",
+            "transport"
+        ],
+        "sentence": "Flagellates rely on dead or decomposing organic matter to obtain its"
+    },
+    {
+        "answer": "liver",
+        "distractors": [
+            "duodenum",
+            "jejunum",
+            "ileum"
+        ],
+        "sentence": "Bile is secreted by"
+    },
+    {
+        "answer": "allotropes",
+        "distractors": [
+            "polymorphs",
+            "cubic forms",
+            "isomorphs"
+        ],
+        "sentence": "Forms of elements showing allotropy are called"
+    },
+    {
+        "answer": "quantitative relationship",
+        "distractors": [
+            "qualitative relationship",
+            "none",
+            "corelation"
+        ],
+        "sentence": "Between temperature and volume of gas Charle 's law determines"
+    },
+    {
+        "answer": "1 kg mass on area of 1 cm\u00c2\u00b2",
+        "distractors": [
+            "2 kg mass on area of 1 cm\u00c2\u00b2",
+            "1 kg mass on area of 1 m\u00c2\u00b2",
+            "1 g mass on area of 1 cm\u00c2\u00b2"
+        ],
+        "sentence": "Pressure of layer of air is equal as placing"
+    },
+    {
+        "answer": "wavelength of photons",
+        "distractors": [
+            "size of photons",
+            "distance of photons",
+            "energy of photons"
+        ],
+        "sentence": "Radiations ' bending strength depends upon"
+    },
+    {
+        "answer": "water",
+        "distractors": [
+            "soil",
+            "nutrients",
+            "sun"
+        ],
+        "sentence": "Growth of roots towards water is positive hydrotropism if it grows towards"
+    },
+    {
+        "answer": "both of them",
+        "distractors": [
+            "striated",
+            "involuntary",
+            "voluntary"
+        ],
+        "sentence": "Cardiac muscles are"
+    },
+    {
+        "answer": "two nuclei",
+        "distractors": [
+            "one nucleus",
+            "three nuclei",
+            "more than four nuclei"
+        ],
+        "sentence": "Before fertilization , ovary has"
+    },
+    {
+        "answer": "loose more latent heat",
+        "distractors": [
+            "gain more latent heat",
+            "inefficiently loose heat",
+            "rehydrate"
+        ],
+        "sentence": "More sweat helps body to"
+    },
+    {
+        "answer": "human skeleton",
+        "distractors": [
+            "molluscus",
+            "annelids",
+            "snail"
+        ],
+        "sentence": "Axial skeleton and Appendicular skeleton are parts of"
+    },
+    {
+        "answer": "is always involuntary",
+        "distractors": [
+            "may be voluntary or involuntary",
+            "is always voluntary",
+            "is always reflex"
+        ],
+        "sentence": "Hormonal control"
+    },
+    {
+        "answer": "Nitric acid",
+        "distractors": [
+            "Sulphuric acid",
+            "Carbonic acid",
+            "Phosphoric acid"
+        ],
+        "sentence": "Acid salts can not be formed by"
+    },
+    {
+        "answer": "electromagnetic spectrum",
+        "distractors": [
+            "light spectrum",
+            "electronic spectrum",
+            "electromagnet group"
+        ],
+        "sentence": "Electromagnetic waves that include light belong to"
+    },
+    {
+        "answer": "orange to green",
+        "distractors": [
+            "purple to pink",
+            "purple to colorless",
+            "orange to purple"
+        ],
+        "sentence": "When dichromate ( VI ) ion becomes reduced to chromium ( III ) ion , a change of color occurs from"
+    },
+    {
+        "answer": "male",
+        "distractors": [
+            "female",
+            "both",
+            "gonads"
+        ],
+        "sentence": "More motile gametes are"
+    },
+    {
+        "answer": "on approach of unfavorable season",
+        "distractors": [
+            "when flowering season starts",
+            "when environment is suitable for growth",
+            "when fruit turns lumpy"
+        ],
+        "sentence": "Seed formation occurs"
+    }
+]

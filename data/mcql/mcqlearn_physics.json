@@ -1,0 +1,5222 @@
+[
+    {
+        "answer": "velocity-time graph",
+        "distractors": [
+            "velocity-speed graph",
+            "speed-time graph",
+            "velocity-displacement graph"
+        ],
+        "sentence": "Graph illustrating velocity of object with time is called"
+    },
+    {
+        "answer": "velocity-time graph",
+        "distractors": [
+            "velocity-speed graph",
+            "speed-time graph",
+            "velocity-displacement graph"
+        ],
+        "sentence": "Average acceleration of a body during time interval 't' is given by slope of its"
+    },
+    {
+        "answer": "instantaneous acceleration",
+        "distractors": [
+            "instantaneous velocity",
+            "instantaneous displacement",
+            "instantaneous speed"
+        ],
+        "sentence": "At a particular instant, acceleration of a body is called"
+    },
+    {
+        "answer": "1687",
+        "distractors": [
+            "1787",
+            "1887",
+            "1987"
+        ],
+        "sentence": "Newton's laws of motion were published in year"
+    },
+    {
+        "answer": "straight line",
+        "distractors": [
+            "curved line",
+            "circle",
+            "total distance"
+        ],
+        "sentence": "Magnitude of displacement from initial position to final position is the"
+    },
+    {
+        "answer": "2as = Vf\u00c2\u00b2 - Vi\u00c2\u00b2",
+        "distractors": [
+            "2 = Vf\u00c2\u00b2 - Vi\u00c2\u00b2",
+            "2s = Vf\u00c2\u00b2 - Vi\u00c2\u00b2",
+            "2a = Vf\u00c2\u00b2 - Vi\u00c2\u00b2"
+        ],
+        "sentence": "Height of projectile is given by formula"
+    },
+    {
+        "answer": "distance covered",
+        "distractors": [
+            "displacement",
+            "distance",
+            "speed"
+        ],
+        "sentence": "Area-under-graph in a velocity time graph tells us the"
+    },
+    {
+        "answer": "(V2-V1)/t",
+        "distractors": [
+            "(V1 + V2)/t",
+            "(V1V2)/t",
+            "(V1-V2)/t"
+        ],
+        "sentence": "Rate of change of velocity of body is represented as"
+    },
+    {
+        "answer": "perfectly elastic",
+        "distractors": [
+            "inelastic",
+            "elastic",
+            "both a and b"
+        ],
+        "sentence": "When no kinetic energy is lost, collision is said to be"
+    },
+    {
+        "answer": "1.66 and 3.33",
+        "distractors": [
+            "2.66 and 3.33",
+            "1.66 and 4.22",
+            "1.66 and 1.33"
+        ],
+        "sentence": "2 kg ball moving with velocity of 5 m s-1 collides with 4 kg ball at rest. velocities of both balls after collision will be"
+    },
+    {
+        "answer": "F = (-m/t)V",
+        "distractors": [
+            "F = (-t)V",
+            "F = (-m)V",
+            "F = (-m/t)"
+        ],
+        "sentence": "Force due to water flow is represented by formula"
+    },
+    {
+        "answer": "10000 kg s-1",
+        "distractors": [
+            "8000 kg s-1",
+            "9000 kg s-1",
+            "11000 kg s-1"
+        ],
+        "sentence": "A typical rocket consumes fuel on amount of"
+    },
+    {
+        "answer": "52",
+        "distractors": [
+            "51",
+            "50",
+            "45"
+        ],
+        "sentence": "Angle that lies between two vectors A = 5 + 1 and B = 2 + 4 is"
+    },
+    {
+        "answer": "momentum",
+        "distractors": [
+            "impulse",
+            "distance",
+            "velocity"
+        ],
+        "sentence": "Product of mass and velocity is known as"
+    },
+    {
+        "answer": "Vavg = (d/t)",
+        "distractors": [
+            "Vavg = (t/d)",
+            "Vavg = (d + t)",
+            "Vavg = (d-t)"
+        ],
+        "sentence": "If 'd' is displacement of body in time 't', then average velocity will be represented as"
+    },
+    {
+        "answer": "displacement",
+        "distractors": [
+            "distance",
+            "speed",
+            "velocity"
+        ],
+        "sentence": "Change from initial position to final position is called"
+    },
+    {
+        "answer": "same acceleration",
+        "distractors": [
+            "different acceleration",
+            "same velocity",
+            "same speed"
+        ],
+        "sentence": "At surface of Earth where air friction is negligible, objects fall with the"
+    },
+    {
+        "answer": "displacement",
+        "distractors": [
+            "distance",
+            "acceleration",
+            "velocity"
+        ],
+        "sentence": "When a body moves from one position to another change is called"
+    },
+    {
+        "answer": "4000 m s-1",
+        "distractors": [
+            "2000 m s-1",
+            "3000 m s-1",
+            "3500 m s-1"
+        ],
+        "sentence": "Typical rocket ejects burnt gases at speeds of over"
+    },
+    {
+        "answer": "velocity",
+        "distractors": [
+            "displacement",
+            "distance",
+            "speed"
+        ],
+        "sentence": "Time rate of change of displacement is known as"
+    },
+    {
+        "answer": "t = 2vi \u00c3\u0097 (sin/g)",
+        "distractors": [
+            "t = (2Vi + sin)/g",
+            "t = (2Vi - sin)/g",
+            "t = 2vi/g"
+        ],
+        "sentence": "Time of flight of body is given by formula"
+    },
+    {
+        "answer": "second law",
+        "distractors": [
+            "first law",
+            "third law",
+            "fourth law"
+        ],
+        "sentence": "F = ma, this equation is referred to as newton's"
+    },
+    {
+        "answer": "30 m s-1",
+        "distractors": [
+            "31 m s-1",
+            "32 m s-1",
+            "35 m s-1"
+        ],
+        "sentence": "A ball is thrown from height of 10m with velocity 21 m s-1, it will hit ground at"
+    },
+    {
+        "answer": "Vf\u00c2\u00b2 = Vi\u00c2\u00b2 + 2as",
+        "distractors": [
+            "Vf = Vi + 2as",
+            "Vf\u00c2\u00b2 = Vi\u00c2\u00b2 + as",
+            "Vf\u00c2\u00b2 = Vi\u00c2\u00b2 + 2a"
+        ],
+        "sentence": "From equations of distance, correct one is"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "30",
+            "60",
+            "75"
+        ],
+        "sentence": "Range of projectile will be minimum if angle of projectile is"
+    },
+    {
+        "answer": "first law",
+        "distractors": [
+            "second law",
+            "third law",
+            "fourth law"
+        ],
+        "sentence": "Mass of object is quantitative measure of its inertia stated law is newton's"
+    },
+    {
+        "answer": "applied force",
+        "distractors": [
+            "displacement",
+            "speed",
+            "velocity"
+        ],
+        "sentence": "Time rate of change of momentum of a body is equal to"
+    },
+    {
+        "answer": "acceleration",
+        "distractors": [
+            "displacement",
+            "distance",
+            "velocity"
+        ],
+        "sentence": "Rate of change of velocity of body is said to be"
+    },
+    {
+        "answer": "not conserved",
+        "distractors": [
+            "conserved",
+            "increases",
+            "decreases"
+        ],
+        "sentence": "Inelastic collision is collision in which kinetic energy is"
+    },
+    {
+        "answer": "third law",
+        "distractors": [
+            "first law",
+            "second law",
+            "fourth law"
+        ],
+        "sentence": "\"Every action has an equal and opposite reaction\" is Newton's"
+    },
+    {
+        "answer": "displacement",
+        "distractors": [
+            "work",
+            "speed",
+            "acceleration"
+        ],
+        "sentence": "Equation d = r2-r1 is referred to as body's"
+    },
+    {
+        "answer": "outward from shore",
+        "distractors": [
+            "inward from shore",
+            "at rest",
+            "uniform motion"
+        ],
+        "sentence": "Throwing a package onto shore from a boat at rest will cause boat to move"
+    },
+    {
+        "answer": "Vf = Vi + at",
+        "distractors": [
+            "Vi = Vf + at",
+            "Vf = Vi + t",
+            "Vf = Vi + a"
+        ],
+        "sentence": "Correct equation of distance is"
+    },
+    {
+        "answer": "Abu Ali Sena",
+        "distractors": [
+            "Isaac Newton",
+            "Al Kunai",
+            "Stephen Hawking"
+        ],
+        "sentence": "\"No body begins to move or comes to rest itself\", this statement is given by"
+    },
+    {
+        "answer": "impulse",
+        "distractors": [
+            "distance",
+            "momentum",
+            "velocity"
+        ],
+        "sentence": "Product of force and time is known as"
+    },
+    {
+        "answer": "\u00e2\u0088\u0092250 N",
+        "distractors": [
+            "\u00e2\u0088\u0092200 N",
+            "200 N",
+            "250 N"
+        ],
+        "sentence": "If a body has 200 kg mass and its velocity gets reduced from 25 m s-1 to 20 m s-1 in 4 seconds, average retarding force on a body will be"
+    },
+    {
+        "answer": "vector quantity",
+        "distractors": [
+            "scalar quantity",
+            "physical quantity",
+            "both a and b"
+        ],
+        "sentence": "Acceleration produced in a body is the"
+    },
+    {
+        "answer": "crumple zone",
+        "distractors": [
+            "cover",
+            "cap",
+            "beauty"
+        ],
+        "sentence": "Our hair on our skull act like a"
+    },
+    {
+        "answer": "Isaac Newton",
+        "distractors": [
+            "John Newton",
+            "newton ken",
+            "Eric Newton"
+        ],
+        "sentence": "Newton's law of motions were stated by scientist named as"
+    },
+    {
+        "answer": "conserved",
+        "distractors": [
+            "not conserved",
+            "increases",
+            "decreases"
+        ],
+        "sentence": "Elastic collision is collision in which kinetic energy is"
+    },
+    {
+        "answer": "1/2(V \u00c3\u0097 T)",
+        "distractors": [
+            "(V \u00c3\u0097 t)",
+            "1/2(V + t)",
+            "(V + t)"
+        ],
+        "sentence": "Area under velocity-time graph is equal to the"
+    },
+    {
+        "answer": "upwards positive",
+        "distractors": [
+            "downwards negative",
+            "upwards negative",
+            "downwards positive"
+        ],
+        "sentence": "Velocity of vertically thrown ball with time will be"
+    },
+    {
+        "answer": "45",
+        "distractors": [
+            "30",
+            "60",
+            "90"
+        ],
+        "sentence": "Range of projectile will be maximum when angle of projectile is"
+    },
+    {
+        "answer": "remains constant",
+        "distractors": [
+            "decreases",
+            "increases",
+            "doubled"
+        ],
+        "sentence": "Total momentum of an isolated system"
+    },
+    {
+        "answer": "34 m s-1",
+        "distractors": [
+            "30 m s-1",
+            "40 m s-1",
+            "45 m s-1"
+        ],
+        "sentence": "If a body moving with initial, constant velocity of 10 m s-1, accelerates for 2 seconds at a constant rate of 12 m s-2, final velocity of body will be"
+    },
+    {
+        "answer": "367.5 W",
+        "distractors": [
+            "36 W",
+            "370 W",
+            "397.5 W"
+        ],
+        "sentence": "A man of mass 30 kilograms climbs stairs of height 5 meters in 4 seconds. power output produced will be"
+    },
+    {
+        "answer": "gravitational force",
+        "distractors": [
+            "frictional force",
+            "air resistance",
+            "normal force"
+        ],
+        "sentence": "One that is not a non-conservative force is"
+    },
+    {
+        "answer": "work-energy principle",
+        "distractors": [
+            "work done principle",
+            "work-velocity principle",
+            "speed-displacement principle"
+        ],
+        "sentence": "When work done on a body equals change in its kinetic energy, this principle is known as"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "kinetic energies",
+            "potential energies",
+            "forces"
+        ],
+        "sentence": "Total energy of a body is sum of"
+    },
+    {
+        "answer": "frictional force",
+        "distractors": [
+            "gravitational force",
+            "electric force",
+            "elastic spring force"
+        ],
+        "sentence": "Force that is not one of conservative forces is"
+    },
+    {
+        "answer": "gravitational field",
+        "distractors": [
+            "speed",
+            "work done",
+            "force"
+        ],
+        "sentence": "Space in which gravitational force acts on a body is known as"
+    },
+    {
+        "answer": "doesn't remain constant",
+        "distractors": [
+            "remain constant",
+            "increases",
+            "decreases"
+        ],
+        "sentence": "In phenomenon of work done by variable force, forces"
+    },
+    {
+        "answer": "maximum",
+        "distractors": [
+            "positive",
+            "negative",
+            "zero"
+        ],
+        "sentence": "When angle is equal to zero, work will be"
+    },
+    {
+        "answer": "negative",
+        "distractors": [
+            "positive",
+            "zero",
+            "both a and b"
+        ],
+        "sentence": "If angle of work done is less than 90\u00c2\u00b0, then work will be"
+    },
+    {
+        "answer": "coal",
+        "distractors": [
+            "wind",
+            "biomass",
+            "tides"
+        ],
+        "sentence": "A nonrenewable energy is"
+    },
+    {
+        "answer": "1945",
+        "distractors": [
+            "1930",
+            "1935",
+            "1940"
+        ],
+        "sentence": "In history of Earth, more coal has been used since"
+    },
+    {
+        "answer": "6.3 m s-1",
+        "distractors": [
+            "5 m s-1",
+            "5.6 m s-1",
+            "8.4 m s-1"
+        ],
+        "sentence": "If a brick having mass 2 kg is dropped from height of 5 m, its velocity at a height of 3 m will be"
+    },
+    {
+        "answer": "conservation of energy",
+        "distractors": [
+            "kinetic energy",
+            "potential energy",
+            "conservation principle"
+        ],
+        "sentence": "\"Energy can neither be created nor be destroyed, but it can be changed from one form to another\", this law is known as"
+    },
+    {
+        "answer": "9 J",
+        "distractors": [
+            "6 J",
+            "3 J",
+            "0 J"
+        ],
+        "sentence": "10 bricks each having mass of 1.5 kg with thickness of 6 cm will have work done to stack bricks"
+    },
+    {
+        "answer": "tides",
+        "distractors": [
+            "wind",
+            "biomass",
+            "coal"
+        ],
+        "sentence": "Energy from gravitational field is energy obtained from"
+    },
+    {
+        "answer": "work done by a gravitational field",
+        "distractors": [
+            "work done by a constant force",
+            "work done by a variable force",
+            "both a and b"
+        ],
+        "sentence": "When an object is moved in gravitational field, it is"
+    },
+    {
+        "answer": "watt",
+        "distractors": [
+            "kelvin",
+            "joule",
+            "candela"
+        ],
+        "sentence": "System international unit of power is known as"
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "distance",
+            "work done",
+            "force"
+        ],
+        "sentence": "Capacity of body to do work is known as"
+    },
+    {
+        "answer": "mgh",
+        "distractors": [
+            "gh",
+            "mg",
+            "mgf"
+        ],
+        "sentence": "Gravitational potential energy is product of"
+    },
+    {
+        "answer": "power",
+        "distractors": [
+            "displacement",
+            "speed",
+            "force"
+        ],
+        "sentence": "Measure of rate at which work is done is known as"
+    },
+    {
+        "answer": "120",
+        "distractors": [
+            "100",
+            "110",
+            "130"
+        ],
+        "sentence": "Colored TV has approximate power of"
+    },
+    {
+        "answer": "joule",
+        "distractors": [
+            "kelvin",
+            "ampere",
+            "candela"
+        ],
+        "sentence": "System international unit of work done is newton meter which is known as"
+    },
+    {
+        "answer": "F = GMm/r\u00c2\u00b2",
+        "distractors": [
+            "F = GMm/r",
+            "F = GM/r\u00c2\u00b2",
+            "F = Mm/r\u00c2\u00b2"
+        ],
+        "sentence": "Gravitational force at center is given by formula of"
+    },
+    {
+        "answer": "scalar quantity",
+        "distractors": [
+            "vector quantity",
+            "physical quantity",
+            "both a and b"
+        ],
+        "sentence": "Work done by a body is said to be a quantity known as"
+    },
+    {
+        "answer": "conservative",
+        "distractors": [
+            "non conservative",
+            "zero",
+            "maximum"
+        ],
+        "sentence": "Work done by gravitational field is always"
+    },
+    {
+        "answer": "Earth",
+        "distractors": [
+            "sun",
+            "tides",
+            "air"
+        ],
+        "sentence": "Source of geothermal energy is"
+    },
+    {
+        "answer": "25 cm",
+        "distractors": [
+            "30 cm",
+            "35 cm",
+            "40 cm"
+        ],
+        "sentence": "Tidal pull of moon can distort continents pulling up and down up to"
+    },
+    {
+        "answer": "work done",
+        "distractors": [
+            "distance",
+            "speed",
+            "force"
+        ],
+        "sentence": "Product of force and displacement is known as"
+    },
+    {
+        "answer": "180",
+        "distractors": [
+            "120",
+            "150",
+            "160"
+        ],
+        "sentence": "Body having mass 40 kg moving with velocity of 3 m s-1 will have kinetic energy of"
+    },
+    {
+        "answer": "one watt",
+        "distractors": [
+            "kelvin",
+            "ampere",
+            "candela"
+        ],
+        "sentence": "1 joule of work done in 1 second is called"
+    },
+    {
+        "answer": "10days",
+        "distractors": [
+            "5days",
+            "15days",
+            "20days"
+        ],
+        "sentence": "Energy in all fossil fuels of Earth is less than energy coming from sunlight in"
+    },
+    {
+        "answer": "power",
+        "distractors": [
+            "distance",
+            "speed",
+            "force"
+        ],
+        "sentence": "Product of force and velocity is known as"
+    },
+    {
+        "answer": "150 W",
+        "distractors": [
+            "120 W",
+            "125 W",
+            "145 W"
+        ],
+        "sentence": "Power of machine when work done is 30 J in a time interval 5 seconds will be"
+    },
+    {
+        "answer": "tides",
+        "distractors": [
+            "coal",
+            "oil",
+            "natural gas"
+        ],
+        "sentence": "One of energies that is known as renewable energy is"
+    },
+    {
+        "answer": "9 \u00c3\u0097 109 J",
+        "distractors": [
+            "7 \u00c3\u0097 109 J",
+            "8 \u00c3\u0097 109 J",
+            "8.8 \u00c3\u0097 109 J"
+        ],
+        "sentence": "Work that is done to make a car is about"
+    },
+    {
+        "answer": "loss in P.E - work against friction",
+        "distractors": [
+            "loss in K.E - work against friction",
+            "loss in P.E + work against friction",
+            "loss in P.E * work against friction"
+        ],
+        "sentence": "Gain in kinetic energy is equal to"
+    },
+    {
+        "answer": "positive",
+        "distractors": [
+            "negative",
+            "zero",
+            "minimum"
+        ],
+        "sentence": "If direction of work done is less than 90\u00c2\u00b0, then work will be"
+    },
+    {
+        "answer": "sun",
+        "distractors": [
+            "moon",
+            "stars",
+            "fluid"
+        ],
+        "sentence": "Hydroelectric energy's original source is"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "kinetic energy",
+            "potential energy",
+            "physical energy"
+        ],
+        "sentence": "Energy of a body is of form known as"
+    },
+    {
+        "answer": "Nickel cadmium",
+        "distractors": [
+            "zinc cadmium",
+            "Nickel zinc",
+            "hydrogen"
+        ],
+        "sentence": "For obtaining solar energy during sunlight, energy is stored in batteries of"
+    },
+    {
+        "answer": "moon",
+        "distractors": [
+            "stars",
+            "Earth",
+            "tornedo"
+        ],
+        "sentence": "Original source of energy coming from tides is"
+    },
+    {
+        "answer": "2 types",
+        "distractors": [
+            "3 types",
+            "4 types",
+            "5 types"
+        ],
+        "sentence": "Basic forms of energy of a body are of"
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "positive",
+            "negative",
+            "maximum"
+        ],
+        "sentence": "If work done has angle equal to 90\u00c2\u00b0, work will be"
+    },
+    {
+        "answer": "biomass",
+        "distractors": [
+            "wind",
+            "coal",
+            "tides"
+        ],
+        "sentence": "Methanol is a renewable energy when gained from"
+    },
+    {
+        "answer": "independent",
+        "distractors": [
+            "dependent",
+            "zero",
+            "maximum"
+        ],
+        "sentence": "In Earth's gravitational field with respect to path followed, work done is"
+    },
+    {
+        "answer": "1/Rh",
+        "distractors": [
+            "Rh",
+            "Rh/2",
+            "2/(3Rh)"
+        ],
+        "sentence": "Shortest wavelength in Lyman series is equal to"
+    },
+    {
+        "answer": "Heisenberg uncertainty principle",
+        "distractors": [
+            "Bernoulli's equation",
+            "bohrs model",
+            "both a and b"
+        ],
+        "sentence": "\"An electron can never be found inside nucleus\", this statement is according to"
+    },
+    {
+        "answer": "laser",
+        "distractors": [
+            "x-ray",
+            "ultraviolet",
+            "microwave"
+        ],
+        "sentence": "Potential energy source for inducing fusion reaction is"
+    },
+    {
+        "answer": "min wave length decreases",
+        "distractors": [
+            "min wave length increases",
+            "intensity decreases",
+            "intensity increases"
+        ],
+        "sentence": "During x-ray formation, if voltage is increased, then"
+    },
+    {
+        "answer": "13.6 eV",
+        "distractors": [
+            "13.5 J",
+            "14 eV",
+            "13.6 MeV"
+        ],
+        "sentence": "Ionization energy of hydrogen atom in ground state is"
+    },
+    {
+        "answer": "energy levels are close",
+        "distractors": [
+            "energy levels are far",
+            "it has small mass",
+            "it has single electron"
+        ],
+        "sentence": "Hydrogen atom doesn't emit x-rays because"
+    },
+    {
+        "answer": "equal to energy between two shells",
+        "distractors": [
+            "greater than energy between two shells",
+            "less than energy between two shells",
+            "both a and b"
+        ],
+        "sentence": "To excite its atom, a photon must have energy"
+    },
+    {
+        "answer": "increasing filament current",
+        "distractors": [
+            "decreasing filament current",
+            "increasing target potential",
+            "decreasing target potential"
+        ],
+        "sentence": "In an x-ray tube, intensity of emitted x-ray beam is increased by"
+    },
+    {
+        "answer": "ultraviolet region",
+        "distractors": [
+            "infrared region",
+            "visible region",
+            "x-ray region"
+        ],
+        "sentence": "Ballmer series in region of electromagnetic spectrum is in"
+    },
+    {
+        "answer": "0.214583333333333",
+        "distractors": [
+            "0.233333333333333",
+            "1:04",
+            "3:04"
+        ],
+        "sentence": "Ratio of minimum to maximum wavelength in Ballmer series is"
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "9.1 \u00c3\u0097 10-31 kg",
+            "8.1 \u00c3\u0097 10-31 kg",
+            "infinite"
+        ],
+        "sentence": "Rest mass of x-ray photon is"
+    },
+    {
+        "answer": "one half",
+        "distractors": [
+            "equal",
+            "2 times",
+            "one fourth"
+        ],
+        "sentence": "Velocity of electron in second Bohr's orbit as compared to velocity in first orbit is"
+    },
+    {
+        "answer": "both b and c",
+        "distractors": [
+            "spontaneous absorption",
+            "simulated emission",
+            "induced emission"
+        ],
+        "sentence": "Principle of laser is"
+    },
+    {
+        "answer": "both b and c",
+        "distractors": [
+            "Einstein's relativistic theory",
+            "classical theory",
+            "planks quantum theory"
+        ],
+        "sentence": "Bohr's atomic model is based upon"
+    },
+    {
+        "answer": "decreases",
+        "distractors": [
+            "increases",
+            "remain constant",
+            "zero"
+        ],
+        "sentence": "With increasing quantum number, energy difference between adjacent levels in atoms"
+    },
+    {
+        "answer": "bracket series",
+        "distractors": [
+            "Lyman series",
+            "Ballmer series",
+            "both a and b"
+        ],
+        "sentence": "Series that lie in infrared region of electromagnetic spectrum is"
+    },
+    {
+        "answer": "greater",
+        "distractors": [
+            "equal",
+            "less",
+            "equal to infinity"
+        ],
+        "sentence": "For an electron to be confined to a nucleus, its speed relative to speed of light would have to be"
+    },
+    {
+        "answer": "line spectra",
+        "distractors": [
+            "continuous spectra",
+            "band spectra",
+            "both a and b"
+        ],
+        "sentence": "Atomic spectra is an example of"
+    },
+    {
+        "answer": "h/2\u00cf\u0080",
+        "distractors": [
+            "2h/\u00cf\u0080",
+            "h/\u00cf\u0080",
+            "nh/2\u00cf\u0080"
+        ],
+        "sentence": "According to Bohr's atomic model, angular momentum of electron in nth orbit is equal to an integral multiple of"
+    },
+    {
+        "answer": "coulombs force",
+        "distractors": [
+            "nuclear force",
+            "atomic force",
+            "both a and b"
+        ],
+        "sentence": "Electron in atom are held in atom due to"
+    },
+    {
+        "answer": "6 rad s-1",
+        "distractors": [
+            "7 rad s-1",
+            "8 rad s-1",
+            "10 rad s-1"
+        ],
+        "sentence": "Average angular velocity of a body rotating at angle of 30\u00c2\u00b0 for 5 seconds will be"
+    },
+    {
+        "answer": "global positioning system",
+        "distractors": [
+            "global pointing system",
+            "globe positioning system",
+            "general positioning system"
+        ],
+        "sentence": "GPS that tracks location is an abbreviation of"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "revolution",
+            "radian",
+            "steradian"
+        ],
+        "sentence": "Angular displacement is defined by units"
+    },
+    {
+        "answer": "109 Hz",
+        "distractors": [
+            "107 Hz",
+            "107 Hz",
+            "10-9 Hz"
+        ],
+        "sentence": "1 GHz of frequency is equal to"
+    },
+    {
+        "answer": "rotational kinetic energy",
+        "distractors": [
+            "rotational potential energy",
+            "linear kinetic energy",
+            "linear potential energy"
+        ],
+        "sentence": "As body rolls down, its gravitational energy changes to"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "diving",
+            "ice-skating",
+            "driving"
+        ],
+        "sentence": "Law of conservation of angular momentum is mostly used in"
+    },
+    {
+        "answer": "microwaves",
+        "distractors": [
+            "x-rays",
+            "gamma rays",
+            "infrared rays"
+        ],
+        "sentence": "Rays that travel in a narrow beam and easily pass through atmosphere of Earth are"
+    },
+    {
+        "answer": "L = r/p",
+        "distractors": [
+            "L = r \u00c3\u0097 p",
+            "L = r - p",
+            "L = r + p"
+        ],
+        "sentence": "Formula of angular momentum of moving body is"
+    },
+    {
+        "answer": "radians per second",
+        "distractors": [
+            "degree per second",
+            "rotation per second",
+            "revolution per second"
+        ],
+        "sentence": "In system international, angular velocity is measured in"
+    },
+    {
+        "answer": "120\u00c2\u00b0",
+        "distractors": [
+            "110\u00c2\u00b0",
+            "150\u00c2\u00b0",
+            "180\u00c2\u00b0"
+        ],
+        "sentence": "A satellite covers longitude of earth up to"
+    },
+    {
+        "answer": "equal",
+        "distractors": [
+            "opposite",
+            "90",
+            "0"
+        ],
+        "sentence": "Triangles are said to be isosceles if angles between their arms are"
+    },
+    {
+        "answer": "angular velocity",
+        "distractors": [
+            "angular displacement",
+            "angular acceleration",
+            "angular speed"
+        ],
+        "sentence": "Revolution per minute is system international unit of the"
+    },
+    {
+        "answer": "weightless",
+        "distractors": [
+            "massive",
+            "large",
+            "small"
+        ],
+        "sentence": "Everything in freely falling system appears to be"
+    },
+    {
+        "answer": "scalar quantity",
+        "distractors": [
+            "vector quantity",
+            "physical quantity",
+            "both a and b"
+        ],
+        "sentence": "When axis of rotation is fixed, angular velocity is considered as"
+    },
+    {
+        "answer": "radians per second square",
+        "distractors": [
+            "degree per second",
+            "degree per second square",
+            "radians per second"
+        ],
+        "sentence": "In system international, angular acceleration is measured in"
+    },
+    {
+        "answer": "angular acceleration",
+        "distractors": [
+            "angular displacement",
+            "angular velocity",
+            "angular speed"
+        ],
+        "sentence": "Rate at which angular velocity changes with time is called"
+    },
+    {
+        "answer": "mass of satellite",
+        "distractors": [
+            "mass of Earth",
+            "gravitational force",
+            "radius of Earth"
+        ],
+        "sentence": "In defining orbital velocity of satellite, thing which is unimportant is"
+    },
+    {
+        "answer": "angular velocity",
+        "distractors": [
+            "angular displacement",
+            "angular acceleration",
+            "angular speed"
+        ],
+        "sentence": "Rate at which angular displacement changes with time is called"
+    },
+    {
+        "answer": "international communication",
+        "distractors": [
+            "national communication",
+            "national conferencing",
+            "international conferencing"
+        ],
+        "sentence": "A geo-stationary satellite orbiting around Earth is used for"
+    },
+    {
+        "answer": "differs",
+        "distractors": [
+            "increases",
+            "remain same",
+            "doesn't differ"
+        ],
+        "sentence": "When velocity of elevator changes, apparent weight from true weight"
+    },
+    {
+        "answer": "1/4(mv\u00c2\u00b2)",
+        "distractors": [
+            "1/2(mv\u00c2\u00b2)",
+            "1/8(mv\u00c2\u00b2)",
+            "1/6(mv\u00c2\u00b2)"
+        ],
+        "sentence": "Rotational kinetic energy of disc is given by"
+    },
+    {
+        "answer": "\u00c2\u00b2/5(mr\u00c2\u00b2)",
+        "distractors": [
+            "2(ml\u00c2\u00b2)",
+            "r\u00c2\u00b2",
+            "1/2(r)"
+        ],
+        "sentence": "Moment of inertia of sphere is given as"
+    },
+    {
+        "answer": "three",
+        "distractors": [
+            "two",
+            "four",
+            "five"
+        ],
+        "sentence": "Linear equations of motion are"
+    },
+    {
+        "answer": "weightless",
+        "distractors": [
+            "small",
+            "large",
+            "massive"
+        ],
+        "sentence": "In a spaceship, objects revolving around Earth appears to be"
+    },
+    {
+        "answer": "57.3\u00c2\u00b0",
+        "distractors": [
+            "57.4\u00c2\u00b0",
+            "53.3\u00c2\u00b0",
+            "58.3\u00c2\u00b0"
+        ],
+        "sentence": "One radian is equal to angle of"
+    },
+    {
+        "answer": "360\u00c2\u00b0",
+        "distractors": [
+            "90\u00c2\u00b0",
+            "180\u00c2\u00b0",
+            "270\u00c2\u00b0"
+        ],
+        "sentence": "One revolution is equal to angle of"
+    },
+    {
+        "answer": "7.9 km s-1",
+        "distractors": [
+            "8.9 km s-1",
+            "9 km s-1",
+            "9.8 km s-1"
+        ],
+        "sentence": "Minimum velocity to put a satellite into orbital motion is"
+    },
+    {
+        "answer": "Bruce McCandless",
+        "distractors": [
+            "mark Bruce",
+            "ken Bruce",
+            "Bruce Hilton"
+        ],
+        "sentence": "First human satellite of Earth was man named as"
+    },
+    {
+        "answer": "1/2(mv\u00c2\u00b2)",
+        "distractors": [
+            "1/4(mv\u00c2\u00b2)",
+            "1/8(mv\u00c2\u00b2)",
+            "1/6(mv\u00c2\u00b2)"
+        ],
+        "sentence": "Rotational kinetic energy of hoop is"
+    },
+    {
+        "answer": "3 geo-stationary satellites",
+        "distractors": [
+            "2 geo-stationary satellites",
+            "4 geo-stationary satellites",
+            "5 geo-stationary satellites"
+        ],
+        "sentence": "Whole world can be covered with"
+    },
+    {
+        "answer": "force",
+        "distractors": [
+            "circle",
+            "central point",
+            "radius of circle"
+        ],
+        "sentence": "At pivot point, body with mass 'm' will have a torque by the"
+    },
+    {
+        "answer": "2 TV channels",
+        "distractors": [
+            "1 TV channels",
+            "3 TV channels",
+            "4 TV channels"
+        ],
+        "sentence": "INTELSAT IV telecommunication satellite has a capacity of handling"
+    },
+    {
+        "answer": "6.6 \u00c3\u0097 10-9 rad",
+        "distractors": [
+            "6 \u00c3\u0097 10-9 rad",
+            "7.6 \u00c3\u0097 10-9 rad",
+            "8 \u00c3\u0097 10-9 rad"
+        ],
+        "sentence": "If body accelerates from rest to angular velocity of 45 revolutions/min in a time of 1.6 seconds, its angular acceleration will be"
+    },
+    {
+        "answer": "centripetal force",
+        "distractors": [
+            "linear force",
+            "angular force",
+            "gravitational force"
+        ],
+        "sentence": "Force that bends straight path of object into circular path is known as"
+    },
+    {
+        "answer": "synchronized",
+        "distractors": [
+            "asynchronized",
+            "unsynchronized",
+            "same"
+        ],
+        "sentence": "Orbital motion of geo-stationary satellite with respect to motion of Earth is"
+    },
+    {
+        "answer": "f = \u00e2\u0088\u009a(3.14g/2R)",
+        "distractors": [
+            "f = 3.14g/2R",
+            "f = \u00e2\u0088\u009a(g/2R)",
+            "f = g/2R"
+        ],
+        "sentence": "To provide artificial gravity to spaceship, frequency needed is"
+    },
+    {
+        "answer": "larger diameter",
+        "distractors": [
+            "smaller diameter",
+            "smaller length",
+            "greater length"
+        ],
+        "sentence": "Two cylinders of equal masses, one will have a greater rotational inertia if it has"
+    },
+    {
+        "answer": "surface of rotating space",
+        "distractors": [
+            "bottom of rotating space",
+            "length of rotating space",
+            "width of rotating space"
+        ],
+        "sentence": "In rotating space to keep a body moving in a circular path centripetal force is provided by the"
+    },
+    {
+        "answer": "changes continuously",
+        "distractors": [
+            "changes after time",
+            "never changes",
+            "remains constant"
+        ],
+        "sentence": "In a circular motion, direction of motion"
+    },
+    {
+        "answer": "rolls",
+        "distractors": [
+            "stops",
+            "moves",
+            "jumps"
+        ],
+        "sentence": "Wheel will have both rotational and translational kinetic energies when it"
+    },
+    {
+        "answer": "gravity",
+        "distractors": [
+            "Earths mass",
+            "force",
+            "Earths weight"
+        ],
+        "sentence": "Artificial satellites are objects that orbit around Earth due to"
+    },
+    {
+        "answer": "law of conservation of angular momentum",
+        "distractors": [
+            "law of conservation of angular velocity",
+            "law of conservation of angular acceleration",
+            "law of conservation of angular speed"
+        ],
+        "sentence": "\"If no external torque is applied on a body, total angular momentum remains constant\" stated law is called"
+    },
+    {
+        "answer": "circular path",
+        "distractors": [
+            "straight path",
+            "central point",
+            "pivot axis"
+        ],
+        "sentence": "Orbital angular momentum is associated with motion of body along"
+    },
+    {
+        "answer": "large",
+        "distractors": [
+            "small",
+            "zero",
+            "maximum"
+        ],
+        "sentence": "Curved flights at high speed requires centripetal force that is"
+    },
+    {
+        "answer": "angular momentum",
+        "distractors": [
+            "angular displacement",
+            "angular acceleration",
+            "angular speed"
+        ],
+        "sentence": "If a particle moves in such a way that its angular position changes relative to reference axis, it is said to have"
+    },
+    {
+        "answer": "250 N",
+        "distractors": [
+            "200 N",
+            "300 N",
+            "350 N"
+        ],
+        "sentence": "Body having weight 50 kg turning in a circle at 5 m s-1, if radius of circle is 5 m, force exerted on body to hold it in circular path is"
+    },
+    {
+        "answer": "artificial gravity",
+        "distractors": [
+            "large gravity",
+            "gravitational force",
+            "greater gravity"
+        ],
+        "sentence": "Gravity created by some source is called"
+    },
+    {
+        "answer": "geo-synchronous satellites",
+        "distractors": [
+            "geo-asynchronous satellites",
+            "synchronous satellites",
+            "asynchronous satellites"
+        ],
+        "sentence": "Geo-stationary satellites are also known as the"
+    },
+    {
+        "answer": "vector quantity",
+        "distractors": [
+            "scalar quantity",
+            "physical quantity",
+            "both a and b"
+        ],
+        "sentence": "For very small values of angles, angular displacement is"
+    },
+    {
+        "answer": "centripetal acceleration",
+        "distractors": [
+            "centripetal velocity",
+            "angular acceleration",
+            "angular speed"
+        ],
+        "sentence": "Centripetal force has same direction as the"
+    },
+    {
+        "answer": "L",
+        "distractors": [
+            "P",
+            "M",
+            "T"
+        ],
+        "sentence": "Angular momentum of a moving body is represented by symbol"
+    },
+    {
+        "answer": "1/2(mr)",
+        "distractors": [
+            "(ml\u00c2\u00b2)",
+            "mr",
+            "5(mr\u00c2\u00b2)"
+        ],
+        "sentence": "Cylinder has moment of inertia given by formula of"
+    },
+    {
+        "answer": "7.3 \u00c3\u0097 10\u00c2\u00b3",
+        "distractors": [
+            "3.3 \u00c3\u0097 10\u00c2\u00b3",
+            "7.3 \u00c3\u0097 106",
+            "8 \u00c3\u0097 10\u00c2\u00b3"
+        ],
+        "sentence": "A car of 200 kg is moving in a circle of radius 4.3 m with angular velocity of 2 rad s-1, it's angular momentum will be"
+    },
+    {
+        "answer": "J s",
+        "distractors": [
+            "J",
+            "J s-1",
+            "W"
+        ],
+        "sentence": "In system international, angular momentum is measured in"
+    },
+    {
+        "answer": "per day",
+        "distractors": [
+            "per month",
+            "per week",
+            "per hour"
+        ],
+        "sentence": "A geo-stationary satellite orbits around Earth once"
+    },
+    {
+        "answer": "spinning body",
+        "distractors": [
+            "circular body",
+            "sphere",
+            "hoop"
+        ],
+        "sentence": "Spin angular momentum is momentum of the"
+    },
+    {
+        "answer": "stationary",
+        "distractors": [
+            "in motion",
+            "large",
+            "small"
+        ],
+        "sentence": "A geo-stationary satellite orbits Earth once per day so that it seems to be"
+    },
+    {
+        "answer": "no force",
+        "distractors": [
+            "small force",
+            "large force",
+            "gravitational force"
+        ],
+        "sentence": "To hold an object from falling in satellite frame of reference requires"
+    },
+    {
+        "answer": "16.1 m s-1",
+        "distractors": [
+            "6.1 m s-1",
+            "16 m s-1",
+            "17 m s-1"
+        ],
+        "sentence": "A disc rolls down from hill at height of 20 m. If disc starts from rest on top of hill, its speed at bottom will be"
+    },
+    {
+        "answer": "1/12(ml\u00c2\u00b2)",
+        "distractors": [
+            "mr\u00c2\u00b3",
+            "2(mr)",
+            "\u00c2\u00b2/5(mr\u00c2\u00b2)"
+        ],
+        "sentence": "Moment of inertia of thin rod is given by formula of"
+    },
+    {
+        "answer": "mr\u00c2\u00b2",
+        "distractors": [
+            "1/12(ml)",
+            "1/4(mr)",
+            "\u00c2\u00b3/5(mr\u00c2\u00b2)"
+        ],
+        "sentence": "Hoop has moment of inertia given as"
+    },
+    {
+        "answer": "satellite motion",
+        "distractors": [
+            "satellite motion",
+            "satellite gravity",
+            "satellites"
+        ],
+        "sentence": "Geo-stationary satellites are useful examples of"
+    },
+    {
+        "answer": "Vf = Vi + at",
+        "distractors": [
+            "Vi = Vf + at",
+            "Vf = Vi - at",
+            "Vf = Vi + a"
+        ],
+        "sentence": "First linear equation of motion is represented as"
+    },
+    {
+        "answer": "momentum",
+        "distractors": [
+            "displacement",
+            "power",
+            "speed"
+        ],
+        "sentence": "In formula of angular momentum L = r \u00c3\u0097 p, p denotes the"
+    },
+    {
+        "answer": "30000",
+        "distractors": [
+            "10000",
+            "20000",
+            "40000"
+        ],
+        "sentence": "INTELSAT IV telecommunication satellite has a capacity of handling telephone circuits up to"
+    },
+    {
+        "answer": "electronic current",
+        "distractors": [
+            "current",
+            "conventional current",
+            "photonic current"
+        ],
+        "sentence": "Flow of charges in direction of electrons is called"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "power consumption",
+            "power dissipation",
+            "power resistance"
+        ],
+        "sentence": "Power of battery in resistor appears as"
+    },
+    {
+        "answer": "thermistor",
+        "distractors": [
+            "rheostat",
+            "resistor",
+            "rheostat"
+        ],
+        "sentence": "Conversion of temperature into electric voltage is done with"
+    },
+    {
+        "answer": "rheostat",
+        "distractors": [
+            "capacitor",
+            "resistor",
+            "diode"
+        ],
+        "sentence": "Wire wound variable resistance is known as"
+    },
+    {
+        "answer": "power",
+        "distractors": [
+            "acceleration",
+            "work done",
+            "velocity"
+        ],
+        "sentence": "Formula written as V(Q/T) is of"
+    },
+    {
+        "answer": "RA/L",
+        "distractors": [
+            "R/L",
+            "RL/A",
+            "A/RL"
+        ],
+        "sentence": "Specific resistance of a wire can be measured by formula"
+    },
+    {
+        "answer": "contraction effect",
+        "distractors": [
+            "heating effect",
+            "magnetic effect",
+            "chemical effect"
+        ],
+        "sentence": "Effect that is not produced by current is"
+    },
+    {
+        "answer": "temperature coefficient",
+        "distractors": [
+            "temperature constant",
+            "resistance coefficient",
+            "resistance constant"
+        ],
+        "sentence": "Fractional change in resistance per kelvin is known as"
+    },
+    {
+        "answer": "electromotive force",
+        "distractors": [
+            "electrical motive force",
+            "electronic motive force",
+            "both a and b"
+        ],
+        "sentence": "EMF is an abbreviation of"
+    },
+    {
+        "answer": "constant",
+        "distractors": [
+            "different",
+            "zero",
+            "one"
+        ],
+        "sentence": "Potential difference between ends of conductor maintained by battery is"
+    },
+    {
+        "answer": "Kirchhoff's second rule",
+        "distractors": [
+            "Kirchhoff's first rule",
+            "Kirchhoff's third rule",
+            "Kirchhoff's fourth rule"
+        ],
+        "sentence": "Sum of all potential changes in a closed circuit is zero, stated law is called"
+    },
+    {
+        "answer": "Kirchhoff's second rule",
+        "distractors": [
+            "Kirchhoff's fourth rule",
+            "Kirchhoff's third rule",
+            "Kirchhoff's first rule"
+        ],
+        "sentence": "Equation (E1-IR1-E2-IR2 = 0) is statement of"
+    },
+    {
+        "answer": "\u00ce\u00a9-1m-1",
+        "distractors": [
+            "\u00ce\u00a9 m",
+            "\u00ce\u00a9",
+            "\u00ce\u00a9-1m"
+        ],
+        "sentence": "SI unit of conductivity of material is"
+    },
+    {
+        "answer": "obey Ohm's law",
+        "distractors": [
+            "doesn't obey Ohm's law",
+            "violate Ohm's law",
+            "satisfy Ohm's law"
+        ],
+        "sentence": "Ohmic devices are devices that consequently"
+    },
+    {
+        "answer": "voltmeter",
+        "distractors": [
+            "potentiometer",
+            "CRO",
+            "galvanometer"
+        ],
+        "sentence": "Potential difference of any device can be measured with instrument known as"
+    },
+    {
+        "answer": "Kirchhoff's first rule",
+        "distractors": [
+            "Kirchhoff's third rule",
+            "Kirchhoff's fourth rule",
+            "Kirchhoff's second rule"
+        ],
+        "sentence": "\"Sum of all currents meeting at a point is zero\", stated law is"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "min",
+            "max"
+        ],
+        "sentence": "When condition R1/R2 = R3/R4 is satisfied, current in galvanometer of Wheatstone bridge is"
+    },
+    {
+        "answer": "1.1 \u00c3\u0097 10-4 \u00ce\u00a9",
+        "distractors": [
+            "2.1 \u00c3\u0097 10-4 \u00ce\u00a9",
+            "3.1 \u00c3\u0097 10-4 \u00ce\u00a9",
+            "4.1 \u00c3\u0097 10-4 \u00ce\u00a9"
+        ],
+        "sentence": "Bar of iron 2 cm \u00c3\u0097 2 cm having area 4 cm\u00c2\u00b2 and resistivity of 11 \u00c3\u0097 10-8\u00ce\u00a9 meter will have resistance of"
+    },
+    {
+        "answer": "conventional current",
+        "distractors": [
+            "electronic current",
+            "protonic current",
+            "current"
+        ],
+        "sentence": "Current flowing from higher potential to lower potential is known as"
+    },
+    {
+        "answer": "non-ohmic devices",
+        "distractors": [
+            "resistive devices",
+            "ohmic devices",
+            "electric devices"
+        ],
+        "sentence": "Filament bulbs are best examples of the"
+    },
+    {
+        "answer": "electric kettle",
+        "distractors": [
+            "fan",
+            "freezer",
+            "TV"
+        ],
+        "sentence": "Heating effect of electric current is used in"
+    },
+    {
+        "answer": "collision of electrons",
+        "distractors": [
+            "movement of electrons",
+            "resistance in electrons",
+            "lose of energy"
+        ],
+        "sentence": "Heating effect produced by current is due to the"
+    },
+    {
+        "answer": "1.12 \u00c3\u0097 1020",
+        "distractors": [
+            "1.2 \u00c3\u0097 1020",
+            "2.12 \u00c3\u0097 1020",
+            "1 \u00c3\u0097 1020"
+        ],
+        "sentence": "When current passing is 300 mA, electrons passing through bulb in 1 minute are"
+    },
+    {
+        "answer": "power",
+        "distractors": [
+            "work done",
+            "velocity",
+            "acceleration"
+        ],
+        "sentence": "Product of voltage and current is known as"
+    },
+    {
+        "answer": "E = IR + Ir",
+        "distractors": [
+            "E = IR",
+            "E = IR + I",
+            "E = IR + r"
+        ],
+        "sentence": "Electromotive force of a battery can be defined with formula of"
+    },
+    {
+        "answer": "3.66 \u00c3\u0097 10-3 per K",
+        "distractors": [
+            "4.66 \u00c3\u0097 10-3 per K",
+            "3 \u00c3\u0097 10-3 per K",
+            "6.6 \u00c3\u0097 10-3 per K"
+        ],
+        "sentence": "Wire having resistance of 10 \u00ce\u00a9 at 0 \u00c2\u00b0C and 20 \u00ce\u00a9 at 273 \u00c2\u00b0C will have temperature coefficient of"
+    },
+    {
+        "answer": "1 \u00c3\u0097 10-7",
+        "distractors": [
+            "1.1 \u00c3\u0097 10-7",
+            "2 \u00c3\u0097 10-7",
+            "2.1 \u00c3\u0097 10-7"
+        ],
+        "sentence": "Current of 0.75 A, when a battery of 1.5 V is connected to wire of 5 m having cross sectional area 2.5 \u00c3\u0097 10-7 m\u00c2\u00b2, will have resistivity"
+    },
+    {
+        "answer": "magnetic field",
+        "distractors": [
+            "mechanical energy",
+            "electrical field",
+            "chemical energy"
+        ],
+        "sentence": "Current produces magnetic effect due to its"
+    },
+    {
+        "answer": "5%",
+        "distractors": [
+            "0.01",
+            "0.02",
+            "10%"
+        ],
+        "sentence": "Gold color of resistance shows tolerance up to the"
+    },
+    {
+        "answer": "non-ohmic devices",
+        "distractors": [
+            "ohmic devices",
+            "electric devices",
+            "resistive devices"
+        ],
+        "sentence": "Devices that do not obey Ohm's law are called"
+    },
+    {
+        "answer": "thermistor",
+        "distractors": [
+            "rheostat",
+            "capacitor",
+            "resistor"
+        ],
+        "sentence": "Resistor which is known as heat sensitive resistor is"
+    },
+    {
+        "answer": "conductance",
+        "distractors": [
+            "transmission",
+            "resistivity",
+            "inspection"
+        ],
+        "sentence": "Reciprocal of resistance is called"
+    },
+    {
+        "answer": "max output power",
+        "distractors": [
+            "power",
+            "output power",
+            "resistance"
+        ],
+        "sentence": "Formula E\u00c2\u00b2/4R is formula representing"
+    },
+    {
+        "answer": "electrical energy",
+        "distractors": [
+            "chemical energy",
+            "mechanical energy",
+            "solar energy"
+        ],
+        "sentence": "Thermocouples is source of current that converts heat energy to"
+    },
+    {
+        "answer": "current",
+        "distractors": [
+            "voltage",
+            "meter",
+            "acceleration"
+        ],
+        "sentence": "Rate of flow of charge through cross-sectional area is known as"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "variable resistor",
+            "potential divider",
+            "barometer"
+        ],
+        "sentence": "Rheostat can also be used as a"
+    },
+    {
+        "answer": "20 V",
+        "distractors": [
+            "10 V",
+            "15 V",
+            "25 V"
+        ],
+        "sentence": "Voltage of a device having resistance 5 \u00ce\u00a9 and current 4 A will be"
+    },
+    {
+        "answer": "linear graph",
+        "distractors": [
+            "non-linear graph",
+            "parabolic graph",
+            "hyperbola graph"
+        ],
+        "sentence": "Current-voltage graph of ohmic devices is a"
+    },
+    {
+        "answer": "all above",
+        "distractors": [
+            "V \u00c3\u0097 I",
+            "I\u00c2\u00b2R",
+            "V\u00c2\u00b2/R"
+        ],
+        "sentence": "Power can be represented in variety of ways as"
+    },
+    {
+        "answer": "20 mA",
+        "distractors": [
+            "10 mA",
+            "30 mA",
+            "40 mA"
+        ],
+        "sentence": "When charge of 90 C passes through wire in 1 hour 15 min, its current will be"
+    },
+    {
+        "answer": "eel",
+        "distractors": [
+            "star fish",
+            "shark",
+            "octopus"
+        ],
+        "sentence": "Living creature that turns itself into living battery is"
+    },
+    {
+        "answer": "resistivity",
+        "distractors": [
+            "conductivity",
+            "transitivity",
+            "both a and b"
+        ],
+        "sentence": "Characteristic specific resistance of wire is its"
+    },
+    {
+        "answer": "electrolyte",
+        "distractors": [
+            "electrolysis",
+            "electrode",
+            "cathode"
+        ],
+        "sentence": "Liquid that is used to conduct current is called"
+    },
+    {
+        "answer": "cells",
+        "distractors": [
+            "electric generator",
+            "solar cells",
+            "both a and b"
+        ],
+        "sentence": "Conversion of chemical energy to electrical energy can be achieved by"
+    },
+    {
+        "answer": "1.1 \u00ce\u00a9",
+        "distractors": [
+            "1 \u00ce\u00a9",
+            "2 \u00ce\u00a9",
+            "2.1 \u00ce\u00a9"
+        ],
+        "sentence": "Potential difference of a battery is 2.2 V when it is connected across a resistance of 5 \u00ce\u00a9, if suddenly potential difference falls to 1.8 V, its internal resistance will be"
+    },
+    {
+        "answer": "Kirchhoff's fourth rule",
+        "distractors": [
+            "Kirchhoff's second rule",
+            "Kirchhoff's first rule",
+            "Kirchhoff's third rule"
+        ],
+        "sentence": "Equation (I1 + I2 = I3 + I4) satisfies statement of"
+    },
+    {
+        "answer": "H = I\u00c2\u00b2Rt",
+        "distractors": [
+            "H = I\u00c2\u00b2R",
+            "H = IRt",
+            "H = I\u00c2\u00b2t"
+        ],
+        "sentence": "Heat produced by current in wire during 't' time is determined by"
+    },
+    {
+        "answer": "4",
+        "distractors": [
+            "2",
+            "3",
+            "5"
+        ],
+        "sentence": "Resistances used in circuit of Wheatstone bridge are"
+    },
+    {
+        "answer": "solar cells",
+        "distractors": [
+            "cells",
+            "electric generator",
+            "electrical energy"
+        ],
+        "sentence": "Sunlight is directly converted into electrical energy by using"
+    },
+    {
+        "answer": "3.2 \u00c3\u0097 10-6",
+        "distractors": [
+            "1.6 \u00c3\u0097 10-6",
+            "4.2 \u00c3\u0097 10-6",
+            "6 \u00c3\u0097 10-6"
+        ],
+        "sentence": "Current flowing through a conductor, when 2 \u00c3\u0097 107 electrons pass in 1 \u00c2\u00b5sec will be"
+    },
+    {
+        "answer": "motional EMF",
+        "distractors": [
+            "EMF",
+            "static EMF",
+            "rotational EMF"
+        ],
+        "sentence": "Electro motive force induced by motion of conductor across magnetic field is called"
+    },
+    {
+        "answer": "47 rad s-1",
+        "distractors": [
+            "49 rad s-1",
+            "42 rad s-1",
+            "48 rad s-1"
+        ],
+        "sentence": "Square coil of side 16 cm having 200 turns rotating in magnetic field of 0.05 T with peak EMF of 12 V will produce angular velocity of"
+    },
+    {
+        "answer": "voltage",
+        "distractors": [
+            "current",
+            "1/charge",
+            "charge"
+        ],
+        "sentence": "Dimensions of rate of change of flux are equivalent to those of"
+    },
+    {
+        "answer": "DC motor",
+        "distractors": [
+            "AC generator",
+            "DC generator",
+            "cell"
+        ],
+        "sentence": "Device that converts electrical energy into mechanical energy is"
+    },
+    {
+        "answer": "back EMF",
+        "distractors": [
+            "induced EMF",
+            "deduce EMF",
+            "both a and b"
+        ],
+        "sentence": "Self-induced EMF is sometimes also known as"
+    },
+    {
+        "answer": "Faradays law",
+        "distractors": [
+            "amperes law",
+            "Lenz's law",
+            "coulombs law"
+        ],
+        "sentence": "Alternative current generator is basically based upon"
+    },
+    {
+        "answer": "AC circuit",
+        "distractors": [
+            "DC circuit",
+            "DC motor",
+            "both a and b"
+        ],
+        "sentence": "Transformer is being used in"
+    },
+    {
+        "answer": "as long as change in flux",
+        "distractors": [
+            "for a short time",
+            "for a long time",
+            "forever"
+        ],
+        "sentence": "Whenever magnetic flux linked with a coil changes, induced EMF in circuit will change"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "henry",
+            "V s A-1",
+            "Wb"
+        ],
+        "sentence": "In system international, unit of mutual inductance is"
+    },
+    {
+        "answer": "1 H",
+        "distractors": [
+            "1 V m-1",
+            "1 A",
+            "1 J"
+        ],
+        "sentence": "Change of current of 1 A s-1 causes EMF of 1 V to be equal to"
+    },
+    {
+        "answer": "induced EMF",
+        "distractors": [
+            "EMF",
+            "deduce EMF",
+            "both a and b"
+        ],
+        "sentence": "EMF produced in conductor is known as"
+    },
+    {
+        "answer": "50 times per second",
+        "distractors": [
+            "20 times per second",
+            "once per second",
+            "twice per second"
+        ],
+        "sentence": "In alternative current generator, AC current reverses its direction"
+    },
+    {
+        "answer": "resistance of loop",
+        "distractors": [
+            "resistance of galvanometer",
+            "voltage of loop",
+            "current of loop"
+        ],
+        "sentence": "Induced current depends upon speed with which conductor moves and"
+    },
+    {
+        "answer": "anti-clockwise",
+        "distractors": [
+            "zero",
+            "clockwise",
+            "infinite"
+        ],
+        "sentence": "A metallic ring is attached to wall of a room. When North Pole of magnet is brought near ring, induced current in ring is"
+    },
+    {
+        "answer": "0.48V",
+        "distractors": [
+            "0.44V",
+            "1.2V",
+            "2.1V"
+        ],
+        "sentence": "Magnetic field is 0.6T and rate of change of area is 0.8 m\u00c2\u00b2/s when N=1, induced EMF would be"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "stronger field",
+            "moving loop faster",
+            "coil of less turns"
+        ],
+        "sentence": "Induced current can be increased by"
+    },
+    {
+        "answer": "r > 1",
+        "distractors": [
+            "r = 0",
+            "r < 1",
+            "r = 1"
+        ],
+        "sentence": "Turn ratio (r) for a step-up transformer is"
+    },
+    {
+        "answer": "mutual induction",
+        "distractors": [
+            "EMF",
+            "induced EMF",
+            "self-induction"
+        ],
+        "sentence": "Changing current in one coil induces EMF in another, this phenomena is known as"
+    },
+    {
+        "answer": "2 Bev",
+        "distractors": [
+            "zero",
+            "evB",
+            "evB/2"
+        ],
+        "sentence": "A helium nucleus enters perpendicularly in magnetic field 'B' with velocity 'v', then magnetic force acting on it will be"
+    },
+    {
+        "answer": "energy",
+        "distractors": [
+            "mass",
+            "charge",
+            "momentum"
+        ],
+        "sentence": "Lenz's law is in accordance with law of conservation of"
+    },
+    {
+        "answer": "1.4 \u00c3\u0097 10-3",
+        "distractors": [
+            "2.4 \u00c3\u0097 10-3",
+            "3.4 \u00c3\u0097 10-3",
+            "4.4 \u00c3\u0097 10-3"
+        ],
+        "sentence": "An EMF of 5.6 V is induced in a coil while current in coil is decreased from 100 A to 20 A in 0.02 s, its mutual induction will be"
+    },
+    {
+        "answer": "electromagnetic induction",
+        "distractors": [
+            "photoelectric effect",
+            "x-rays",
+            "both a and b"
+        ],
+        "sentence": "Converse of process of magnetic effect of current is"
+    },
+    {
+        "answer": "1/2(LI\u00c2\u00b2)",
+        "distractors": [
+            "1/2(L\u00c2\u00b2I)",
+            "L(I/T)",
+            "LI"
+        ],
+        "sentence": "Energy that is stored in an inductor can be represented by"
+    },
+    {
+        "answer": "frequency",
+        "distractors": [
+            "voltage",
+            "current",
+            "both a and b"
+        ],
+        "sentence": "Quantity that remains unchanged in a transformer is"
+    },
+    {
+        "answer": "current",
+        "distractors": [
+            "voltage",
+            "resistance",
+            "both a and b"
+        ],
+        "sentence": "When moving conductor is connected to galvanometer, shown quantity is"
+    },
+    {
+        "answer": "it opposes change",
+        "distractors": [
+            "deduce EMF",
+            "it maintains change",
+            "induced EMF"
+        ],
+        "sentence": "Negative sign of equation of self-induction shows that"
+    },
+    {
+        "answer": "transformer",
+        "distractors": [
+            "DC generator",
+            "AC generator",
+            "capacitor"
+        ],
+        "sentence": "Practical application of mutual induction is"
+    },
+    {
+        "answer": "Faradays law",
+        "distractors": [
+            "Lenz's law",
+            "newton's law",
+            "both a and b"
+        ],
+        "sentence": "Negative of rate of change of magnetic flux through coil changing with time is known as"
+    },
+    {
+        "answer": "mutual induction",
+        "distractors": [
+            "self-induction",
+            "Lenz's law",
+            "motional EMF"
+        ],
+        "sentence": "Transformer is device that works on principle of"
+    },
+    {
+        "answer": "240 V",
+        "distractors": [
+            "220 V",
+            "260 V",
+            "280 V"
+        ],
+        "sentence": "Back EMF is 120 V when motor is turning at 1680 revs per min. back EMF when motor rotates at 3360 revs per min, will be"
+    },
+    {
+        "answer": "1831",
+        "distractors": [
+            "1832",
+            "1840",
+            "1842"
+        ],
+        "sentence": "Michael Faraday observed that EMF was set up in a conductor in year of"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "slows down",
+            "back EMF decreases",
+            "back EMF increases"
+        ],
+        "sentence": "If motor gets over loaded, then its"
+    },
+    {
+        "answer": "resistor",
+        "distractors": [
+            "capacitor",
+            "transistor",
+            "wire"
+        ],
+        "sentence": "With alternative current, inductor behaves like"
+    },
+    {
+        "answer": "3.12 \u00c3\u0097 10-2 V",
+        "distractors": [
+            "0.12 \u00c3\u0097 10-2 V",
+            "1.12 \u00c3\u0097 10-2 V",
+            "2.12 \u00c3\u0097 10-2 V"
+        ],
+        "sentence": "A metal rod of 25 cm is moving at 0.5 m s-1 in direction perpendicular to 0.25 T magnetic field, EMF produced is"
+    },
+    {
+        "answer": "Lenz's law",
+        "distractors": [
+            "Faradays law",
+            "Newton's law",
+            "motional EMF"
+        ],
+        "sentence": "Law that states that direction of induced current is always as to oppose change which causes current, is"
+    },
+    {
+        "answer": "(output power/input power) \u00c3\u0097 100",
+        "distractors": [
+            "(input power/output power) \u00c3\u0097 100",
+            "input power/output power",
+            "output power \u00c3\u0097 100"
+        ],
+        "sentence": "Efficiency of transformer is defined as"
+    },
+    {
+        "answer": "self-induction",
+        "distractors": [
+            "mutual induction",
+            "induced EMF",
+            "EMF"
+        ],
+        "sentence": "Changing current in a coil produces EMF in same coil. This phenomenon is known as"
+    },
+    {
+        "answer": "oppose pull",
+        "distractors": [
+            "change pull",
+            "go with pull",
+            "both a and b"
+        ],
+        "sentence": "According to Lenz's law, if you pull magnet away, then induced current will"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "Is = 10Ip",
+            "Ip = 10Is",
+            "Ns = 10Np"
+        ],
+        "sentence": "If turn ratio of a transformer is 10, it means that"
+    },
+    {
+        "answer": "DC motor",
+        "distractors": [
+            "DC generator",
+            "AC generator",
+            "both a and b"
+        ],
+        "sentence": "\"A current carrying coil placed in magnetic field experiences force\", device that proves this law is"
+    },
+    {
+        "answer": "grid",
+        "distractors": [
+            "anode",
+            "cathode",
+            "matrix"
+        ],
+        "sentence": "In cathode ray oscilloscope, spots are formed on screen having"
+    },
+    {
+        "answer": "4.09 \u00c3\u0097 10-5 m s-1",
+        "distractors": [
+            "3.09 \u00c3\u0097 10-5 m s-1",
+            "2.09 \u00c3\u0097 10-5 m s-1",
+            "0.09 \u00c3\u0097 10-5 m s-1"
+        ],
+        "sentence": "In a magnetic field of 2.50 \u00c3\u0097 10-3 T, if magnetic force is equal to proton's weight, then proton moves with speed of"
+    },
+    {
+        "answer": "9.4 \u00c3\u0097 10-2m",
+        "distractors": [
+            "9 \u00c3\u0097 10-2m",
+            "5.4 \u00c3\u0097 10-2m",
+            "1.4 \u00c3\u0097 10-2m"
+        ],
+        "sentence": "An electron moving at rate of 2 \u00c3\u0097 107 in uniform magnetic field of 1.10 \u00c3\u0097 10-3, radius of its orbit will be"
+    },
+    {
+        "answer": "negligible",
+        "distractors": [
+            "zero",
+            "strong",
+            "infinite"
+        ],
+        "sentence": "Magnetic field outside a solenoid is"
+    },
+    {
+        "answer": "decreased",
+        "distractors": [
+            "increased",
+            "remain",
+            "both a and b"
+        ],
+        "sentence": "In order to increase range of ammeter, value of shunt resistance Rs is"
+    },
+    {
+        "answer": "0.39 N",
+        "distractors": [
+            "0.21 N",
+            "0.25 N",
+            "0.31 N"
+        ],
+        "sentence": "A 20 cm wire carrying current of 10 A with magnetic field 0.30 T having angle 40\u00c2\u00b0 will produce force of"
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "qvB \u00c3\u0097 cos\u00ce\u00b8",
+            "qvB \u00c3\u0097 sin\u00ce\u00b8",
+            "qvB"
+        ],
+        "sentence": "When charged particle is projected opposite to direction of magnetic field, it experiences force equal to"
+    },
+    {
+        "answer": "40 Wb",
+        "distractors": [
+            "20i + 40k Wb",
+            "20 Wb",
+            "30 Wb"
+        ],
+        "sentence": "If magnetic field in region is given by B = 4i + 8k, then flux passing through a 5 m\u00c2\u00b2 area loop will be"
+    },
+    {
+        "answer": "stationary charge",
+        "distractors": [
+            "moving charge",
+            "change in magnetic flux",
+            "current flowing in conductor"
+        ],
+        "sentence": "Quantity that is not affected by magnetic field is"
+    },
+    {
+        "answer": "voltmeter",
+        "distractors": [
+            "ohmmeter",
+            "odometer",
+            "ammeter"
+        ],
+        "sentence": "Device used to measure potential difference between two points in volts is known as"
+    },
+    {
+        "answer": "momentum",
+        "distractors": [
+            "speed",
+            "energy",
+            "moment of inertia"
+        ],
+        "sentence": "When a charged particle moves at right angle to a magnetic field quantity that changes is"
+    },
+    {
+        "answer": "3.5 \u00c3\u0097 10-3 T",
+        "distractors": [
+            "1.5 \u00c3\u0097 10-3 T",
+            "4.5 \u00c3\u0097 10-3 T",
+            "2.5 \u00c3\u0097 10-3 T"
+        ],
+        "sentence": "Value of magnetic field that will cause a max force of 7 \u00c3\u0097 10-3N on a 20 cm wire carrying current of 10 A will be"
+    },
+    {
+        "answer": "voltage",
+        "distractors": [
+            "current",
+            "potential difference",
+            "temperature"
+        ],
+        "sentence": "Cathode ray oscilloscope displays graph of waveforms based on"
+    },
+    {
+        "answer": "0.01 \u00ce\u00a9",
+        "distractors": [
+            "0.1 \u00ce\u00a9",
+            "0.2 \u00ce\u00a9",
+            "0.02 \u00ce\u00a9"
+        ],
+        "sentence": "A galvanometer of 50 \u00ce\u00a9 gives full scale deflection with 2 mA current. To convert it into ammeter, range of 10 A is connected with it, shunt resistance should be"
+    },
+    {
+        "answer": "uniform",
+        "distractors": [
+            "zero",
+            "weak",
+            "non-uniform"
+        ],
+        "sentence": "Magnetic field inside a solenoid is"
+    },
+    {
+        "answer": "tesla",
+        "distractors": [
+            "N C-1",
+            "weber",
+            "N m A-1"
+        ],
+        "sentence": "SI unit of magnetic induction is"
+    },
+    {
+        "answer": "wire",
+        "distractors": [
+            "rod",
+            "blog",
+            "plate"
+        ],
+        "sentence": "Magnetic field is set up in region surrounding current carrying"
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "ILB \u00c3\u0097 cos\u00ce\u00b8",
+            "ILB",
+            "ILB \u00c3\u0097 Sin\u00ce\u00b8"
+        ],
+        "sentence": "If a current carrying conductor is placed in uniform magnetic field parallel to direction of field then force experienced by conductor will be"
+    },
+    {
+        "answer": "ammeter",
+        "distractors": [
+            "voltmeter",
+            "ohm meter",
+            "odometer"
+        ],
+        "sentence": "Electric instrument used to measure current in amperes is known as"
+    },
+    {
+        "answer": "circle",
+        "distractors": [
+            "helical path",
+            "straight line",
+            "cube"
+        ],
+        "sentence": "When an electron is projected at right angle to uniform magnetic field then it will move along"
+    },
+    {
+        "answer": "magnetic field",
+        "distractors": [
+            "magnetic flux",
+            "magnetic current",
+            "both a and b"
+        ],
+        "sentence": "Moving charge experiences magnetic force because of"
+    },
+    {
+        "answer": "to make field radial",
+        "distractors": [
+            "to increase field",
+            "to weaken field",
+            "both a and b"
+        ],
+        "sentence": "In moving coil galvanometer, pole faces of U-shaped magnet are made concave"
+    },
+    {
+        "answer": "to make stronger field",
+        "distractors": [
+            "to make zero field",
+            "to make galvanometer heavier",
+            "both a and b"
+        ],
+        "sentence": "In moving coil galvanometer, a soft iron cylinder is placed inside coil"
+    },
+    {
+        "answer": "v = E/B",
+        "distractors": [
+            "v = B/E",
+            "v = BE",
+            "v = B + E"
+        ],
+        "sentence": "A charged particle will move through region getting undeflected if"
+    },
+    {
+        "answer": "q(V \u00c3\u0097 B)",
+        "distractors": [
+            "q(V - B)",
+            "q(V + B)",
+            "q(V/B)"
+        ],
+        "sentence": "Magnetic force acting on a charge is given by formula"
+    },
+    {
+        "answer": "saw tooth waveform",
+        "distractors": [
+            "sinusoidal waveform",
+            "cos waveform",
+            "both a and b"
+        ],
+        "sentence": "Output of sweep and time base generator will be"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "0",
+            "90",
+            "180"
+        ],
+        "sentence": "Charged particle 'q' moving through magnetic field with velocity 'V' will have zero magnetic force when angle is"
+    },
+    {
+        "answer": "increased",
+        "distractors": [
+            "decreased",
+            "unchanged",
+            "remain same"
+        ],
+        "sentence": "To make range of voltmeter increase, Rh is"
+    },
+    {
+        "answer": "1.3 \u00c3\u0097 10\u00c2\u00b2",
+        "distractors": [
+            "2.3 \u00c3\u0097 10\u00c2\u00b2",
+            "1.1 \u00c3\u0097 10\u00c2\u00b2",
+            "1.4 \u00c3\u0097 10\u00c2\u00b2"
+        ],
+        "sentence": "Solenoid of length 15 cm has 300 turns. If current flowing through solenoid is 5 A, magnetic field inside solenoid will be"
+    },
+    {
+        "answer": "zero",
+        "distractors": [
+            "fd",
+            "max",
+            "negative"
+        ],
+        "sentence": "If flow of electric current is parallel to magnetic field, force will be"
+    },
+    {
+        "answer": "graph plotting device",
+        "distractors": [
+            "plotting device",
+            "printing device",
+            "both a and b"
+        ],
+        "sentence": "Electronic device named as cathode ray oscilloscope is known as"
+    },
+    {
+        "answer": "H2 at low pressure",
+        "distractors": [
+            "H2 at high pressure",
+            "N2 at high pressure",
+            "O2 at low pressure"
+        ],
+        "sentence": "In e/m experiment, path of electron is made visible by filling"
+    },
+    {
+        "answer": "ammeter",
+        "distractors": [
+            "ohmmeter",
+            "voltmeter",
+            "odometer"
+        ],
+        "sentence": "Device known as low-resistance galvanometer is"
+    },
+    {
+        "answer": "moment arm",
+        "distractors": [
+            "momentum",
+            "arm",
+            "moment of inertia"
+        ],
+        "sentence": "Torque of couple is given by ILB \u00c3\u0097 a, in which a is a/an"
+    },
+    {
+        "answer": "torque",
+        "distractors": [
+            "potential difference",
+            "voltage",
+            "inertia"
+        ],
+        "sentence": "Product of force and moment arm is known as"
+    },
+    {
+        "answer": "4 \u00c3\u0097 106 T",
+        "distractors": [
+            "2 \u00c3\u0097 106 T",
+            "3 \u00c3\u0097 106 T",
+            "5 \u00c3\u0097 106 T"
+        ],
+        "sentence": "A power line 10 m high carries current 200 A, magnetic field will be"
+    },
+    {
+        "answer": "weber",
+        "distractors": [
+            "tesla",
+            "N m A-1",
+            "N C-1"
+        ],
+        "sentence": "According to SI units, unit of magnetic flux is"
+    },
+    {
+        "answer": "1",
+        "distractors": [
+            "E/B",
+            "B/E",
+            "0"
+        ],
+        "sentence": "Ratio of magnetic force Fm and electric force Fe acting on a charge getting undeflected through field is"
+    },
+    {
+        "answer": "90 \u00c3\u0097 10-4",
+        "distractors": [
+            "91 \u00c3\u0097 10-4",
+            "92 \u00c3\u0097 10-4",
+            "94 \u00c3\u0097 10-4"
+        ],
+        "sentence": "If magnetic field in certain region is given by B = (40i-18k)Wb m\u00c2\u00b2, then flux passing through 5 cm\u00c2\u00b2 area loop will be"
+    },
+    {
+        "answer": "right hand rule",
+        "distractors": [
+            "left hand rule",
+            "thumb hand rule",
+            "both a and b"
+        ],
+        "sentence": "While grasping wire in right hand with thumb pointing to direction of current is known as"
+    },
+    {
+        "answer": "slightly less than collector",
+        "distractors": [
+            "slightly more than collector",
+            "equal to collector",
+            "equal to base current"
+        ],
+        "sentence": "In a transistor, emitter current is"
+    },
+    {
+        "answer": "both are 1",
+        "distractors": [
+            "A is 0",
+            "B is 0",
+            "both are zero"
+        ],
+        "sentence": "Two inputs A and B of NAND gate have 0 output, if"
+    },
+    {
+        "answer": "LED",
+        "distractors": [
+            "photo diode",
+            "photo voltaic cell",
+            "both a and b"
+        ],
+        "sentence": "One that is based on forward biased PN junction is"
+    },
+    {
+        "answer": "0.1 V",
+        "distractors": [
+            "1 V",
+            "5 V",
+            "9 V"
+        ],
+        "sentence": "A transistor can be used as a switch ON if Vce is nearly"
+    },
+    {
+        "answer": "voltage and current",
+        "distractors": [
+            "current and time",
+            "voltage and time",
+            "both a and b"
+        ],
+        "sentence": "Diode characteristic curve is a plot between"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "visible light",
+            "invisible light",
+            "no light"
+        ],
+        "sentence": "Photo diode is used for detection of"
+    },
+    {
+        "answer": "10-6 m",
+        "distractors": [
+            "10-3 m",
+            "10-6\u00c2\u00b5m",
+            "10-4 m"
+        ],
+        "sentence": "Base of transistor has a thickness of"
+    },
+    {
+        "answer": "PN junction",
+        "distractors": [
+            "barrier junction",
+            "potential barrier",
+            "both a and b"
+        ],
+        "sentence": "When semiconductor is doped half with trivalent and half with pentavalent impurities, junction formed is known as"
+    },
+    {
+        "answer": "both b and c",
+        "distractors": [
+            "independent of internal structure",
+            "dependent of internal structure",
+            "depend upon two external resistances"
+        ],
+        "sentence": "Gain of operational amplifier is"
+    },
+    {
+        "answer": "NOT",
+        "distractors": [
+            "OR",
+            "XOR",
+            "NAND"
+        ],
+        "sentence": "Gate that is also known as inverter is called"
+    },
+    {
+        "answer": "rectifier",
+        "distractors": [
+            "modulator",
+            "amplifier",
+            "oscillator"
+        ],
+        "sentence": "A simple diode can be used as"
+    },
+    {
+        "answer": "Vo/Vi",
+        "distractors": [
+            "Vo + Vi",
+            "Vo - Vi",
+            "Vo \u00c3\u0097 Vi"
+        ],
+        "sentence": "Open loop gain of an amplifier can be represented by formula"
+    },
+    {
+        "answer": "10 mA",
+        "distractors": [
+            "110 mA",
+            "100 mA",
+            "101 mA"
+        ],
+        "sentence": "Current flowing into base of transistor is 100 \u00c2\u00b5A and current gain is 100 \u00c2\u00b5A, its collector current will be"
+    },
+    {
+        "answer": "180",
+        "distractors": [
+            "0",
+            "90",
+            "45"
+        ],
+        "sentence": "In op-amp, signal applied at inverting terminal appears at output terminal with a phase"
+    },
+    {
+        "answer": "base",
+        "distractors": [
+            "emitter",
+            "collector",
+            "both a and b"
+        ],
+        "sentence": "Least doped region in a transistor is"
+    },
+    {
+        "answer": "OR",
+        "distractors": [
+            "AND",
+            "NOT",
+            "NOR"
+        ],
+        "sentence": "Gate having output 1 only when one of its input is 1 is called"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "logic circuits",
+            "automatic switching",
+            "networking"
+        ],
+        "sentence": "Photo diodes' applications include the"
+    },
+    {
+        "answer": "very high",
+        "distractors": [
+            "very low",
+            "zero",
+            "one"
+        ],
+        "sentence": "Input resistance of op-amp is"
+    },
+    {
+        "answer": "emitter heavily doped",
+        "distractors": [
+            "emitter and collector equally doped",
+            "collector heavily doped",
+            "both a and b"
+        ],
+        "sentence": "Device named as a transistor has"
+    },
+    {
+        "answer": "(1 + R1)/R2",
+        "distractors": [
+            "1 + R1/R2",
+            "1 - R1/R2",
+            "(R1 + R2)/R2"
+        ],
+        "sentence": "Gain of non-inverting amplifier is given by G ="
+    },
+    {
+        "answer": "high",
+        "distractors": [
+            "low",
+            "1",
+            "0"
+        ],
+        "sentence": "If 3.5 V is applied to a gate, it will accept it as"
+    },
+    {
+        "answer": "semiconductor material",
+        "distractors": [
+            "its forward bias",
+            "its reverse bias",
+            "forward current"
+        ],
+        "sentence": "Color of light emitted by LED depends on"
+    },
+    {
+        "answer": "forward resistance",
+        "distractors": [
+            "steradian",
+            "PN junction",
+            "forward junction"
+        ],
+        "sentence": "Ratio of forward voltage and a forward current is known as"
+    },
+    {
+        "answer": "reverse biased",
+        "distractors": [
+            "forward biased",
+            "potential barrier",
+            "both a and b"
+        ],
+        "sentence": "In half-wave rectification, during negative cycle of wave, diode is"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "half wave rectification",
+            "full wave rectification",
+            "quarter wave rectification"
+        ],
+        "sentence": "Common type of rectification is"
+    },
+    {
+        "answer": "XOR",
+        "distractors": [
+            "XNOR",
+            "NOR",
+            "NAND"
+        ],
+        "sentence": "Gate whose output is 0 only when inputs are different is called"
+    },
+    {
+        "answer": "minority charge carrier",
+        "distractors": [
+            "majority charge carrier",
+            "zero charge carrier",
+            "both a and b"
+        ],
+        "sentence": "In reverse biased situation, very small current flows due to"
+    },
+    {
+        "answer": "positive half",
+        "distractors": [
+            "both half cycles",
+            "negative half",
+            "one half input"
+        ],
+        "sentence": "In a half rectification, diode conducts during"
+    },
+    {
+        "answer": "smaller",
+        "distractors": [
+            "larger",
+            "same",
+            "negligible"
+        ],
+        "sentence": "In a PNP transistor, n-region as compared to p-region is"
+    },
+    {
+        "answer": "LED",
+        "distractors": [
+            "photo diode",
+            "pair production",
+            "transistor"
+        ],
+        "sentence": "Function of photovoltaic cell is reverse of"
+    },
+    {
+        "answer": "Nano volt",
+        "distractors": [
+            "micro volt",
+            "mega volt",
+            "Pico volt"
+        ],
+        "sentence": "Shark can detect potential difference of its prey up to sensitivity of"
+    },
+    {
+        "answer": "1\u00e2\u0081\u00842 CV\u00c2\u00b2",
+        "distractors": [
+            "2 CV\u00c2\u00b2",
+            "1 CV\u00c2\u00b2",
+            "1\u00e2\u0081\u00842 CV"
+        ],
+        "sentence": "Energy in a capacitor can be stored in form of"
+    },
+    {
+        "answer": "capacitor",
+        "distractors": [
+            "resistor",
+            "transistor",
+            "diode"
+        ],
+        "sentence": "Device that is used to store charge, is named as"
+    },
+    {
+        "answer": "coulombs law",
+        "distractors": [
+            "newton's law",
+            "gauss's law",
+            "&Ohm;'s law"
+        ],
+        "sentence": "Law stating that \"force is directly proportional to product of charges and inversely proportional to square of separation between them\" is called"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "min",
+            "max"
+        ],
+        "sentence": "Electric charge enclosed by Gaussian surface is"
+    },
+    {
+        "answer": "42.7 N",
+        "distractors": [
+            "40 N",
+            "41.1 N",
+            "42.3 N"
+        ],
+        "sentence": "Two positive charges Q1 = 16 C and Q2 = 4 C, separated by a diameter of 3 m will produce force of"
+    },
+    {
+        "answer": "EEG",
+        "distractors": [
+            "ECG",
+            "ENG",
+            "EFG"
+        ],
+        "sentence": "For detecting abnormal behavior of brain, technique used is"
+    },
+    {
+        "answer": "1440i + 1080j",
+        "distractors": [
+            "1240i + 1180j",
+            "1442i + 2080j",
+            "2440i + 3080j"
+        ],
+        "sentence": "At position of (4i + 3j) by a point charge 5 \u00c3\u0097 10-6 C placed at origin will produce electric field of"
+    },
+    {
+        "answer": "3 m",
+        "distractors": [
+            "1 m",
+            "2 m",
+            "4 m"
+        ],
+        "sentence": "Two point charges -1 \u00c3\u0097 10-6 C and 4 \u00c3\u0097 10-6 C separated by 3 m distance have zero field location of"
+    },
+    {
+        "answer": "inkjet printer",
+        "distractors": [
+            "laser printer",
+            "desk jet printer",
+            "both a and b"
+        ],
+        "sentence": "Printer that uses electric charges is called"
+    },
+    {
+        "answer": "electroretinography",
+        "distractors": [
+            "eyeretinography",
+            "electricalretinography",
+            "both a and b"
+        ],
+        "sentence": "ERG used for activity of an eye is an abbreviation of"
+    },
+    {
+        "answer": "f = kQ1Q2/r\u00c2\u00b2",
+        "distractors": [
+            "f = Q1Q2/r\u00c2\u00b2",
+            "f = kQ/r\u00c2\u00b2",
+            "f = kQ1Q2/r"
+        ],
+        "sentence": "Formula that describes statement of Coulomb's law is"
+    },
+    {
+        "answer": "arbitrarily",
+        "distractors": [
+            "sequentially",
+            "rational",
+            "in line"
+        ],
+        "sentence": "For Gauss's law, point charges in closed surface must be distributed"
+    },
+    {
+        "answer": "9 \u00c3\u0097 109",
+        "distractors": [
+            "9 \u00c3\u0097 10\u00c2\u00b3",
+            "9 \u00c3\u0097 105",
+            "9 \u00c3\u0097 107"
+        ],
+        "sentence": "Value of constant K in Coulomb's law has value of"
+    },
+    {
+        "answer": "10-6 F",
+        "distractors": [
+            "10-2 F",
+            "10-3 F",
+            "10-4 F"
+        ],
+        "sentence": "1 \u00c2\u00b5F of capacitance is equal to"
+    },
+    {
+        "answer": "repulsive force",
+        "distractors": [
+            "attractive force",
+            "opposite force",
+            "both a and b"
+        ],
+        "sentence": "In region of any positive point charge, other positive point charge feels"
+    },
+    {
+        "answer": "square of distance",
+        "distractors": [
+            "distance",
+            "mass",
+            "square of mass"
+        ],
+        "sentence": "Gravitational and electric forces are inversely proportional to"
+    },
+    {
+        "answer": "lines of force",
+        "distractors": [
+            "force of lines",
+            "force lines",
+            "both a and b"
+        ],
+        "sentence": "Electric field lines exerting force on a charge are also known as"
+    },
+    {
+        "answer": "perpendicular",
+        "distractors": [
+            "parallel",
+            "at angle",
+            "at distance"
+        ],
+        "sentence": "Flux will be minimum when electric field lines to area are"
+    },
+    {
+        "answer": "electrostatic",
+        "distractors": [
+            "electric flux",
+            "electric field",
+            "electric field lines"
+        ],
+        "sentence": "Electric charges under action of electric forces is called"
+    },
+    {
+        "answer": "electric intensity",
+        "distractors": [
+            "electric field",
+            "electric charge",
+            "electric field lines"
+        ],
+        "sentence": "Gauss's law due to different charge distribution is used to calculate"
+    },
+    {
+        "answer": "electric flux",
+        "distractors": [
+            "electric field",
+            "electrostatics",
+            "electric field lines"
+        ],
+        "sentence": "Number of field lines passing at certain area are known as"
+    },
+    {
+        "answer": "molecules",
+        "distractors": [
+            "electric flux",
+            "electricity",
+            "both a and b"
+        ],
+        "sentence": "Human body and all matters of world are completely made up of atoms and"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "repulsive",
+            "attractive",
+            "opposite"
+        ],
+        "sentence": "Gravitational force is force that is always"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "min",
+            "max"
+        ],
+        "sentence": "Field lines parallel to sides of a box will have flux that is"
+    },
+    {
+        "answer": "gauss's law",
+        "distractors": [
+            "ohms law",
+            "newton's law",
+            "coulombs law"
+        ],
+        "sentence": "Law stated as flux is 1/Eo times total charge is"
+    },
+    {
+        "answer": "1909",
+        "distractors": [
+            "1900",
+            "1901",
+            "1902"
+        ],
+        "sentence": "Charge on an electron was discovered by Millikan in year"
+    },
+    {
+        "answer": "J C-1",
+        "distractors": [
+            "C J-1",
+            "J",
+            "C"
+        ],
+        "sentence": "Unit of voltage (V) is equivalent to unit"
+    },
+    {
+        "answer": "gutter",
+        "distractors": [
+            "paper",
+            "nozzle",
+            "ink supplier"
+        ],
+        "sentence": "In inkjet printer, net charges are diverted by deflection plates towards"
+    },
+    {
+        "answer": "1.6 \u00c3\u0097 10-19 J",
+        "distractors": [
+            "1.8 \u00c3\u0097 10-19 J",
+            "1.9 \u00c3\u0097 10-19 J",
+            "2.1 \u00c3\u0097 10-19 J"
+        ],
+        "sentence": "Value of 1 eV is equivalent to value of"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "direction",
+            "strength",
+            "position"
+        ],
+        "sentence": "Map of electric field lines provides information of electric fields'"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "charge",
+            "energy",
+            "voltage"
+        ],
+        "sentence": "Capacitor is used to store electric"
+    },
+    {
+        "answer": "electric force",
+        "distractors": [
+            "electric field",
+            "electrostatics",
+            "coulombs law"
+        ],
+        "sentence": "Force that keeps positive and negative charges together is known as"
+    },
+    {
+        "answer": "metal box",
+        "distractors": [
+            "wooden box",
+            "plastic box",
+            "any box"
+        ],
+        "sentence": "To eliminate electric field interference, electronic devices are enclosed in"
+    },
+    {
+        "answer": "ampullae of lorenzini",
+        "distractors": [
+            "amplitude of lorenzini",
+            "lorenzini",
+            "ampullae"
+        ],
+        "sentence": "Shark's organ for detection of electric field is named as"
+    },
+    {
+        "answer": "NM\u00c2\u00b2C-1",
+        "distractors": [
+            "NM\u00c2\u00b2C",
+            "NM1C-1",
+            "M\u00c2\u00b2C-1"
+        ],
+        "sentence": "System International unit of electric flux is"
+    },
+    {
+        "answer": "voltage",
+        "distractors": [
+            "current",
+            "work",
+            "potential difference"
+        ],
+        "sentence": "By electric processes in heart using points between skin, ECG records"
+    },
+    {
+        "answer": "electrodes",
+        "distractors": [
+            "graph",
+            "sensors",
+            "both a and b"
+        ],
+        "sentence": "For detection of brain's behavior, EEG and ECG use"
+    },
+    {
+        "answer": "one sec",
+        "distractors": [
+            "one minute",
+            "one volt",
+            "one joule"
+        ],
+        "sentence": "Product of resistance of 1 \u00ce\u00a9 and capacitance of 1 Farad is equal to"
+    },
+    {
+        "answer": "19.2 \u00c3\u0097 10-19 J",
+        "distractors": [
+            "19 J",
+            "19.2 J",
+            "19 \u00c3\u0097 10-19 J"
+        ],
+        "sentence": "If charged particle of 2e falls at potential difference of 6 V, then energy required to fall will be"
+    },
+    {
+        "answer": "max",
+        "distractors": [
+            "min",
+            "zero",
+            "one"
+        ],
+        "sentence": "If electric field lines are parallel to area, electric flux will be"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "21",
+            "23"
+        ],
+        "sentence": "Opposite point charges 'q' at distance of 2d are placed in middle of distance will produce electric potential of"
+    },
+    {
+        "answer": "capacitance",
+        "distractors": [
+            "performance",
+            "resistance",
+            "durability"
+        ],
+        "sentence": "Ability of capacitor to store charge is measured as its"
+    },
+    {
+        "answer": "joule",
+        "distractors": [
+            "newton",
+            "meter",
+            "kelvin"
+        ],
+        "sentence": "System International unit of potential energy is"
+    },
+    {
+        "answer": "same",
+        "distractors": [
+            "different",
+            "zero",
+            "one"
+        ],
+        "sentence": "Direction of electric intensity and vector area of surface enclosing a charge is"
+    },
+    {
+        "answer": "scalar quantities",
+        "distractors": [
+            "vector quantities",
+            "base quantity",
+            "both a and b"
+        ],
+        "sentence": "Potential difference and potential between two points are"
+    },
+    {
+        "answer": "1 Farad",
+        "distractors": [
+            "1 nano",
+            "1 pico",
+            "1 micro"
+        ],
+        "sentence": "If charge of 1 C produces potential difference of 1 V, then it will be equivalent to"
+    },
+    {
+        "answer": "two point masses",
+        "distractors": [
+            "two point charges",
+            "two bodies",
+            "two distances"
+        ],
+        "sentence": "Electric force between two charges is similar to gravitational force between"
+    },
+    {
+        "answer": "charge on electron",
+        "distractors": [
+            "charge on cathode",
+            "charge on neutron",
+            "charge on proton"
+        ],
+        "sentence": "In 1909, Millikan devised technique for measurement of"
+    },
+    {
+        "answer": "positive to negative",
+        "distractors": [
+            "negative to negative",
+            "positive to positive",
+            "negative to positive"
+        ],
+        "sentence": "Lines of force between two plates are directed from"
+    },
+    {
+        "answer": "decreases",
+        "distractors": [
+            "increases",
+            "remain same",
+            "different"
+        ],
+        "sentence": "According to equation of continuity, when water falls its speed increases, while its cross sectional area"
+    },
+    {
+        "answer": "viscous",
+        "distractors": [
+            "non-viscous",
+            "incompressible",
+            "both a and b"
+        ],
+        "sentence": "If layers of fluid have frictional force between them, then it is known as"
+    },
+    {
+        "answer": "Bernoulli's equation",
+        "distractors": [
+            "equation of continuity",
+            "light equation",
+            "speed equation"
+        ],
+        "sentence": "Venturi relation is one of applications of"
+    },
+    {
+        "answer": "A1V1 = A2V2",
+        "distractors": [
+            "A1V2 = A2V2",
+            "A1V1 = A1V2",
+            "A2V1 = A1V1"
+        ],
+        "sentence": "Simplified equation of continuity is represented as"
+    },
+    {
+        "answer": "turbulent flow",
+        "distractors": [
+            "laminar flow",
+            "fluid flow",
+            "both a and b"
+        ],
+        "sentence": "If every particle of fluid has irregular flow, then flow is said to be"
+    },
+    {
+        "answer": "0.019",
+        "distractors": [
+            "1.295",
+            "0.514",
+            "2.564"
+        ],
+        "sentence": "Viscosity of air at 30 \u00c2\u00b0C is"
+    },
+    {
+        "answer": "laminar flow",
+        "distractors": [
+            "turbulent flow",
+            "fluid flow",
+            "both a and b"
+        ],
+        "sentence": "If every particle of fluid follows same path, then flow is said to be"
+    },
+    {
+        "answer": "Bernoulli's equation",
+        "distractors": [
+            "equation of continuity",
+            "light equation",
+            "speed equation"
+        ],
+        "sentence": "Chimney works best on principle of"
+    },
+    {
+        "answer": "weight - drag force",
+        "distractors": [
+            "weight + drag force",
+            "weight \u00c3\u0097 drag force",
+            "weight/drag force"
+        ],
+        "sentence": "Net force acting on a droplet of water is equal to"
+    },
+    {
+        "answer": "streamlined design",
+        "distractors": [
+            "laminated design",
+            "turbulent design",
+            "flat design"
+        ],
+        "sentence": "A racing car has a body with"
+    },
+    {
+        "answer": "1",
+        "distractors": [
+            "0.801",
+            "1.6",
+            "6.29"
+        ],
+        "sentence": "Viscosity of ethanol at 30 \u00c2\u00b0C is"
+    },
+    {
+        "answer": "4.2 \u00c3\u0097 10-3",
+        "distractors": [
+            "2 \u00c3\u0097 10-3",
+            "5.2 \u00c3\u0097 10-3",
+            "4 \u00c3\u0097 10-3"
+        ],
+        "sentence": "Volume of droplet having radius 0.1 m will be"
+    },
+    {
+        "answer": "0.2 cm",
+        "distractors": [
+            "0.1 cm",
+            "0.02 cm",
+            "0.01 cm"
+        ],
+        "sentence": "Water flowing through hose having diameter 1 cm at speed of 1 m s-1, if water is to emerge at 21 m s-1, diameter of nozzle should be"
+    },
+    {
+        "answer": "mgh",
+        "distractors": [
+            "mgf",
+            "mg",
+            "mgt"
+        ],
+        "sentence": "Change in potential energy is measured as difference of"
+    },
+    {
+        "answer": "incompressible",
+        "distractors": [
+            "thick",
+            "in-viscous",
+            "compressible"
+        ],
+        "sentence": "If fluid has constant density, it is said to be"
+    },
+    {
+        "answer": "6.29",
+        "distractors": [
+            "2.801",
+            "4",
+            "1.9"
+        ],
+        "sentence": "At 30 \u00c2\u00b0C, glycerin has viscosity of"
+    },
+    {
+        "answer": "2.7 g cm-3",
+        "distractors": [
+            "2.7 kg cm-3",
+            "2.7 g m-3",
+            "2.7 kg m-3"
+        ],
+        "sentence": "Density of aluminum is round about equal to"
+    },
+    {
+        "answer": "147",
+        "distractors": [
+            "294",
+            "295",
+            "145"
+        ],
+        "sentence": "Change in potential energy of a body moving from height 10 m to 5 m having mass 3 kg will be"
+    },
+    {
+        "answer": "0.51",
+        "distractors": [
+            "0.021",
+            "0.365",
+            "3.564"
+        ],
+        "sentence": "Methanol, at 30 \u00c2\u00b0C, has viscosity of"
+    },
+    {
+        "answer": "viscosity",
+        "distractors": [
+            "friction",
+            "gravity",
+            "surface tension"
+        ],
+        "sentence": "Frictional effect between layers of flowing fluid is known as"
+    },
+    {
+        "answer": "0.295",
+        "distractors": [
+            "0.19",
+            "0.513",
+            "2.564"
+        ],
+        "sentence": "At 30 \u00c2\u00b0C, acetone has viscosity of"
+    },
+    {
+        "answer": "conserved",
+        "distractors": [
+            "increasing",
+            "decreasing",
+            "same"
+        ],
+        "sentence": "If fluid is incompressible and is steady, its mass is"
+    },
+    {
+        "answer": "0.564",
+        "distractors": [
+            "0.23",
+            "0.295",
+            "0.61"
+        ],
+        "sentence": "At 30 \u00c2\u00b0C, viscosity of benzene is"
+    },
+    {
+        "answer": "viscosity",
+        "distractors": [
+            "friction",
+            "gravity",
+            "surface tension"
+        ],
+        "sentence": "Force required to slide one layer from another measures the"
+    },
+    {
+        "answer": "constant",
+        "distractors": [
+            "1",
+            "0",
+            "different"
+        ],
+        "sentence": "According to equation of continuity, product of area of pipe and speed of fluid along pipe is"
+    },
+    {
+        "answer": "non-viscous",
+        "distractors": [
+            "thick",
+            "compressible",
+            "incompressible"
+        ],
+        "sentence": "If there is no frictional force between layers of fluid, then it is known as"
+    },
+    {
+        "answer": "0.125",
+        "distractors": [
+            "1.1",
+            "0.23",
+            "1.3"
+        ],
+        "sentence": "Cross-sectional area of water hose having radius of 0.2 m is"
+    },
+    {
+        "answer": "compressible",
+        "distractors": [
+            "viscous",
+            "incompressible",
+            "both a and b"
+        ],
+        "sentence": "If density of fluid is not constant, it is said to be"
+    },
+    {
+        "answer": "streamlined bodies",
+        "distractors": [
+            "laminated bodies",
+            "turbulent bodies",
+            "fat bodies"
+        ],
+        "sentence": "To assist movement in water, dolphins have"
+    },
+    {
+        "answer": "terminal velocity",
+        "distractors": [
+            "viscosity",
+            "friction",
+            "gravity"
+        ],
+        "sentence": "When net force acting on a droplet becomes zero, its constant speed is known as"
+    },
+    {
+        "answer": "flow rate",
+        "distractors": [
+            "friction",
+            "fluid flow",
+            "surface tension"
+        ],
+        "sentence": "Constant of equation of continuity is known as"
+    },
+    {
+        "answer": "drag force",
+        "distractors": [
+            "viscosity",
+            "friction",
+            "surface tension"
+        ],
+        "sentence": "An object moving through liquid facing retarding force is named as"
+    },
+    {
+        "answer": "Bernoulli's equation",
+        "distractors": [
+            "equation of continuity",
+            "light equation",
+            "speed equation"
+        ],
+        "sentence": "Torricelli's theorem is one of applications of"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "min",
+            "max"
+        ],
+        "sentence": "When magnitude of drag force gets equal to weight of drop, net force acting on a drop becomes"
+    },
+    {
+        "answer": "1000kg m-3",
+        "distractors": [
+            "900 kg m-3",
+            "950kg m-3",
+            "1050kg m-3"
+        ],
+        "sentence": "Density of water is equal to"
+    },
+    {
+        "answer": "0.801",
+        "distractors": [
+            "2",
+            "1.4",
+            "6.29"
+        ],
+        "sentence": "At 30 \u00c2\u00b0C, water has viscosity of"
+    },
+    {
+        "answer": "1.2041 kg m-3",
+        "distractors": [
+            "1.3041 kg m-3",
+            "1.4041 kg m-3",
+            "1.5041kg m-3"
+        ],
+        "sentence": "Density of air is round about equal to"
+    },
+    {
+        "answer": "1 kg m-3",
+        "distractors": [
+            "10 kg m-3",
+            "1.2 kg m-3",
+            "2 kg m-3"
+        ],
+        "sentence": "Mass flow of 10 kg of water in 10 s will be"
+    },
+    {
+        "answer": "low",
+        "distractors": [
+            "high",
+            "min",
+            "max"
+        ],
+        "sentence": "According to Bernoulli's equation, where speed is high, pressure will be"
+    },
+    {
+        "answer": "constant speed",
+        "distractors": [
+            "increasing speed",
+            "decreasing speed",
+            "zero velocity"
+        ],
+        "sentence": "When net force acting on a droplet becomes zero, it falls with"
+    },
+    {
+        "answer": "increases",
+        "distractors": [
+            "decreases",
+            "remain same",
+            "gets doubled"
+        ],
+        "sentence": "With increase of speed in fluid, drag force on an object will be"
+    },
+    {
+        "answer": "1.7",
+        "distractors": [
+            "1.801",
+            "3",
+            "6.29"
+        ],
+        "sentence": "Plasma's viscosity at 30 \u00c2\u00b0C is"
+    },
+    {
+        "answer": "Bernoulli's equation",
+        "distractors": [
+            "equation of continuity",
+            "light equation",
+            "speed equation"
+        ],
+        "sentence": "Fundamental equation that relates pressure to fluid's speed and height is known as"
+    },
+    {
+        "answer": "laminar flow",
+        "distractors": [
+            "turbulent flow",
+            "fluid flow",
+            "both a and b"
+        ],
+        "sentence": "Streamline flow of water is also known as"
+    },
+    {
+        "answer": "1/2(mv)\u00c2\u00b2",
+        "distractors": [
+            "(mv)\u00c2\u00b2",
+            "1/2(mv)",
+            "1/2(m)\u00c2\u00b2"
+        ],
+        "sentence": "Change in kinetic energy is measured as difference of"
+    },
+    {
+        "answer": "2 types",
+        "distractors": [
+            "3 types",
+            "4 types",
+            "5 types"
+        ],
+        "sentence": "Errors that occur during measurement of quantities are of"
+    },
+    {
+        "answer": "physical quantities",
+        "distractors": [
+            "atomic quantities",
+            "nuclear quantities",
+            "mechanical quantities"
+        ],
+        "sentence": "Quantities that are used to describe laws of physics are called"
+    },
+    {
+        "answer": "2 types",
+        "distractors": [
+            "3 types",
+            "4 types",
+            "5 types"
+        ],
+        "sentence": "Physical quantities that describe laws of physics are divided into"
+    },
+    {
+        "answer": "SI units",
+        "distractors": [
+            "IS units",
+            "S units",
+            "I units"
+        ],
+        "sentence": "Units given by system international for measuring physical quantities are called"
+    },
+    {
+        "answer": "8.177",
+        "distractors": [
+            "10.12",
+            "9.6",
+            "4.67"
+        ],
+        "sentence": "If radius of a Vernier caliper is 1.25 cm, then its volume would be"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "system international",
+            "international system of units",
+            "system international units"
+        ],
+        "sentence": "In 1960, system for measuring physical quantities was established, known as"
+    },
+    {
+        "answer": "second",
+        "distractors": [
+            "mole",
+            "meter",
+            "kelvin"
+        ],
+        "sentence": "1/86400th part of a mean solar day of year 1900 AD is called"
+    },
+    {
+        "answer": "10-15",
+        "distractors": [
+            "10-12",
+            "1012",
+            "1015"
+        ],
+        "sentence": "Prefix named as FEMTO has a factor of"
+    },
+    {
+        "answer": "ML-1T-1",
+        "distractors": [
+            "ML-1T-2",
+            "ML-2T-1",
+            "ML-1T"
+        ],
+        "sentence": "Dimensions of coefficient of viscosity is"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "accessible",
+            "invariable",
+            "acceptable"
+        ],
+        "sentence": "Ideal standard for measuring base quantities involves characteristics that are"
+    },
+    {
+        "answer": "length",
+        "distractors": [
+            "weight",
+            "stress",
+            "thinking"
+        ],
+        "sentence": "A physical quantity is"
+    },
+    {
+        "answer": "significant",
+        "distractors": [
+            "non-significant",
+            "may not be significant",
+            "maybe significant"
+        ],
+        "sentence": "Zero digit between two significant figures is"
+    },
+    {
+        "answer": "three",
+        "distractors": [
+            "two",
+            "four",
+            "five"
+        ],
+        "sentence": "Main frontiers of fundamental science are"
+    },
+    {
+        "answer": "10-2",
+        "distractors": [
+            "10\u00c2\u00b2",
+            "101",
+            "10-1"
+        ],
+        "sentence": "Prefix naming as CENTI has a factor of"
+    },
+    {
+        "answer": "doubtful",
+        "distractors": [
+            "accurate",
+            "precise",
+            "correct"
+        ],
+        "sentence": "In figure '12.7', first two digits are accurate while third one is"
+    },
+    {
+        "answer": "1960",
+        "distractors": [
+            "1910",
+            "1920",
+            "1950"
+        ],
+        "sentence": "Definition and standards of physical quantities were established in"
+    },
+    {
+        "answer": "physics",
+        "distractors": [
+            "digital designs",
+            "math",
+            "operating systems"
+        ],
+        "sentence": "Researches of studying nature and type of forces that hold things together are dealt by"
+    },
+    {
+        "answer": "systematic error",
+        "distractors": [
+            "frequent error",
+            "random error",
+            "both a and b"
+        ],
+        "sentence": "Zero error produced by measuring instruments is called"
+    },
+    {
+        "answer": "M",
+        "distractors": [
+            "m",
+            "g",
+            "G"
+        ],
+        "sentence": "Prefix known as MEGA has a symbol"
+    },
+    {
+        "answer": "kilograms",
+        "distractors": [
+            "moles",
+            "meters",
+            "candelas"
+        ],
+        "sentence": "According to SI units, mass of a substance is measured in"
+    },
+    {
+        "answer": "stress",
+        "distractors": [
+            "mass",
+            "length",
+            "velocity"
+        ],
+        "sentence": "Quantity which is not a physical quantity is"
+    },
+    {
+        "answer": "3.991",
+        "distractors": [
+            "4",
+            "4.12",
+            "3.976"
+        ],
+        "sentence": "Mean of six readings 1.2, 2.3, 4.35, 5.46, 7.6, 8.5 of micrometer in precise measurement is"
+    },
+    {
+        "answer": "particle physics",
+        "distractors": [
+            "relativity",
+            "nuclear physics",
+            "chemistry"
+        ],
+        "sentence": "Branch of physics that deals with properties and behavior of elementary particles is called"
+    },
+    {
+        "answer": "significant figures",
+        "distractors": [
+            "limitation of instruments",
+            "systematic error",
+            "frequent error"
+        ],
+        "sentence": "Number of digits that are reasonably sure are called"
+    },
+    {
+        "answer": "selected standards",
+        "distractors": [
+            "local standards",
+            "global standards",
+            "any units"
+        ],
+        "sentence": "Base quantities can be measured according to the"
+    },
+    {
+        "answer": "physics",
+        "distractors": [
+            "operating systems",
+            "micro controllers",
+            "English"
+        ],
+        "sentence": "Computer which is a product of chips has been developed from basic idea of"
+    },
+    {
+        "answer": "base quantities",
+        "distractors": [
+            "derived quantities",
+            "mechanical quantities",
+            "both a and b"
+        ],
+        "sentence": "Physical quantities that cannot be described with help of other quantities are called"
+    },
+    {
+        "answer": "steradian",
+        "distractors": [
+            "radian",
+            "plane angle",
+            "right angle"
+        ],
+        "sentence": "Unit for measuring solid angle is called"
+    },
+    {
+        "answer": "moles",
+        "distractors": [
+            "kilograms",
+            "meters",
+            "candelas"
+        ],
+        "sentence": "According to system international, amount of substance is measured in"
+    },
+    {
+        "answer": "remains unchanged",
+        "distractors": [
+            "gets increased",
+            "get decreased",
+            "may decreased"
+        ],
+        "sentence": "After decimal point, number is less than 5 which is to be neglected,then retained number"
+    },
+    {
+        "answer": "random error",
+        "distractors": [
+            "frequent error",
+            "systematic error",
+            "both a and b"
+        ],
+        "sentence": "Repeated measurement having different values are the"
+    },
+    {
+        "answer": "significant figures",
+        "distractors": [
+            "limitation of instruments",
+            "systematic error",
+            "frequent error"
+        ],
+        "sentence": "Accurately known digits and first doubtful digit are called"
+    },
+    {
+        "answer": "candelas",
+        "distractors": [
+            "moles",
+            "kilograms",
+            "meters"
+        ],
+        "sentence": "In system international, luminous intensity is measured in"
+    },
+    {
+        "answer": "seven",
+        "distractors": [
+            "six",
+            "eight",
+            "nine"
+        ],
+        "sentence": "Base units of physical quantities given by system international are"
+    },
+    {
+        "answer": "0.8127",
+        "distractors": [
+            "0.712",
+            "0.9",
+            "81.27"
+        ],
+        "sentence": "When length is 4.3 m, breadth is 5.4 m and thickness is 3.5 cm, volume of sheet would be"
+    },
+    {
+        "answer": "0.15",
+        "distractors": [
+            "4.35",
+            "2.3",
+            "1.6"
+        ],
+        "sentence": "Length of cylinder is 6.35 cm with count 0.01 cm, its percentage uncertainty is"
+    },
+    {
+        "answer": "length",
+        "distractors": [
+            "velocity",
+            "acceleration",
+            "force"
+        ],
+        "sentence": "One of physical quantities which is not a derived quantity"
+    },
+    {
+        "answer": "replacing instruments",
+        "distractors": [
+            "taking several readings",
+            "taking mean of values",
+            "taking median of values"
+        ],
+        "sentence": "Systematic error occurred due to poor calibration of instrument that can be corrected by"
+    },
+    {
+        "answer": "2 characteristics",
+        "distractors": [
+            "3 characteristics",
+            "4 characteristics",
+            "5 characteristics"
+        ],
+        "sentence": "Ideal standard for measuring base quantities mainly involves"
+    },
+    {
+        "answer": "five",
+        "distractors": [
+            "seven",
+            "eight",
+            "nine"
+        ],
+        "sentence": "Derived units of physical quantities given by SI are"
+    },
+    {
+        "answer": "physics",
+        "distractors": [
+            "mathematics",
+            "chemistry",
+            "English"
+        ],
+        "sentence": "Branch of science that deals with natural phenomena is called"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "limitation of instruments",
+            "natural variations",
+            "frequent error"
+        ],
+        "sentence": "Uncertainty of measurement can occur due to the"
+    },
+    {
+        "answer": "1",
+        "distractors": [
+            "2",
+            "3",
+            "4"
+        ],
+        "sentence": "If number greater than 5 is to be neglected, then retained number is increased by"
+    },
+    {
+        "answer": "systematic error",
+        "distractors": [
+            "random error",
+            "frequent error",
+            "precision"
+        ],
+        "sentence": "Error that occurs due to equally affected measurements is called"
+    },
+    {
+        "answer": "uncertainty",
+        "distractors": [
+            "random error",
+            "systematic error",
+            "frequent error"
+        ],
+        "sentence": "Natural defect of person's sense is the"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "electrons",
+            "protons",
+            "cathode"
+        ],
+        "sentence": "This whole world is composed of small particles that are made up of"
+    },
+    {
+        "answer": "kelvin",
+        "distractors": [
+            "mass",
+            "second",
+            "meter"
+        ],
+        "sentence": "Thermodynamic temperature is measured in"
+    },
+    {
+        "answer": "physics",
+        "distractors": [
+            "mathematics",
+            "chemistry",
+            "English"
+        ],
+        "sentence": "Branch of science dealing with matter and energy and their relationship is called"
+    },
+    {
+        "answer": "increased",
+        "distractors": [
+            "decreased",
+            "may increased",
+            "may decreased"
+        ],
+        "sentence": "If number to be neglected is greater than 5, retained number is"
+    },
+    {
+        "answer": "base unit",
+        "distractors": [
+            "derived unit",
+            "international unit",
+            "both a and b"
+        ],
+        "sentence": "Ampere unit according to SI units is a"
+    },
+    {
+        "answer": "speed",
+        "distractors": [
+            "mass",
+            "velocity",
+            "acceleration"
+        ],
+        "sentence": "Distance covered by a body in unit time is called"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "random error",
+            "systematic error",
+            "frequent error"
+        ],
+        "sentence": "Error that occurs during measurement of quantities is"
+    },
+    {
+        "answer": "2 kind of units",
+        "distractors": [
+            "3 kind of units",
+            "4 kind of units",
+            "5 kind of units"
+        ],
+        "sentence": "System international for describing units was built up from"
+    },
+    {
+        "answer": "radian",
+        "distractors": [
+            "steradian",
+            "plane angle",
+            "both a and b"
+        ],
+        "sentence": "Angle between two radii of circle that cut off on circumference is called"
+    },
+    {
+        "answer": "a b and c",
+        "distractors": [
+            "base units",
+            "derived units",
+            "supplementary units"
+        ],
+        "sentence": "System international for describing units was built up from"
+    },
+    {
+        "answer": "solid state physics",
+        "distractors": [
+            "nuclear physics",
+            "chemistry",
+            "particle physics"
+        ],
+        "sentence": "Branch of physics that deals with study and properties of solids is called"
+    },
+    {
+        "answer": "base unit",
+        "distractors": [
+            "derived unit",
+            "supplementary unit",
+            "international unit"
+        ],
+        "sentence": "\"Candela\", according to system international is a"
+    },
+    {
+        "answer": "nature",
+        "distractors": [
+            "matter",
+            "material",
+            "galaxy"
+        ],
+        "sentence": "\"Physics is branch of science\" name PHYSICS means"
+    },
+    {
+        "answer": "derived quantities",
+        "distractors": [
+            "base quantities",
+            "mechanical quantities",
+            "both a and b"
+        ],
+        "sentence": "Physical quantities that can be described with help of other quantities are called"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "maybe significant",
+            "may not be significant",
+            "is significant"
+        ],
+        "sentence": "Zero digit is only digit that"
+    },
+    {
+        "answer": "meter",
+        "distractors": [
+            "candela",
+            "second",
+            "kelvin"
+        ],
+        "sentence": "Distance travelled by light is called"
+    },
+    {
+        "answer": "force",
+        "distractors": [
+            "length",
+            "mass",
+            "time"
+        ],
+        "sentence": "One of physical quantities which is not a base quantity is"
+    },
+    {
+        "answer": "nuclear physics",
+        "distractors": [
+            "particle physics",
+            "solid state physics",
+            "relativity"
+        ],
+        "sentence": "Branch of physics that deals with nuclear energies is called"
+    },
+    {
+        "answer": "meters",
+        "distractors": [
+            "moles",
+            "seconds",
+            "kelvin"
+        ],
+        "sentence": "According to System International, length of substance is measured in"
+    },
+    {
+        "answer": "43.8",
+        "distractors": [
+            "43.7",
+            "43.6",
+            "43.5"
+        ],
+        "sentence": "If number 43.75 is rounded off to three digits, result will be"
+    },
+    {
+        "answer": "0.511 MeV",
+        "distractors": [
+            "1.02 MeV",
+            "0.511KeV",
+            "2.02 MeV"
+        ],
+        "sentence": "Rest mass energy of an electron is"
+    },
+    {
+        "answer": "equal",
+        "distractors": [
+            "less",
+            "greater",
+            "small"
+        ],
+        "sentence": "When K.Emax of photoelectrons is zero, then frequency of incident photon relative to threshold frequency is"
+    },
+    {
+        "answer": "70 kg",
+        "distractors": [
+            "100 kg",
+            "infinite",
+            "zero"
+        ],
+        "sentence": "Mass of 700 N man moving in car at 66 km h-1 is"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "in which first law of motion is valid",
+            "in which law of inertia is valid",
+            "which is not moving with uniform velocity"
+        ],
+        "sentence": "An inertial frame of reference is frame"
+    },
+    {
+        "answer": "infrared light",
+        "distractors": [
+            "visible light",
+            "ultraviolet",
+            "x-rays"
+        ],
+        "sentence": "In photocell caesium, coated oxidized silver cathode emits electrons for"
+    },
+    {
+        "answer": "speed of light",
+        "distractors": [
+            "depends on particles",
+            "volume of object",
+            "area of object"
+        ],
+        "sentence": "According to theory of relative mass of an object is"
+    },
+    {
+        "answer": "1 MeV",
+        "distractors": [
+            "1 eV",
+            "1 KeV",
+            "10-10 eV"
+        ],
+        "sentence": "Radiation with energy that is easily detected as quanta"
+    },
+    {
+        "answer": "inertial frame of reference",
+        "distractors": [
+            "non-inertial frame of reference",
+            "non-accelerated frame of reference",
+            "accelerated frame of reference"
+        ],
+        "sentence": "Special theory of relativity treats problems involving"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "time",
+            "mass",
+            "height"
+        ],
+        "sentence": "According to special theory of relativity which one is not an absolute quantity?"
+    },
+    {
+        "answer": "particle",
+        "distractors": [
+            "wave",
+            "photon",
+            "both a and b"
+        ],
+        "sentence": "In e/m experiment, we assume nature of electron as"
+    },
+    {
+        "answer": "atomic size objects",
+        "distractors": [
+            "small objects",
+            "very large objects",
+            "atomic spectra"
+        ],
+        "sentence": "Quantum effects are important only when observing"
+    },
+    {
+        "answer": "plank",
+        "distractors": [
+            "Einstein",
+            "Stephen",
+            "Wien"
+        ],
+        "sentence": "Statement saying that energy is radiated or absorbed in discrete packets is given by"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "black body radiation",
+            "atomic spectra",
+            "inertial frame"
+        ],
+        "sentence": "Phenomena that cannot be understood with frame work of classical physics is"
+    },
+    {
+        "answer": "frequency",
+        "distractors": [
+            "intensity",
+            "wavelength",
+            "energy"
+        ],
+        "sentence": "Max K.E of photo electrons depend upon light's"
+    },
+    {
+        "answer": "classical physics",
+        "distractors": [
+            "modern physics",
+            "relativistic mechanics",
+            "atomic spectra"
+        ],
+        "sentence": "Behavior of matter on atomic level cannot be explained with"
+    },
+    {
+        "answer": "inertial frame",
+        "distractors": [
+            "non-inertial frame",
+            "accelerated frame",
+            "velocity frame"
+        ],
+        "sentence": "Earth can be considered as"
+    },
+    {
+        "answer": "180",
+        "distractors": [
+            "0",
+            "90",
+            "45"
+        ],
+        "sentence": "Compton shift is max for scattering angle of"
+    },
+    {
+        "answer": "along direction of motion",
+        "distractors": [
+            "perpendicular to direction of motion",
+            "parallel to direction of motion",
+            "both a and b"
+        ],
+        "sentence": "Length contraction happens only"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "an ideal absorber",
+            "an ideal radiator",
+            "an ideal reflector"
+        ],
+        "sentence": "An ideal black body is"
+    },
+    {
+        "answer": "longer wavelength",
+        "distractors": [
+            "shorter wave length",
+            "high frequencies",
+            "low frequencies"
+        ],
+        "sentence": "At low temperature, body emits radiations of"
+    },
+    {
+        "answer": "origin",
+        "distractors": [
+            "mid",
+            "circumference",
+            "radius"
+        ],
+        "sentence": "Point of intersection of two coordinate axes is called"
+    },
+    {
+        "answer": "tan-1(Ay + By/Ax + Bx)",
+        "distractors": [
+            "cos-1(Ay + By/Ax + Bx)",
+            "cos-1(Ax + By/Ay + Bx)",
+            "tan-1(Ay - By/Ax - Bx)"
+        ],
+        "sentence": "Direction of resultant of two vectors is given by"
+    },
+    {
+        "answer": "unit vector",
+        "distractors": [
+            "scalar",
+            "resultant",
+            "temperature"
+        ],
+        "sentence": "A vector having 'magnitude only' is called"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "doubled",
+            "decreased"
+        ],
+        "sentence": "If value of moment arm is zero, then torque produced will be"
+    },
+    {
+        "answer": "momentum",
+        "distractors": [
+            "work",
+            "acceleration",
+            "speed"
+        ],
+        "sentence": "Product of velocity and mass is called"
+    },
+    {
+        "answer": "cross product",
+        "distractors": [
+            "scalar product",
+            "dot product",
+            "point product"
+        ],
+        "sentence": "Vector product of two vectors is also known as"
+    },
+    {
+        "answer": "29 N",
+        "distractors": [
+            "15 N",
+            "26 N",
+            "27 N"
+        ],
+        "sentence": "Two forces 10 N and 20 N making an angle 30\u00c2\u00b0 and 60\u00c2\u00b0 will give a resultant force of"
+    },
+    {
+        "answer": "2 types",
+        "distractors": [
+            "3 types",
+            "4 types",
+            "5 types"
+        ],
+        "sentence": "Multiplication of two vectors is of"
+    },
+    {
+        "answer": "angle",
+        "distractors": [
+            "line",
+            "point",
+            "arrowhead"
+        ],
+        "sentence": "In a plane, direction of vectors is denoted by"
+    },
+    {
+        "answer": "Cos",
+        "distractors": [
+            "Sin",
+            "Tan",
+            "both a and b"
+        ],
+        "sentence": "Projection of vector A in direction of x-axis is represented by angle of"
+    },
+    {
+        "answer": "l \u00c3\u0097 F",
+        "distractors": [
+            "l + F",
+            "l - F",
+            "l/F"
+        ],
+        "sentence": "Magnitude of torque is represented by formula"
+    },
+    {
+        "answer": "AB",
+        "distractors": [
+            "A.B",
+            "A\u00c3\u0097B",
+            "A"
+        ],
+        "sentence": "Cross product of A\u00c3\u0097B with Sin(0) would produce results equal to"
+    },
+    {
+        "answer": "second condition",
+        "distractors": [
+            "first condition",
+            "third condition",
+            "fourth condition"
+        ],
+        "sentence": "Sum of all torques acting on a body is zero, this condition represents equilibrium's"
+    },
+    {
+        "answer": "position",
+        "distractors": [
+            "angle",
+            "direction",
+            "magnitude"
+        ],
+        "sentence": "Position vector is vector that defines vector's"
+    },
+    {
+        "answer": "(-AB)",
+        "distractors": [
+            "A.B",
+            "AB",
+            "B"
+        ],
+        "sentence": "Scalar product of A.B with angle 180\u00c2\u00b0 would produce results equal to"
+    },
+    {
+        "answer": "(-Y)",
+        "distractors": [
+            "1",
+            "0",
+            "Y"
+        ],
+        "sentence": "In given equation X + Y = X - Y, negative vector of Y is"
+    },
+    {
+        "answer": "commutative property",
+        "distractors": [
+            "multiplicative property",
+            "distributive property",
+            "associative property"
+        ],
+        "sentence": "Vector sum of two vectors holds the"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "min",
+            "max"
+        ],
+        "sentence": "A body at rest or moving with uniform velocity will have acceleration"
+    },
+    {
+        "answer": "null vector",
+        "distractors": [
+            "scalar",
+            "resultant",
+            "unit vector"
+        ],
+        "sentence": "A vector whose magnitude is zero is called a"
+    },
+    {
+        "answer": "vector subtraction",
+        "distractors": [
+            "vector addition",
+            "vector division",
+            "vector multiplication"
+        ],
+        "sentence": "Addition of vector with its reversed direction is called"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "1",
+            "j",
+            "j.j"
+        ],
+        "sentence": "Cross product of two same vectors is equal to"
+    },
+    {
+        "answer": "capital letters",
+        "distractors": [
+            "a",
+            "x",
+            "small letters"
+        ],
+        "sentence": "Vector quantities having directions are denoted by"
+    },
+    {
+        "answer": "equal",
+        "distractors": [
+            "same",
+            "different",
+            "negative"
+        ],
+        "sentence": "If two vectors have same magnitude and are parallel to each other, then they are said to be"
+    },
+    {
+        "answer": "rotational equilibrium",
+        "distractors": [
+            "translational equilibrium",
+            "static equilibrium",
+            "dynamic equilibrium"
+        ],
+        "sentence": "If 2nd condition of equilibrium is satisfied, body will be in"
+    },
+    {
+        "answer": "rectangular components",
+        "distractors": [
+            "resultant",
+            "unit vector",
+            "null vector"
+        ],
+        "sentence": "Decomposing vectors into mutually perpendicular components is called"
+    },
+    {
+        "answer": "(6i + 5j)/7.81",
+        "distractors": [
+            "(6i + 5j)/6",
+            "(6i + 5j)/5",
+            "(6i + 5j)/6.1"
+        ],
+        "sentence": "Unit vector in direction of vector F = 6i + 5j is"
+    },
+    {
+        "answer": "Ax + Bx",
+        "distractors": [
+            "Ax + By",
+            "Ax - Bx",
+            "Ax - By"
+        ],
+        "sentence": "Vector's x-components are represented by formula of"
+    },
+    {
+        "answer": "Ay + By",
+        "distractors": [
+            "Ay - By",
+            "Ay + Bx",
+            "Ay - Bx"
+        ],
+        "sentence": "Y-components of vectors are represented by formula of"
+    },
+    {
+        "answer": "sum of x-components",
+        "distractors": [
+            "subtraction of x-components",
+            "subtraction of y-components",
+            "sum of y-components"
+        ],
+        "sentence": "X-components of vectors are represented by the"
+    },
+    {
+        "answer": "scalar quantities",
+        "distractors": [
+            "vector quantities",
+            "mental quantities",
+            "both a and b"
+        ],
+        "sentence": "Physical quantities having magnitude only are called"
+    },
+    {
+        "answer": "newton meter",
+        "distractors": [
+            "newton per meter",
+            "newton per meter square",
+            "per newton meter"
+        ],
+        "sentence": "According to system international, unit of torque is"
+    },
+    {
+        "answer": "A\u00c3\u0097B",
+        "distractors": [
+            "A.B",
+            "A-B",
+            "A*B"
+        ],
+        "sentence": "Cross product of two vectors is represented by"
+    },
+    {
+        "answer": "arrowhead",
+        "distractors": [
+            "direction",
+            "point",
+            "circle"
+        ],
+        "sentence": "Graphical representation of vectors is a directed line segment with"
+    },
+    {
+        "answer": "positive",
+        "distractors": [
+            "negative",
+            "doubled",
+            "halved"
+        ],
+        "sentence": "If counter clockwise is taken as positive, then anti-clockwise will be taken as"
+    },
+    {
+        "answer": "7.07",
+        "distractors": [
+            "3.21",
+            "6.54",
+            "7.17"
+        ],
+        "sentence": "Position vector of point A(3,4,5) is"
+    },
+    {
+        "answer": "Sin",
+        "distractors": [
+            "Cos",
+            "Tan",
+            "both a and b"
+        ],
+        "sentence": "In direction of Y-axis, projection of vector A is represented by angle"
+    },
+    {
+        "answer": "translational equilibrium",
+        "distractors": [
+            "rotational equilibrium",
+            "static equilibrium",
+            "dynamic equilibrium"
+        ],
+        "sentence": "If first condition of equilibrium is satisfied, then body will be in"
+    },
+    {
+        "answer": "resultant",
+        "distractors": [
+            "direction",
+            "velocity",
+            "magnitude"
+        ],
+        "sentence": "Vector sum of two vectors is also called"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "scalar multiplication",
+            "vector multiplication",
+            "point multiplication"
+        ],
+        "sentence": "Multiplication of two vectors is named as"
+    },
+    {
+        "answer": "remain same",
+        "distractors": [
+            "reversed",
+            "gets half",
+            "gets double"
+        ],
+        "sentence": "If a vector gets multiplied by a positive number, its direction"
+    },
+    {
+        "answer": "negative",
+        "distractors": [
+            "positive",
+            "doubled",
+            "halved"
+        ],
+        "sentence": "To satisfy first condition of equilibrium, if rightward forces are positive, leftward forces must be"
+    },
+    {
+        "answer": "arbitrary direction",
+        "distractors": [
+            "positive direction",
+            "negative direction",
+            "both a and b"
+        ],
+        "sentence": "Vector whose magnitude is zero has a"
+    },
+    {
+        "answer": "velocity",
+        "distractors": [
+            "mass",
+            "time",
+            "temperature"
+        ],
+        "sentence": "Physical quantity that has magnitude and direction as well is known as"
+    },
+    {
+        "answer": "dot product",
+        "distractors": [
+            "vector product",
+            "point product",
+            "both a and b"
+        ],
+        "sentence": "Scalar product of two vectors is also known as"
+    },
+    {
+        "answer": "AB",
+        "distractors": [
+            "A.B",
+            "A",
+            "B"
+        ],
+        "sentence": "Dot product A.B with angle 0\u00c2\u00b0 would produce results equal to"
+    },
+    {
+        "answer": "10.7",
+        "distractors": [
+            "10.71",
+            "12.4",
+            "11.2"
+        ],
+        "sentence": "Adding masses 3.25, 1.25, 6.2 in kilograms, result up to appropriate precision will produce"
+    },
+    {
+        "answer": "equilibrium",
+        "distractors": [
+            "rest",
+            "uniform motion",
+            "constant force"
+        ],
+        "sentence": "If a body is in rest or in uniform velocity, it is said to be in"
+    },
+    {
+        "answer": "both a and b",
+        "distractors": [
+            "Cartesian",
+            "rectangular coordinate system",
+            "vectors"
+        ],
+        "sentence": "System of coordinate axes with origin is called"
+    },
+    {
+        "answer": "same direction",
+        "distractors": [
+            "different direction",
+            "positive direction",
+            "negative direction"
+        ],
+        "sentence": "Two vectors are considered to be equal if they have same magnitude and"
+    },
+    {
+        "answer": "0",
+        "distractors": [
+            "A",
+            "AB",
+            "1"
+        ],
+        "sentence": "Cross product of A\u00c3\u0097B with sin(180\u00c2\u00b0) would produce results equal to"
+    },
+    {
+        "answer": "\u00e2\u0088\u009a((Ax + Bx)\u00c2\u00b2 + (Ay + By)\u00c2\u00b2)",
+        "distractors": [
+            "\u00e2\u0088\u009a((Ax + By) + (Ay + Bx))",
+            "\u00e2\u0088\u009a((Ax + Bx)-(Ay + By))",
+            "\u00e2\u0088\u009a((Ax-Bx) + (Ay-By))"
+        ],
+        "sentence": "Resultant magnitude of two vectors is given by formula"
+    },
+    {
+        "answer": "vector addition",
+        "distractors": [
+            "vector subtraction",
+            "vector division",
+            "vector multiplication"
+        ],
+        "sentence": "Operation of drawing representative line between two vectors in such a way that tail of one vector coincides with head of other vector is called"
+    },
+    {
+        "answer": "moment arm",
+        "distractors": [
+            "length of object",
+            "momentum arm",
+            "distance of object"
+        ],
+        "sentence": "Distance from a point around which body rotates and point at end is called"
+    },
+    {
+        "answer": "5 steps",
+        "distractors": [
+            "4 steps",
+            "6 steps",
+            "7 steps"
+        ],
+        "sentence": "Process of vector addition by rectangular components consists of"
+    },
+    {
+        "answer": "M-1L\u00c2\u00b3T-2",
+        "distractors": [
+            "ML\u00c2\u00b3T-2",
+            "M-1T-2",
+            "M-1L\u00c2\u00b3T"
+        ],
+        "sentence": "Unit of gravitational constant G has dimensions"
+    },
+    {
+        "answer": "A\u00c2\u00b2",
+        "distractors": [
+            "0",
+            "1",
+            "A"
+        ],
+        "sentence": "Dot product of two same vectors A.A is equal to"
+    },
+    {
+        "answer": "first condition",
+        "distractors": [
+            "second condition",
+            "third condition",
+            "fourth condition"
+        ],
+        "sentence": "\"Sum of all forces acting on a body is zero\". This condition represents equilibrium's"
+    },
+    {
+        "answer": "\u00e2\u0088\u009a(a\u00c2\u00b2 + b\u00c2\u00b2 + c\u00c2\u00b2)",
+        "distractors": [
+            "\u00e2\u0088\u009a(a + b + c)",
+            "\u00e2\u0088\u009a(a\u00c2\u00b2-b\u00c2\u00b2 + c\u00c2\u00b2)",
+            "(a\u00c2\u00b2 + b\u00c2\u00b2 + c\u00c2\u00b2)"
+        ],
+        "sentence": "Position vector that defines position of vector in three dimensions having formula of"
+    },
+    {
+        "answer": "tan-1(y/x)",
+        "distractors": [
+            "cos-1(y/x)",
+            "cos-1(x/y)",
+            "tan-1(x/y)"
+        ],
+        "sentence": "Direction of vector is given by angle formula of"
+    },
+    {
+        "answer": "A.B",
+        "distractors": [
+            "A + B",
+            "A - B",
+            "A\u00c3\u0097B"
+        ],
+        "sentence": "Scalar product is represented by"
+    },
+    {
+        "answer": "length",
+        "distractors": [
+            "radius",
+            "circumference",
+            "width"
+        ],
+        "sentence": "Turning effect produced by object depends upon object's"
+    },
+    {
+        "answer": "negative",
+        "distractors": [
+            "positive",
+            "doubled",
+            "halved"
+        ],
+        "sentence": "To satisfy first condition of equilibrium, if upward forces are positive then downward forces must be"
+    },
+    {
+        "answer": "gets reversed",
+        "distractors": [
+            "remain same",
+            "gets half",
+            "gets double"
+        ],
+        "sentence": "If a vector gets multiplied by a negative number, then its direction"
+    },
+    {
+        "answer": "vector quantities",
+        "distractors": [
+            "scalar quantities",
+            "mental quantities",
+            "both a and b"
+        ],
+        "sentence": "Physical quantities having both magnitude and directions are called"
+    },
+    {
+        "answer": "direction",
+        "distractors": [
+            "place",
+            "velocity",
+            "magnitude"
+        ],
+        "sentence": "Unit vectors are normally used to represent other vector's"
+    }
+]
