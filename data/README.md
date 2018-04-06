@@ -7,16 +7,18 @@ File           | Content   | Description |
 --|--|--|
 train_neg.json | 5999 MCQs | Training set|
 valid_neg.json | 554 MCQs  | Validation set |
-test_neg.json | 563 MCQs | Test set |
-vocab.txt | 16446 unique distractors | Candidate distractors | 
+test_neg.json  | 563 MCQs | Test set |
+vocab.txt      | 16446 unique distractors | Candidate distractors | 
 
 `*_neg.json` files are MCQL training/validation/test sets. Each item in the JSON file corresponds to a MCQ.
 There are four fields asccociated with each question: *sentence*, *answer*, *distractors*, and *neg_samples*.
 Here the number of negative examples is set to be equal to the number of distractors.
 `train_neg.json` is the training data used in the paper.
 
-**Note**: To do ranking evaluation on `valid_neg.json` and `test_neg.json` (as described in the paper),
+**Notes**: 
+* To do ranking evaluation on `valid_neg.json` and `test_neg.json` (as described in the paper),
 whole vobaculary (`vocab.txt`) should be used. In other words, the *neg_samples* field in valid/test files should not be used for ranking evaluation.
+* Remember to decode using utf8 when loading the vocabulary
 
 ### How to reproduce this data from crawled MCQL questions?
 The 7.1K MCQs crawled can be located under folder `mcql`. The following command can convert the data into a format for ranking models.
