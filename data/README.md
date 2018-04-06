@@ -1,7 +1,10 @@
 # Datasets
 
 ## MCQL
-(**TL;DR**) The processed data can be located under folder `mcql_processed`. Check below for a summary of data files.
+(**TL;DR**) The data used for training ranking model can be located under folder `mcql_processed`, including `train_neg.json`, `valid_neg.json`, `test_neg.json`, and `vocab.txt`.
+
+### Description
+Check below for a summary of data files.
 
 File           | Content   | Description | 
 --|--|--|
@@ -20,7 +23,7 @@ Here the number of negative examples is set to be equal to the number of distrac
 whole vobaculary (`vocab.txt`) should be used. In other words, the *neg_samples* field in valid/test files should not be used for ranking evaluation.
 * Remember to decode using utf8 when loading the vocabulary
 
-### How to reproduce this data from crawled MCQL questions?
+### How to reproduce MCQL data from crawled MCQL questions?
 The 7.1K MCQs crawled can be located under folder `mcql`. The following command can convert the data into a format for ranking models.
 ```shell
 python prep_dataset.py -dataset mcql -data_dir mcql -out_dir mcql_processed
