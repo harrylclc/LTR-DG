@@ -4,14 +4,14 @@
 (**TL;DR**) The data used for training ranking model can be located under folder `mcql_processed`, including `train_neg.json`, `valid_neg.json`, `test_neg.json`, and `vocab.txt`.
 
 ### Description
-Check below for a summary of data files.
+Check below for a summary of data files, corresponding to Table 1 in the paper.
 
-File           | Content   | Description | 
---|--|--|
-train_neg.json | 5999 MCQs | Training set|
-valid_neg.json | 554 MCQs  | Validation set |
-test_neg.json  | 563 MCQs | Test set |
-vocab.txt      | 16446 unique distractors | Candidate distractors | 
+File           | Content   | Size | Description | 
+--|--|--|--
+train_neg.json | MCQs | 5999 |Training set|
+valid_neg.json | MCQs | 554  | Validation set |
+test_neg.json  | MCQs | 563  |Test set |
+vocab.txt      | Distractors | 16446 |Candidate distractors | 
 
 `*_neg.json` files are MCQL training/validation/test sets. Each item in the JSON file corresponds to a MCQ.
 There are four fields asccociated with each question: *sentence*, *answer*, *distractors*, and *neg_samples*.
@@ -43,12 +43,12 @@ python prep_dataset.py -dataset mcql -data_dir mcql -out_dir mcql_processed
 1. The processed data can be located under folder `sciq_processed`. Check below for a summary of data files. 
 Each file is in the same format as that for MCQL.
     
-    File           | Content   | Description | 
-    --|--|--|
-    train_neg.json | 11679 MCQs | Training set|
-    valid_neg.json | 1000 MCQs  | Validation set |
-    test_neg.json | 1000 MCQs | Test set |
-    vocab.txt | 22379 unique distractors | Candidate distractors |
+    File           | Content   | Size | Description | 
+    --|--|--|--
+    train_neg.json | MCQs | 11679 |Training set|
+    valid_neg.json | MCQs | 1000  |Validation set |
+    test_neg.json | MCQs  | 1000  |Test set |
+    vocab.txt | Distractors | 22379 |Candidate distractors |
     
 ## References
 Please cite the following papers if you use this data.
