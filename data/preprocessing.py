@@ -104,7 +104,7 @@ def conv_mcql(out_dir='mcql_processed', in_dir='mcql'):
                'physics', 'physics-olvl']
     for domain in domains:
         print domain
-        path = os.path.join(in_dir, 'mcqlearn_{}.json'.format(domain))
+        path = os.path.join(in_dir, 'mcql_{}.json'.format(domain))
         data = json.load(open(path))
         for d in data:
             tmp = {}
