@@ -1,17 +1,15 @@
-from random import shuffle
+import json
 import random
 random.seed(0)
 
 
 def recover(s, delimiter='_', unk='<a>'):
     s = s.split(delimiter)
-    # s = [x.split('-') for x in s if x != unk]
-    # s = [x for sublist in s for x in sublist]
+    s = [x for x in s if x != unk]
     return s
 
 
-def padding(s, max_length=100, unk='<a>'):
-    # pad
+def padding(s, max_length=100, unk='<a>', delimiter='_'):
     if len(s) > max_length:
         s = s[:max_length]
     else:
@@ -29,61 +27,45 @@ def load_vocab(vocab_path):
             vocab.append(line)
     return vocab
 
-data_path = './distractorQA/mcq_neg/'
-out_path = './distractorQA/mcq_neg/'
-source_path = ['train.data', 'valid_neg_2nd_2500.data', 'test_neg_2nd_2500.data']
-data_split = ['train', 'dev', 'test']
-vocab_path = 'combine.vocab'
-vocab = load_vocab(data_path + vocab_path)
-max_length = 80
-max_length_dis = 20
-delimiter = '_'
-unk = '<a>'
-num_negative = len(vocab)
 
-for it, source in enumerate(source_path):
-    path = data_path + source
-    dataset = data_split[it]
-    with open(out_path + dataset, 'w') as fout:
-        with open(path, 'r') as fin:
-            q_prev = ''
-            dlist = []
-            for i, line in enumerate(fin):
-                line = line.strip().lower()
-                line = line.split(' ')
-                label, q, a, dis = line[0], line[1], line[2], line[3]
-                if i == 0:
-                    print(len(q.split('_')), len(a.split('_')), len(dis.split('_')))
-                # to original sentence
-                q = recover(q, delimiter, unk)
-                a = recover(a, delimiter, unk)
-                dis = recover(dis, delimiter, unk)
-                if q == q_prev:
-                    dlist.append(dis)
-                else:
-                    q_prev = q
-                    dlist = [dis]
-                q = padding(q, max_length, unk)
-                a = padding(a, max_length_dis, unk)
-                dis = padding(dis, max_length_dis, unk)
-                fout.write('{} {} {} {}\n'.format(label, q, a, dis))
-                # # write
-                # if dataset == 'train':
-                #     # positive
-                #     if label == '1':
-                #         fout.write('{} {} {} {}\n'.format(label, q, a, dis))
-                # else:
-                #     # negative
-                #     if len(dlist) == 1:
-                #         count = 0
-                #         shuffle(vocab)
-                #         for v in vocab:
-                #             if v not in dlist:
-                #                 count += 1
-                #                 v = padding(v, max_length_dis, unk)
-                #                 fout.write('0 {} {} {}\n'.format(q, a, v))
-                #                 if count >= num_negative:
-                #                     break
-                #     # positive
-                #     if label == '1':
-                #         fout.write('{} {} {} {}\n'.format(label, q, a, dis))
+if __name__ == '__main__':
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-json', type=str, required=True, help='path to json')
+    parser.add_argument('-output', type=str, required=True, help='path to output')
+    parser.add_argument('-vocab_path', type=str, default='combine.vocab', help='path to vocabulary')
+    parser.add_argument('-max_length', type=int, default=100, help='max length of questions')
+    parser.add_argument('-max_length_dis', type=int, default=20, help='max length of distractors')
+    parser.add_argument('-delimiter', type=str, default='_')
+    parser.add_argument('-unk', type=str, default='<a>')
+    parser.add_argument('-train', type=int, default=1, help='whether is train or val/test')
+    args = parser.parse_args()
+
+    # Get data
+    data = json.load(open(args.json))
+    vocab = load_vocab(args.vocab_path)
+
+    # Get max length just for a reference
+    max_dis_len = -1
+    max_sent_len = -1
+    for d in data:
+        dis_all = d['distractors'] + d['neg_samples'] + [d['answer']]
+        d_lens = [len(dis.split()) for dis in dis_all]
+        max_dis_len = max(max_dis_len, max(d_lens))
+        max_sent_len = max(max_sent_len, len(d['sentence'].split()))
+    print('max sentence length', max_sent_len)
+    print('max distractor length', max_dis_len)
+
+    # Main logic
+    with open(args.output, 'w') as out:
+        for d in data:
+            sent = padding(d['sentence'].lower(), args.max_length,
+                           args.unk, args.delimiter).encode('utf8')
+            answer = padding(d['answer'].lower(), args.max_length_dis,
+                             args.unk, args.delimiter).encode('utf8')
+            for key in ['pos_samples', 'neg_samples']:
+                for dis in d[key]:
+                    label = 1 if key == 'pos_samples' else 0
+                    if (args.train == 1 and label == 1) or args.train != 1:
+                        dis = padding(dis.lower(), max_dis_len, args.unk, args.delimiter).encode('utf8')
+                        out.write('{} {} {} {}\n'.format(label, sent, answer, dis))
