@@ -5,15 +5,13 @@ import math
 import numpy as np
 
 
-def loadGloVe(filename, vocab_exist=None, dim=300):
+def loadGloVe(filename, vocab_exist=None):
     vocab = []
     vocab_dict = {}
     embd = []
     with open(filename, 'r') as fin:
         for line in fin:
             row = line.strip().split(' ')
-            if len(row) != dim + 1:
-                continue
             if vocab_exist is None or row[0] in vocab_exist:
                 vocab.append(row[0])
                 vocab_dict[row[0]] = len(vocab) - 1
@@ -34,7 +32,8 @@ def build_vocab(dataset, pretrained_embeddings_path):
         vocab = {}
         vocab['UNKNOWN'] = code
         code += 1
-        for filename in ['{}/train'.format(dataset), '{}/dev'.format(dataset), '{}/test'.format(dataset)]:
+        filenames = ['{}/train.data'.format(dataset), '{}/valid.data'.format(dataset), '{}/test.data'.format(dataset)]
+        for filename in filenames:
             for line in open(filename):
                 items = line.strip().split(' ')
                 for i in range(2, 3):
@@ -55,7 +54,7 @@ def build_vocab(dataset, pretrained_embeddings_path):
             try:
                 index = vocab_dict_all[k]
                 embd.append(embd_all[index])
-            except Exception:
+            except:
                 embd.append(np.random.uniform(-0.05, 0.05, (embd_all.shape[1])))
         embd = np.array(embd)
     return vocab, embd
@@ -68,43 +67,48 @@ def loadTestSet(dataset, filename):
     return testList
 
 
-def loadCandidateSamples(q, a, candidates, vocab, max_sequence_length_q=100, max_sequence_length_a=100):
+def loadCandidateSamples(q, a, distractor, candidates, vocab, max_sequence_length_q=100, max_sequence_length_a=100):
     samples = []
     for neg in candidates:
         samples.append((encode_sent(vocab, q, max_sequence_length_q),
                         encode_sent(vocab, a, max_sequence_length_a),
+                        encode_sent(vocab, distractor, max_sequence_length_a),
                         encode_sent(vocab, neg, max_sequence_length_a)))
     return samples
 
 
 def read_raw(dataset):
-    raw_positive = []
-    raw_positive_indices = {}  # pos_index for each answer grouped by questions
-    with open('{}/train'.format(dataset), 'r') as fin:
+    raw = []
+    raw_dict = {}  # pos_index for each answer grouped by questions
+    with open('{}/train.data'.format(dataset), 'r') as fin:
         for i, line in enumerate(fin):
-            items = line.strip().lower().split(' ')  # label qid:0 q a
-            if items[0] == '1':  # valide q-a pair
-                raw_positive.append(items)
-                if items[2] in raw_positive_indices:
-                    raw_positive_indices[items[2]].append(i)
+            items = line.strip().lower().split(' ')
+            if items[0] == '1':  # valide q-a pair [label, q, a, d+]
+                raw.append(items)
+                if items[1] in raw_dict:
+                    raw_dict[items[1]].append(items[3])
                 else:
-                    raw_positive_indices[items[2]] = [i]
-    return raw_positive, raw_positive_indices
+                    raw_dict[items[1]] = [items[3]]
+    return raw, raw_dict
 
 
 def read_alist(dataset):
     alist = []
-    for line in open('{}/train'.format(dataset)):
+    for line in open('{}/train.data'.format(dataset)):
         items = line.strip().lower().split(' ')
         alist.append(items[3])
     print('read_alist done ......')
     return alist
 
 
-def read_alist_standalone(dataset):
+def read_alist_standalone(dataset, vocab, max_length, unk='<a>'):
     alist = []
-    for line in open('{}/candidates'.format(dataset)):
+    for line in open('{}/{}'.format(dataset, vocab)):
         items = line.strip().lower().split(' ')
+        if len(items) > max_length:
+            items = items[:max_length]
+        else:
+            items = items + [unk] * (max_length - len(items))
         alist.append('_'.join(items))
     print('read_alist done ......')
     return alist
@@ -121,34 +125,21 @@ def encode_sent(vocab, string, size):
     return x
 
 
-def load_train_random(vocab, alist, raw, size, max_sequence_length_q=100, max_sequence_length_a=100):
-    x_train_1 = []
-    x_train_2 = []
-    x_train_3 = []
-    for items in raw:
-        items = raw[random.randint(0, len(raw) - 1)]
-        nega = np.random.choice(alist)
-        x_train_1.append(encode_sent(vocab, items[2], max_sequence_length_q))
-        x_train_2.append(encode_sent(vocab, items[3], max_sequence_length_a))
-        x_train_3.append(encode_sent(vocab, nega, max_sequence_length_a))
-    return np.array(x_train_1), np.array(x_train_2), np.array(x_train_3)
-
-
 def load_val_batch(testList, vocab, index, batch_size, max_sequence_length_q=100, max_sequence_length_a=100):
     x_train_1 = []
     x_train_2 = []
     x_train_3 = []
-    y_label = []
+    x_train_4 = []
     for i in range(0, batch_size):
         true_index = index + i
         if (true_index >= len(testList)):
             true_index = len(testList) - 1
         items = testList[true_index].split(' ')
-        x_train_1.append(encode_sent(vocab, items[2], max_sequence_length_q))
-        x_train_2.append(encode_sent(vocab, items[3], max_sequence_length_a))
+        x_train_1.append(encode_sent(vocab, items[1], max_sequence_length_q))
+        x_train_2.append(encode_sent(vocab, items[2], max_sequence_length_a))
         x_train_3.append(encode_sent(vocab, items[3], max_sequence_length_a))
-        y_label.append(int(items[0]))
-    return np.array(x_train_1), np.array(x_train_2), np.array(x_train_3), np.array(y_label)
+        x_train_4.append(encode_sent(vocab, items[3], max_sequence_length_a))
+    return np.array(x_train_1), np.array(x_train_2), np.array(x_train_3), np.array(x_train_4)
 
 
 def batch_iter(data, batch_size, num_epochs=1, shuffle=False):

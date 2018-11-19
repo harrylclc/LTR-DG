@@ -10,6 +10,8 @@ def recover(s, delimiter='_', unk='<a>'):
 
 
 def padding(s, max_length=100, unk='<a>', delimiter='_'):
+    if isinstance(s, str):
+        s = s.split()
     if len(s) > max_length:
         s = s[:max_length]
     else:
@@ -31,14 +33,14 @@ def load_vocab(vocab_path):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('-json', type=str, required=True, help='path to json')
-    parser.add_argument('-output', type=str, required=True, help='path to output')
-    parser.add_argument('-vocab_path', type=str, default='combine.vocab', help='path to vocabulary')
-    parser.add_argument('-max_length', type=int, default=100, help='max length of questions')
-    parser.add_argument('-max_length_dis', type=int, default=20, help='max length of distractors')
-    parser.add_argument('-delimiter', type=str, default='_')
-    parser.add_argument('-unk', type=str, default='<a>')
-    parser.add_argument('-train', type=int, default=1, help='whether is train or val/test')
+    parser.add_argument('--json', type=str, required=True, help='path to json')
+    parser.add_argument('--output', type=str, required=True, help='path to output')
+    parser.add_argument('--vocab_path', type=str, default='combine.vocab', help='path to vocabulary')
+    parser.add_argument('--max_length', type=int, default=100, help='max length of questions')
+    parser.add_argument('--max_length_dis', type=int, default=20, help='max length of distractors')
+    parser.add_argument('--delimiter', type=str, default='_')
+    parser.add_argument('--unk', type=str, default='<a>')
+    parser.add_argument('--train', type=int, default=1, help='whether is train or val/test')
     args = parser.parse_args()
 
     # Get data
@@ -63,9 +65,9 @@ if __name__ == '__main__':
                            args.unk, args.delimiter).encode('utf8')
             answer = padding(d['answer'].lower(), args.max_length_dis,
                              args.unk, args.delimiter).encode('utf8')
-            for key in ['pos_samples', 'neg_samples']:
+            for key in ['distractors', 'neg_samples']:
                 for dis in d[key]:
-                    label = 1 if key == 'pos_samples' else 0
+                    label = 1 if key == 'distractors' else 0
                     if (args.train == 1 and label == 1) or args.train != 1:
                         dis = padding(dis.lower(), max_dis_len, args.unk, args.delimiter).encode('utf8')
                         out.write('{} {} {} {}\n'.format(label, sent, answer, dis))

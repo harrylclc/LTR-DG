@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 python gan.py --dataset ../../data/mcql_processe/ \
+CUDA_VISIBLE_DEVICES=0 python gan.py --dataset ../../data/mcql_processed/ \
   --prefix distractorQA\
   --num_epochs 0\
   --batch_size 512\

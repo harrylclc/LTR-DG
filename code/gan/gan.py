@@ -1,5 +1,7 @@
 # coding=utf-8
 
+import sys
+import os
 import numpy as np
 import pickle
 import time
@@ -44,7 +46,7 @@ tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device 
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
 
 FLAGS = tf.flags.FLAGS
-FLAGS._parse_flags()
+FLAGS(sys.argv)
 assert(FLAGS.batch_size == FLAGS.pools_size)
 
 print(("\nParameters:"))
@@ -62,15 +64,17 @@ if len(FLAGS.pretrained_embeddings_path) > 0:
         pickle.dump(embd, fout)
 with open('{}/vocab.pkl'.format(FLAGS.dataset), 'wb') as fout:
     pickle.dump(vocab, fout)
-alist = data_helpers.read_alist_standalone(FLAGS.dataset, "combine.vocab", FLAGS.max_sequence_length_a, FLAGS.padding)
+alist = data_helpers.read_alist_standalone(FLAGS.dataset, "vocab.txt", FLAGS.max_sequence_length_a, FLAGS.padding)
 raw, raw_dict = data_helpers.read_raw(FLAGS.dataset)
-devList = data_helpers.loadTestSet(FLAGS.dataset, "dev")
-testList = data_helpers.loadTestSet(FLAGS.dataset, "test")
-testallList = data_helpers.loadTestSet(FLAGS.dataset, "test")  # testall
+devList = data_helpers.loadTestSet(FLAGS.dataset, "valid.data")
+testList = data_helpers.loadTestSet(FLAGS.dataset, "test.data")
+testallList = data_helpers.loadTestSet(FLAGS.dataset, "test.data")  # testall
 
 print("Load done...")
-log_precision = 'log/{}.test.gan_precision.{}'.format(FLAGS.prefix, timeStamp)
-loss_precision = 'log/{}.test.gan_loss.{}'.format(FLAGS.prefix, timeStamp)
+if not os.path.exists('./log/'):
+    os.mkdir('./log/')
+log_precision = 'log/{}.test.gan_precision.{}.log'.format(FLAGS.prefix, timeStamp)
+log_loss = 'log/{}.test.gan_loss.{}.log'.format(FLAGS.prefix, timeStamp)
 
 
 def log_time_delta(func):
@@ -314,7 +318,7 @@ def main():
             session_conf = tf.ConfigProto(allow_soft_placement=FLAGS.allow_soft_placement,
                                           log_device_placement=FLAGS.log_device_placement)
             sess = tf.Session(config=session_conf)
-            with sess.as_default(), open(log_precision, "w") as log, open(loss_precision, "w") as loss_log:
+            with sess.as_default(), open(log_precision, "w") as log, open(log_loss, "w") as loss_log:
                 # initialze or restore
                 if len(FLAGS.pretrained_model_path) == 0:
                     print('initializing model...')
