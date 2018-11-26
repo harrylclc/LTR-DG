@@ -118,7 +118,7 @@ def encode_sent(vocab, string, size):
     x = []
     words = string.split('_')
     for i in range(size):
-        if words[i] in vocab:
+        if i < len(words) and words[i] in vocab:
             x.append(vocab[words[i]])
         else:
             x.append(vocab['UNKNOWN'])

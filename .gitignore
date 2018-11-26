@@ -108,3 +108,5 @@ ENV/
 *.pkl
 *.txt
 *.log
+code/gan/log/*
+code/gan/model/*

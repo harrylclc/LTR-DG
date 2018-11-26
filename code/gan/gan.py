@@ -334,7 +334,7 @@ def main():
                     var_list = [x for x in var_list if not x.name.startswith('Dis/output/Variable')]
                     var_list = [x for x in var_list if not x.name.startswith('Gen/Variable')]
                     restore_op, feed_dict = tf.contrib.framework.assign_from_checkpoint(
-                        FLAGS.pretrained_model_path,
+                        tf.train.latest_checkpoint(FLAGS.pretrained_model_path),
                         var_list,
                         True
                     )
